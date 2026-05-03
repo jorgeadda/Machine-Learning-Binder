@@ -1,0 +1,2801 @@
+student_id,course_category,login_frequency_per_week,avg_session_minutes,course_progress_percent,assignments_completed,quiz_average_score,forum_interactions,video_watch_percent,device_type,dropout_risk
+1,Design,14,17,51,7,60.42,14,23,Desktop,Low
+2,AI & ML,8,26,1,10,77.25,33,29,Tablet,Medium
+3,Business,6,26,24,1,93.46,23,82,Desktop,Low
+4,AI & ML,5,99,12,7,69.77,32,92,Desktop,Low
+5,AI & ML,13,150,97,3,89.48,40,34,Tablet,Low
+6,Programming,4,154,50,9,64.13,40,82,Desktop,Low
+7,Business,8,175,57,9,46.14,44,38,Desktop,Medium
+8,Business,1,90,33,0,43.69,39,82,Tablet,Low
+9,Business,14,87,34,4,43.08,26,75,Mobile,High
+10,AI & ML,9,15,2,0,62.81,20,40,Desktop,Low
+11,Design,1,172,58,6,60.23,4,53,Mobile,Low
+12,Business,8,119,69,7,83.08,34,36,Tablet,Low
+13,AI & ML,4,23,47,2,84.57,20,37,Desktop,Medium
+14,Programming,9,81,63,2,43.05,3,100,Desktop,Low
+15,Design,14,152,18,6,53.27,48,85,Tablet,Low
+16,Programming,11,63,66,3,56.46,47,70,Desktop,Low
+17,Design,5,36,81,2,72.86,15,84,Mobile,Low
+18,AI & ML,3,22,72,7,48.67,30,62,Mobile,High
+19,Data Science,9,168,75,2,48.04,25,76,Tablet,Medium
+20,Design,11,172,4,6,96.63,34,29,Desktop,Medium
+21,Programming,14,69,66,1,88.25,5,56,Desktop,Medium
+22,AI & ML,14,15,10,10,50.84,32,67,Tablet,Medium
+23,Design,9,67,93,10,64.39,20,88,Mobile,Low
+24,Data Science,4,58,67,0,61.34,15,75,Mobile,Medium
+25,Data Science,11,160,68,11,87.46,46,95,Tablet,Low
+26,Business,4,171,0,5,70.61,38,55,Desktop,Low
+27,Business,12,35,90,7,47.67,33,50,Mobile,Medium
+28,Programming,8,56,91,0,84.34,41,74,Desktop,Medium
+29,Design,2,14,62,9,63.81,14,57,Mobile,Medium
+30,Design,9,29,28,11,55.78,5,92,Desktop,Medium
+31,Business,13,143,81,8,62.53,1,34,Mobile,Low
+32,Design,14,68,11,2,69.87,23,35,Desktop,Low
+33,Design,6,155,76,2,60.59,48,96,Tablet,Low
+34,Data Science,9,141,40,3,54.51,27,72,Mobile,Medium
+35,Business,8,26,1,10,63.91,0,75,Tablet,High
+36,AI & ML,7,23,36,0,41.15,0,26,Mobile,Low
+37,Business,13,22,44,8,86.35,27,76,Mobile,Low
+38,AI & ML,14,144,79,10,50.26,35,74,Mobile,Low
+39,Data Science,1,137,47,2,42.63,19,71,Desktop,High
+40,Programming,14,53,23,9,79.22,47,23,Mobile,Medium
+41,Design,12,128,98,3,86.44,7,62,Tablet,Low
+42,Data Science,3,152,21,0,88.83,0,59,Desktop,High
+43,Design,11,28,99,3,69.61,25,49,Desktop,High
+44,Programming,14,72,10,0,52.32,42,29,Mobile,Low
+45,Programming,2,172,57,4,84.23,48,26,Desktop,High
+46,Data Science,5,90,45,4,81.98,24,55,Mobile,Low
+47,Programming,5,172,28,10,54.78,9,54,Tablet,Low
+48,AI & ML,5,156,34,6,94.2,11,58,Desktop,Low
+49,Programming,4,157,14,7,46.26,40,55,Desktop,High
+50,Design,5,109,59,3,98.96,6,39,Tablet,Medium
+51,Design,3,172,94,6,91.61,11,68,Tablet,Low
+52,Design,12,169,41,3,81.27,46,78,Mobile,High
+53,Design,1,131,42,2,96.32,39,68,Desktop,Low
+54,AI & ML,5,53,79,5,83.34,16,45,Tablet,Medium
+55,Business,13,113,73,3,51.43,4,55,Desktop,Medium
+56,Data Science,9,161,48,2,66.53,13,62,Tablet,Low
+57,Design,13,70,63,8,44.29,33,62,Desktop,Low
+58,Programming,9,134,31,4,63.38,47,95,Tablet,High
+59,Design,4,154,63,6,84.5,16,52,Desktop,Low
+60,Programming,3,80,1,11,63.19,34,97,Mobile,Medium
+61,Programming,1,116,23,5,59.82,0,64,Desktop,Medium
+62,Design,2,59,86,9,75.72,49,64,Mobile,Medium
+63,AI & ML,8,74,65,4,92.33,49,34,Mobile,Low
+64,Programming,1,108,37,6,42.85,35,36,Mobile,Low
+65,Programming,8,41,30,10,63.13,14,31,Desktop,Low
+66,Design,13,173,25,5,49.49,18,41,Desktop,High
+67,Programming,7,150,28,9,81.72,41,42,Mobile,Low
+68,Programming,8,67,66,1,46.34,4,97,Tablet,Low
+69,Design,12,137,77,2,79.89,18,31,Desktop,High
+70,Design,6,151,24,1,57.17,42,87,Desktop,Medium
+71,Data Science,12,174,47,11,51.94,38,70,Desktop,Low
+72,AI & ML,14,121,64,2,96.18,4,32,Desktop,High
+73,AI & ML,9,77,52,0,41.11,11,76,Mobile,Medium
+74,Programming,3,49,66,7,66.27,18,74,Tablet,Low
+75,AI & ML,10,153,89,5,41.3,46,47,Tablet,Low
+76,Programming,4,141,17,1,69.02,11,63,Tablet,Medium
+77,Data Science,13,99,8,7,70.06,35,38,Tablet,Medium
+78,Design,6,37,37,5,59.3,11,65,Mobile,Low
+79,Design,8,105,86,6,47.93,17,22,Desktop,Low
+80,Design,5,40,20,10,62.58,48,39,Desktop,Low
+81,AI & ML,3,12,64,0,80.34,47,44,Mobile,Medium
+82,Data Science,6,145,20,6,86.94,42,94,Desktop,Low
+83,AI & ML,4,33,26,2,71.85,33,75,Mobile,Low
+84,AI & ML,9,24,69,10,75.39,47,100,Tablet,Medium
+85,Data Science,13,168,43,11,52.04,32,80,Mobile,Medium
+86,Data Science,3,54,99,7,57.24,48,74,Desktop,Medium
+87,Data Science,4,17,27,5,49.71,17,54,Desktop,Low
+88,Data Science,7,80,44,3,54.96,28,97,Desktop,Low
+89,Design,7,117,16,10,53.49,44,78,Tablet,Low
+90,Business,12,124,39,7,71.17,4,58,Mobile,High
+91,Business,12,112,2,8,73.76,24,76,Mobile,Medium
+92,Data Science,4,134,75,9,96.7,23,86,Desktop,Low
+93,Business,6,66,75,1,51.73,28,53,Mobile,Low
+94,Business,12,39,65,5,78.5,37,60,Desktop,Medium
+95,Data Science,13,155,45,4,89.04,32,41,Mobile,Medium
+96,Business,3,123,85,4,73.61,9,46,Tablet,Low
+97,AI & ML,6,126,86,9,55.3,36,40,Tablet,High
+98,Programming,12,176,29,10,55.75,32,60,Mobile,Medium
+99,Programming,2,69,68,2,42.36,22,50,Tablet,Medium
+100,Data Science,8,107,8,11,58.33,10,46,Tablet,High
+101,Design,2,135,84,7,84.68,23,56,Tablet,Medium
+102,Data Science,11,160,10,7,42.85,23,85,Desktop,Medium
+103,Design,7,103,68,11,53.16,6,73,Mobile,High
+104,Programming,9,143,98,4,82.37,49,28,Mobile,Low
+105,Data Science,1,131,90,7,86.96,20,61,Desktop,Low
+106,AI & ML,8,117,65,9,67.32,19,55,Desktop,High
+107,Business,7,13,87,7,81.88,9,29,Tablet,Medium
+108,Design,6,102,30,2,63.28,24,78,Mobile,High
+109,Business,6,160,32,1,49.59,46,59,Desktop,Low
+110,Business,6,15,38,8,63.89,35,73,Tablet,Medium
+111,Data Science,9,41,93,1,74.8,47,58,Mobile,Low
+112,Business,2,115,45,8,96.88,46,26,Tablet,Medium
+113,AI & ML,1,155,36,3,44.13,14,23,Mobile,Low
+114,Business,13,24,91,11,70.44,43,34,Tablet,Low
+115,Data Science,12,177,59,1,59.74,39,95,Mobile,Low
+116,AI & ML,6,131,30,9,70.5,39,67,Mobile,Medium
+117,Programming,10,105,10,0,41.44,49,25,Mobile,Low
+118,Business,11,15,86,3,58.78,5,92,Mobile,Low
+119,Data Science,8,121,1,8,89.19,36,54,Tablet,Low
+120,Programming,3,129,26,11,73.24,1,91,Desktop,Low
+121,Programming,12,132,98,8,67.03,11,90,Mobile,High
+122,Design,10,76,1,3,57.13,3,87,Mobile,Low
+123,AI & ML,1,115,100,8,57.88,22,77,Mobile,Low
+124,Business,9,148,20,11,62.99,12,96,Mobile,High
+125,Data Science,13,52,57,5,90.13,16,38,Tablet,Medium
+126,Design,13,154,4,0,98.03,30,81,Desktop,Medium
+127,AI & ML,1,105,51,9,66.32,15,90,Desktop,Medium
+128,Design,3,141,44,5,63.6,40,29,Desktop,High
+129,AI & ML,8,90,84,8,90.79,25,44,Tablet,Low
+130,AI & ML,14,50,92,1,65.61,27,63,Desktop,High
+131,Business,3,142,19,5,73.12,0,77,Tablet,High
+132,AI & ML,13,169,60,1,53.86,46,44,Tablet,Medium
+133,Design,4,44,37,3,84.61,11,95,Mobile,Medium
+134,AI & ML,8,31,19,7,71.92,36,59,Tablet,Medium
+135,Business,1,159,24,6,88.54,49,95,Desktop,Low
+136,Business,13,121,1,10,86.84,19,89,Desktop,Low
+137,Design,13,20,31,11,52.9,1,29,Desktop,High
+138,Programming,6,12,25,8,82.94,35,85,Mobile,Medium
+139,Programming,1,146,69,6,88.0,14,44,Mobile,Low
+140,AI & ML,14,69,40,0,60.77,37,90,Mobile,Medium
+141,Data Science,1,85,66,1,50.36,21,30,Tablet,Medium
+142,AI & ML,14,96,96,5,40.16,43,55,Desktop,Low
+143,Design,8,23,0,6,67.05,49,68,Tablet,Medium
+144,Design,11,27,50,2,61.15,31,67,Tablet,Medium
+145,Design,4,122,4,8,73.29,19,26,Desktop,Low
+146,Design,12,82,12,6,51.28,35,96,Mobile,High
+147,Design,1,32,18,5,91.58,32,70,Desktop,Low
+148,Business,10,92,11,5,55.47,14,36,Tablet,Low
+149,Programming,7,134,47,0,53.59,49,51,Tablet,Low
+150,Design,5,78,24,4,68.84,45,45,Mobile,Medium
+151,Data Science,5,56,56,9,69.93,2,41,Tablet,Low
+152,Data Science,1,125,34,2,52.91,28,32,Tablet,Low
+153,Data Science,14,39,75,6,56.31,46,31,Desktop,High
+154,Data Science,10,34,93,9,50.18,26,90,Mobile,Low
+155,Business,11,165,4,2,83.11,4,20,Desktop,Medium
+156,Data Science,6,121,97,4,86.21,30,52,Desktop,Medium
+157,Design,14,34,21,6,67.74,21,33,Desktop,High
+158,AI & ML,9,83,76,2,82.85,34,83,Tablet,Medium
+159,Data Science,9,67,56,9,84.16,6,62,Tablet,Low
+160,Business,8,103,46,1,48.3,5,77,Mobile,Low
+161,Business,5,128,53,5,97.97,25,60,Tablet,High
+162,Data Science,1,136,2,7,89.26,0,100,Mobile,High
+163,AI & ML,9,178,52,3,52.27,18,87,Desktop,Low
+164,Data Science,1,34,83,8,51.17,6,58,Desktop,Medium
+165,Business,8,87,30,11,47.54,35,20,Tablet,Low
+166,Programming,5,108,68,11,48.3,11,60,Tablet,High
+167,Design,3,125,87,7,84.89,19,64,Mobile,High
+168,Business,11,57,32,6,68.18,22,98,Tablet,High
+169,Data Science,7,19,71,6,86.98,24,100,Tablet,High
+170,Design,7,108,87,2,84.78,29,32,Tablet,High
+171,Data Science,9,20,49,5,76.28,28,90,Desktop,Low
+172,Data Science,7,94,83,4,81.18,30,28,Tablet,High
+173,Programming,13,158,15,0,41.1,17,82,Tablet,Medium
+174,Design,11,144,75,10,58.71,40,42,Desktop,High
+175,Design,14,135,76,2,78.27,18,73,Desktop,Medium
+176,Programming,3,73,38,11,40.56,3,66,Desktop,Low
+177,Business,11,11,88,0,41.98,0,58,Desktop,Medium
+178,Data Science,13,85,45,3,91.11,40,45,Tablet,Medium
+179,AI & ML,14,130,95,9,81.04,14,20,Tablet,Low
+180,Data Science,13,51,87,2,55.92,7,33,Tablet,Low
+181,Data Science,1,63,46,10,81.28,14,93,Mobile,Medium
+182,Business,8,84,43,3,87.55,14,84,Desktop,Low
+183,Data Science,12,25,8,8,58.41,49,88,Tablet,Low
+184,Programming,3,27,86,2,42.16,38,86,Tablet,Low
+185,Programming,12,99,49,11,95.97,21,68,Tablet,High
+186,Design,8,153,76,5,60.71,17,69,Desktop,Medium
+187,AI & ML,8,15,59,5,46.39,15,77,Desktop,Low
+188,Data Science,13,117,95,6,69.51,1,72,Desktop,Medium
+189,Data Science,5,57,14,8,86.11,35,76,Tablet,Medium
+190,Business,13,51,35,11,53.3,19,37,Desktop,Low
+191,Programming,12,85,62,6,56.17,15,35,Tablet,Low
+192,AI & ML,13,86,68,0,54.56,2,21,Mobile,Medium
+193,Design,1,141,85,7,99.5,29,32,Desktop,Low
+194,Programming,13,139,79,4,51.84,1,64,Desktop,Medium
+195,Design,10,68,40,8,74.53,34,99,Tablet,Low
+196,Business,7,164,73,9,95.52,25,91,Desktop,Low
+197,Business,12,36,23,11,48.81,4,62,Desktop,High
+198,Data Science,10,88,81,4,98.25,1,91,Tablet,Low
+199,AI & ML,5,81,48,4,96.85,19,73,Tablet,Medium
+200,Design,8,16,17,11,93.07,33,93,Tablet,Low
+201,Programming,9,120,6,11,52.87,33,50,Mobile,Low
+202,Business,11,128,3,1,78.04,19,95,Tablet,Low
+203,Data Science,14,72,89,11,85.65,49,28,Desktop,Low
+204,Data Science,7,133,68,10,99.16,24,92,Mobile,Low
+205,Design,14,21,59,2,50.83,19,67,Tablet,Low
+206,Business,13,150,54,9,85.96,24,37,Mobile,Medium
+207,AI & ML,7,52,15,8,60.33,13,30,Mobile,Medium
+208,Business,1,26,98,6,50.54,46,81,Desktop,Low
+209,Design,4,72,89,0,65.28,43,38,Mobile,High
+210,Design,2,129,81,2,87.63,42,93,Tablet,Low
+211,Business,2,45,28,11,67.89,42,43,Mobile,Low
+212,Design,2,17,22,1,72.25,38,32,Mobile,Medium
+213,Business,4,78,13,0,99.71,11,65,Desktop,Low
+214,Programming,14,99,78,8,63.95,47,72,Desktop,Low
+215,Business,1,45,48,7,76.92,4,48,Tablet,Low
+216,Business,4,37,32,4,61.91,1,55,Desktop,High
+217,Design,2,127,24,10,63.57,15,90,Tablet,Medium
+218,Design,5,102,20,11,81.74,29,36,Tablet,Low
+219,Data Science,3,85,16,1,96.27,46,67,Desktop,Low
+220,Data Science,12,110,22,0,72.54,42,96,Mobile,High
+221,Programming,8,167,56,6,86.1,37,43,Desktop,Medium
+222,Data Science,4,160,80,10,45.35,44,73,Mobile,Low
+223,Business,1,153,57,10,52.67,41,20,Mobile,Low
+224,Design,1,23,13,1,70.13,23,98,Tablet,Low
+225,Data Science,12,80,92,0,41.2,29,86,Tablet,Medium
+226,Data Science,10,133,19,1,55.17,36,25,Desktop,High
+227,Programming,3,134,29,6,71.04,38,97,Mobile,Low
+228,Programming,9,46,18,6,40.9,10,74,Desktop,Low
+229,Business,7,38,52,9,55.87,13,57,Tablet,High
+230,Design,2,152,55,5,70.84,22,52,Mobile,Medium
+231,Programming,13,28,76,4,74.39,15,27,Desktop,Medium
+232,Data Science,9,115,81,2,95.55,49,98,Desktop,Low
+233,Design,10,30,22,11,78.72,20,97,Tablet,Medium
+234,Design,2,73,61,2,64.88,3,39,Tablet,Medium
+235,Data Science,3,174,32,10,95.82,32,74,Tablet,Low
+236,Programming,11,36,17,11,87.09,46,67,Tablet,High
+237,Data Science,13,64,72,8,52.0,13,75,Desktop,High
+238,Design,10,38,32,3,47.85,18,29,Tablet,Medium
+239,AI & ML,14,157,31,8,80.55,4,71,Tablet,Medium
+240,AI & ML,2,34,60,3,73.59,35,69,Desktop,Low
+241,Business,3,79,53,1,87.38,30,53,Desktop,Low
+242,Data Science,6,72,16,3,84.33,44,55,Mobile,Low
+243,Data Science,9,173,18,5,77.51,17,80,Desktop,Medium
+244,Business,9,139,90,5,99.18,43,35,Mobile,Low
+245,Business,7,159,69,4,72.02,30,98,Tablet,High
+246,Business,12,25,98,0,46.79,29,37,Mobile,Low
+247,Design,3,155,100,2,89.7,20,90,Mobile,Medium
+248,Data Science,4,109,33,4,55.11,46,66,Tablet,Medium
+249,Design,6,39,83,5,86.64,29,51,Tablet,Medium
+250,Business,11,54,24,0,97.43,40,62,Tablet,High
+251,Data Science,5,28,67,8,81.81,3,59,Mobile,High
+252,Design,2,43,73,2,75.76,4,84,Desktop,Low
+253,Design,13,150,73,9,67.62,40,54,Desktop,Low
+254,Business,6,71,87,2,61.86,44,88,Desktop,Low
+255,Data Science,3,127,84,10,61.18,9,69,Tablet,Medium
+256,Business,14,109,10,1,78.18,26,31,Tablet,Low
+257,Data Science,8,31,90,7,85.08,15,95,Desktop,Medium
+258,AI & ML,2,120,15,2,80.71,29,77,Tablet,Low
+259,Programming,1,173,89,5,51.9,12,82,Mobile,Medium
+260,Programming,9,82,60,1,69.64,35,92,Mobile,Medium
+261,Programming,14,156,93,6,87.5,20,68,Tablet,Medium
+262,Business,12,47,79,3,68.54,44,55,Desktop,Medium
+263,AI & ML,3,79,6,8,72.2,39,73,Desktop,Low
+264,Data Science,11,125,15,9,86.27,44,66,Mobile,Low
+265,Design,1,88,98,8,79.68,14,51,Tablet,Medium
+266,Data Science,7,157,15,6,64.56,19,72,Desktop,Low
+267,Design,13,18,39,11,93.72,19,51,Desktop,High
+268,Data Science,10,41,11,7,49.75,44,81,Tablet,High
+269,AI & ML,5,141,34,2,99.73,4,56,Tablet,High
+270,Design,5,59,20,10,47.13,31,57,Desktop,Low
+271,Business,14,91,49,4,40.9,5,49,Tablet,Medium
+272,Data Science,1,14,42,1,93.4,29,77,Tablet,Low
+273,Data Science,9,157,99,9,54.7,25,51,Tablet,Low
+274,Design,7,96,16,6,83.78,36,85,Desktop,Low
+275,Business,8,135,31,7,88.66,12,70,Mobile,Low
+276,Business,9,84,40,8,91.54,28,30,Tablet,Low
+277,AI & ML,6,174,5,10,99.5,4,78,Desktop,Low
+278,Business,12,31,87,10,57.64,24,39,Mobile,High
+279,Business,5,77,26,6,82.61,12,56,Desktop,Low
+280,Business,6,53,19,9,46.92,23,92,Desktop,High
+281,Programming,11,43,24,9,64.41,30,68,Desktop,Low
+282,AI & ML,2,86,65,7,90.88,19,38,Mobile,Low
+283,Data Science,4,51,8,11,62.06,7,74,Desktop,Medium
+284,Design,3,146,91,8,75.47,8,59,Mobile,Medium
+285,Data Science,13,115,52,5,70.23,20,26,Tablet,Low
+286,AI & ML,7,104,60,11,78.76,19,24,Mobile,Low
+287,Design,9,144,37,11,98.37,14,61,Desktop,Low
+288,AI & ML,5,77,2,9,43.34,25,67,Mobile,Low
+289,Business,6,156,83,1,74.44,41,26,Desktop,Medium
+290,Design,10,168,69,1,91.78,10,30,Tablet,Medium
+291,Business,14,137,96,3,68.88,36,92,Mobile,Low
+292,Data Science,12,172,54,8,44.71,40,68,Tablet,High
+293,Data Science,12,94,0,6,73.63,10,49,Mobile,Low
+294,Design,2,168,100,1,59.92,26,60,Desktop,Medium
+295,Design,3,92,69,7,49.3,29,22,Mobile,Medium
+296,AI & ML,3,104,44,10,90.94,18,59,Tablet,High
+297,AI & ML,12,41,97,6,71.3,33,70,Mobile,Low
+298,Business,12,75,46,8,96.0,37,51,Tablet,Medium
+299,Design,9,125,78,7,88.36,22,67,Tablet,Low
+300,Data Science,7,147,25,2,81.58,0,90,Desktop,Medium
+301,AI & ML,8,139,13,0,40.3,2,90,Mobile,Low
+302,AI & ML,11,69,53,1,65.67,2,39,Tablet,Low
+303,Data Science,10,26,70,1,51.85,27,54,Desktop,High
+304,AI & ML,11,105,45,3,94.65,13,43,Desktop,Low
+305,Business,9,153,30,5,50.48,29,59,Desktop,High
+306,Design,6,25,87,3,57.16,4,96,Tablet,High
+307,Data Science,4,55,58,8,71.01,48,71,Mobile,Medium
+308,Design,12,176,94,3,55.8,14,58,Tablet,Low
+309,AI & ML,1,168,28,5,52.59,37,87,Desktop,Low
+310,AI & ML,8,116,95,5,75.95,13,80,Tablet,High
+311,Data Science,7,97,16,9,45.34,13,95,Tablet,Low
+312,Business,2,138,13,10,43.49,48,100,Desktop,Medium
+313,Programming,8,148,35,9,62.33,7,84,Mobile,Medium
+314,Data Science,12,128,57,0,83.24,7,81,Desktop,High
+315,Programming,5,94,23,7,73.29,18,100,Desktop,Medium
+316,Programming,7,13,62,11,65.37,31,21,Tablet,Medium
+317,Business,4,80,90,2,73.95,30,25,Desktop,Low
+318,Programming,5,163,24,5,61.93,28,94,Tablet,Low
+319,Programming,8,120,58,2,96.17,40,62,Desktop,Low
+320,Business,1,59,31,10,43.29,10,59,Desktop,High
+321,Programming,1,149,81,1,80.4,44,58,Mobile,Medium
+322,Programming,4,104,17,4,93.48,12,47,Desktop,Medium
+323,Programming,3,101,36,0,88.23,26,99,Mobile,Medium
+324,Data Science,13,74,25,8,51.04,18,82,Desktop,Medium
+325,Data Science,10,56,8,10,57.76,25,83,Desktop,Low
+326,Data Science,12,115,98,6,83.02,36,31,Desktop,Low
+327,Business,2,139,63,2,45.06,47,60,Mobile,Low
+328,AI & ML,12,115,71,3,88.71,8,48,Tablet,Medium
+329,Programming,3,33,19,5,83.13,27,42,Mobile,Low
+330,Programming,11,13,53,2,83.78,31,99,Desktop,Medium
+331,Business,11,117,85,11,46.01,2,70,Tablet,Medium
+332,Programming,14,28,82,6,83.07,31,64,Desktop,Low
+333,Data Science,11,163,29,5,80.79,4,41,Mobile,Low
+334,AI & ML,1,49,52,8,89.86,7,29,Mobile,Low
+335,Design,1,59,91,11,42.5,13,26,Tablet,Low
+336,Programming,6,84,98,4,41.39,2,92,Mobile,Medium
+337,Data Science,5,21,62,3,62.38,23,34,Desktop,Low
+338,Design,8,36,10,2,48.93,12,96,Tablet,High
+339,AI & ML,2,122,30,9,73.5,42,65,Desktop,Medium
+340,Design,4,58,48,0,95.04,28,80,Tablet,Low
+341,Data Science,8,153,99,2,63.49,7,80,Tablet,Medium
+342,Design,12,139,93,2,90.7,41,70,Desktop,Medium
+343,Business,6,69,86,6,40.01,30,57,Mobile,Medium
+344,Design,1,39,18,6,50.11,25,31,Desktop,Low
+345,Programming,4,93,11,11,41.83,17,96,Mobile,Low
+346,Programming,1,175,14,0,59.69,17,85,Mobile,Low
+347,Business,13,37,30,2,94.49,6,73,Desktop,Low
+348,Data Science,2,34,42,7,45.82,47,58,Tablet,Medium
+349,Programming,5,105,100,8,76.38,37,95,Desktop,Medium
+350,AI & ML,14,134,36,6,67.09,47,58,Tablet,High
+351,Programming,8,19,78,6,96.31,15,97,Mobile,Low
+352,Programming,8,51,28,11,47.35,32,49,Tablet,Low
+353,Data Science,11,49,25,10,52.72,2,67,Desktop,Medium
+354,Design,3,86,1,7,41.77,37,50,Tablet,Low
+355,Programming,11,114,83,5,66.04,3,44,Mobile,Low
+356,Business,13,127,14,10,56.67,35,87,Mobile,Medium
+357,Design,4,51,3,2,92.19,3,70,Tablet,Low
+358,AI & ML,10,56,85,0,76.3,41,32,Mobile,Medium
+359,Data Science,11,174,49,6,76.85,8,82,Mobile,Low
+360,AI & ML,14,31,37,0,71.91,39,61,Tablet,Medium
+361,Design,6,116,22,0,45.51,16,73,Mobile,High
+362,Design,11,36,58,8,66.7,16,86,Tablet,Low
+363,Design,11,50,89,9,99.97,32,99,Tablet,High
+364,AI & ML,10,89,74,6,90.11,19,75,Mobile,Medium
+365,Design,3,171,27,10,93.61,13,38,Tablet,High
+366,AI & ML,2,169,65,3,89.39,21,65,Mobile,Low
+367,Design,6,98,7,5,46.18,26,34,Mobile,Medium
+368,Business,11,75,28,0,53.65,42,51,Mobile,Low
+369,Design,13,21,10,6,40.19,2,68,Desktop,Medium
+370,AI & ML,5,177,100,11,58.21,23,40,Mobile,Medium
+371,Programming,14,82,17,5,46.52,29,84,Tablet,Low
+372,Design,10,85,54,3,68.37,7,89,Tablet,High
+373,Programming,5,99,49,6,80.63,21,46,Tablet,Low
+374,Business,10,19,13,2,92.47,24,42,Desktop,Low
+375,Data Science,13,105,73,0,84.95,9,66,Desktop,Medium
+376,Business,5,29,98,3,96.32,48,31,Tablet,Medium
+377,Design,10,48,8,2,43.23,28,85,Tablet,Low
+378,Programming,12,69,98,0,40.73,39,24,Desktop,Low
+379,Programming,5,75,10,1,79.68,0,28,Tablet,High
+380,AI & ML,3,74,62,10,57.36,20,39,Mobile,Medium
+381,Programming,7,133,75,4,55.21,38,82,Mobile,Low
+382,AI & ML,6,173,66,7,59.85,23,91,Tablet,Low
+383,Data Science,4,161,52,0,56.19,8,92,Mobile,High
+384,Design,2,164,38,3,70.69,43,90,Tablet,Medium
+385,AI & ML,12,139,77,3,66.41,25,49,Desktop,High
+386,Data Science,9,168,55,4,70.75,8,35,Tablet,Low
+387,Programming,1,66,27,6,80.36,19,24,Desktop,Medium
+388,Programming,13,87,74,11,63.23,34,48,Mobile,Medium
+389,Data Science,13,38,38,7,55.08,35,66,Mobile,Low
+390,Programming,11,24,24,5,49.97,41,41,Mobile,Medium
+391,Data Science,14,21,20,0,60.97,35,97,Tablet,Medium
+392,AI & ML,4,110,9,6,84.51,8,76,Desktop,Low
+393,AI & ML,1,165,42,2,85.4,21,54,Desktop,High
+394,Data Science,13,93,14,5,80.01,0,79,Mobile,High
+395,AI & ML,6,134,82,7,54.04,4,89,Mobile,High
+396,AI & ML,4,112,47,6,75.29,8,79,Desktop,High
+397,AI & ML,5,33,85,9,74.24,36,77,Tablet,Low
+398,Business,5,158,20,5,69.06,37,22,Mobile,Low
+399,Design,9,147,59,8,73.0,18,53,Tablet,High
+400,Programming,1,119,95,8,69.51,7,64,Mobile,Low
+401,Business,13,87,49,0,73.93,41,69,Mobile,Low
+402,AI & ML,2,110,22,0,82.93,42,21,Tablet,Medium
+403,Data Science,13,155,12,0,46.58,31,34,Tablet,Low
+404,AI & ML,6,151,68,7,84.98,12,56,Tablet,Medium
+405,Design,5,171,3,11,48.15,19,34,Tablet,Low
+406,AI & ML,11,137,91,11,44.0,35,79,Desktop,Low
+407,Data Science,7,67,77,9,98.56,42,83,Desktop,High
+408,Design,3,85,71,6,97.42,43,100,Mobile,Medium
+409,AI & ML,3,159,8,2,43.63,36,71,Mobile,Medium
+410,Design,10,45,34,1,66.6,29,42,Mobile,Medium
+411,Programming,2,173,100,3,51.17,9,56,Desktop,High
+412,Programming,13,31,20,2,69.12,30,60,Tablet,Medium
+413,AI & ML,3,136,57,6,89.81,24,76,Mobile,Medium
+414,Design,10,89,17,9,97.04,28,44,Desktop,High
+415,Data Science,1,109,96,7,78.06,23,56,Mobile,Low
+416,AI & ML,5,105,71,5,61.23,38,59,Desktop,High
+417,Programming,14,170,80,2,76.2,20,65,Tablet,Low
+418,Programming,12,173,42,5,58.72,40,79,Desktop,Medium
+419,AI & ML,5,157,94,1,94.59,8,38,Tablet,Low
+420,Design,12,27,97,11,92.22,41,28,Mobile,Medium
+421,Programming,11,47,5,6,73.49,41,88,Tablet,Medium
+422,Design,7,160,85,10,59.49,1,24,Desktop,High
+423,Programming,4,118,77,9,57.6,3,45,Mobile,High
+424,Programming,3,132,66,6,42.01,7,38,Mobile,High
+425,Business,1,153,11,3,88.95,31,49,Desktop,Low
+426,Programming,12,158,99,7,67.02,13,67,Tablet,High
+427,Data Science,8,113,11,3,59.51,48,35,Desktop,Low
+428,AI & ML,13,149,65,6,68.27,12,90,Tablet,High
+429,AI & ML,3,153,1,3,89.12,20,37,Tablet,Low
+430,Design,13,90,14,11,47.48,23,75,Mobile,Medium
+431,Programming,2,96,22,4,91.46,49,40,Tablet,High
+432,Data Science,11,151,28,6,93.85,17,50,Mobile,High
+433,Design,4,70,80,9,96.8,44,20,Desktop,Medium
+434,Business,3,55,95,2,63.85,39,22,Desktop,Medium
+435,Design,13,41,6,9,53.03,25,44,Mobile,Low
+436,Design,1,24,93,4,62.42,31,27,Mobile,Medium
+437,Programming,3,53,27,10,59.97,43,84,Tablet,Medium
+438,Business,12,154,13,2,50.57,32,81,Mobile,Low
+439,Design,2,178,43,4,76.44,30,26,Desktop,Low
+440,Data Science,8,63,29,2,68.6,17,26,Mobile,Low
+441,Data Science,6,53,80,10,91.94,34,27,Mobile,Medium
+442,AI & ML,9,107,31,9,41.93,11,38,Mobile,Low
+443,Business,8,14,69,10,78.63,24,36,Tablet,Low
+444,Business,10,118,87,6,85.78,44,30,Mobile,Low
+445,AI & ML,3,36,5,0,85.57,30,68,Tablet,Medium
+446,Design,5,125,26,8,93.16,9,30,Tablet,Medium
+447,Business,7,96,81,8,83.74,46,60,Mobile,Medium
+448,Data Science,5,113,87,4,95.67,33,81,Tablet,Medium
+449,Data Science,8,132,100,8,59.96,2,71,Mobile,Low
+450,Programming,12,88,23,9,70.19,45,85,Desktop,Low
+451,Business,5,52,33,5,40.84,38,87,Desktop,High
+452,Design,1,106,39,4,40.42,7,94,Tablet,Low
+453,AI & ML,5,40,46,2,54.41,31,86,Desktop,Low
+454,AI & ML,4,108,78,10,46.05,42,59,Mobile,Medium
+455,Design,6,26,74,10,55.61,28,24,Tablet,Low
+456,Programming,3,92,85,7,50.62,21,41,Mobile,High
+457,AI & ML,11,119,23,3,41.71,19,56,Tablet,Low
+458,Business,5,41,64,9,94.56,5,30,Tablet,Medium
+459,Programming,2,177,17,2,40.49,42,63,Tablet,Low
+460,Business,11,150,43,5,84.16,48,72,Tablet,Low
+461,Data Science,6,44,75,7,49.13,28,96,Desktop,Low
+462,Programming,13,142,56,8,94.73,41,80,Desktop,High
+463,AI & ML,12,38,27,5,93.57,16,86,Desktop,High
+464,Programming,6,79,70,4,79.23,30,32,Tablet,Low
+465,Programming,5,162,22,11,80.33,33,30,Desktop,High
+466,Programming,6,104,84,10,40.32,37,30,Tablet,Medium
+467,Programming,11,31,33,1,99.09,36,26,Desktop,High
+468,Business,7,78,10,1,92.67,3,36,Tablet,High
+469,Data Science,12,98,85,8,93.71,1,67,Desktop,Low
+470,Design,5,81,34,1,79.55,11,33,Desktop,Medium
+471,Programming,1,138,92,1,60.69,34,82,Desktop,Medium
+472,AI & ML,8,96,41,2,93.62,5,83,Tablet,Low
+473,Programming,4,105,27,2,57.49,45,94,Tablet,Low
+474,AI & ML,9,84,81,3,73.76,7,96,Desktop,High
+475,Business,14,176,77,6,45.98,20,84,Tablet,High
+476,AI & ML,10,63,81,8,95.32,45,53,Mobile,Medium
+477,Design,12,97,91,1,48.45,34,28,Desktop,High
+478,Data Science,6,166,23,3,53.49,47,96,Desktop,High
+479,AI & ML,1,63,7,8,73.49,14,56,Mobile,Low
+480,AI & ML,3,25,52,1,85.85,6,49,Tablet,Low
+481,Data Science,3,108,71,9,77.16,14,60,Tablet,Low
+482,Design,10,29,3,10,53.93,44,64,Tablet,Low
+483,Programming,12,55,90,0,40.06,5,66,Desktop,Low
+484,AI & ML,12,136,99,9,85.43,46,26,Desktop,Medium
+485,Data Science,4,67,4,7,99.11,16,33,Desktop,High
+486,Business,6,120,96,8,88.59,3,67,Desktop,High
+487,Data Science,7,138,48,6,67.61,21,25,Desktop,Medium
+488,Business,10,90,97,7,94.23,31,53,Tablet,High
+489,Design,4,166,29,3,64.59,21,99,Mobile,Medium
+490,Programming,6,93,71,3,71.5,26,65,Tablet,High
+491,Data Science,11,79,62,1,68.63,45,78,Tablet,Low
+492,AI & ML,1,17,46,7,66.86,14,89,Desktop,Low
+493,Design,14,38,25,10,86.51,43,27,Mobile,High
+494,Data Science,8,121,56,1,71.61,21,43,Mobile,Low
+495,AI & ML,7,170,36,8,59.0,27,86,Tablet,Medium
+496,Data Science,11,140,97,3,55.49,41,23,Mobile,Low
+497,Business,11,172,6,0,42.26,37,20,Tablet,Medium
+498,Data Science,9,117,39,3,74.99,8,53,Tablet,High
+499,Data Science,3,118,91,2,53.8,33,28,Tablet,Low
+500,Data Science,2,29,38,11,48.89,35,82,Tablet,High
+501,Design,1,82,61,5,79.23,8,95,Desktop,Low
+502,Data Science,3,176,91,6,80.87,14,29,Mobile,Low
+503,AI & ML,5,13,77,7,85.13,44,29,Desktop,Low
+504,Business,14,28,52,1,70.21,19,69,Desktop,Medium
+505,Business,11,111,3,5,93.64,7,63,Desktop,Low
+506,Data Science,2,150,81,5,96.18,27,67,Tablet,Medium
+507,Design,12,150,24,9,88.44,18,25,Tablet,Low
+508,Design,3,95,6,11,78.14,15,43,Desktop,Low
+509,AI & ML,4,61,27,4,58.22,10,77,Desktop,Medium
+510,Data Science,7,120,68,9,98.98,41,83,Mobile,Low
+511,Business,13,118,66,9,56.45,7,75,Desktop,Low
+512,Design,3,95,94,6,52.16,32,31,Tablet,Low
+513,Data Science,9,52,19,2,66.53,9,54,Desktop,Medium
+514,Design,8,51,82,3,43.41,17,90,Mobile,Medium
+515,Design,4,99,10,9,98.71,34,25,Mobile,Low
+516,Business,13,124,66,8,75.31,42,84,Desktop,Low
+517,Programming,1,35,86,3,73.42,49,99,Mobile,Low
+518,AI & ML,1,160,6,2,79.35,2,79,Mobile,Low
+519,AI & ML,1,52,22,1,69.82,39,87,Tablet,High
+520,Business,1,86,60,4,41.92,26,48,Mobile,Medium
+521,Design,8,165,70,3,76.74,27,57,Mobile,Medium
+522,Data Science,3,146,33,7,82.97,45,41,Desktop,Low
+523,Design,6,29,18,6,65.0,5,27,Tablet,Medium
+524,Business,3,48,57,5,85.44,46,82,Mobile,High
+525,AI & ML,11,21,8,10,53.62,13,32,Desktop,Medium
+526,Design,5,20,47,11,53.28,6,46,Desktop,Medium
+527,AI & ML,13,163,81,1,49.69,9,37,Desktop,Medium
+528,Data Science,14,51,40,2,62.32,14,37,Desktop,Medium
+529,AI & ML,13,164,47,9,90.82,30,96,Desktop,Low
+530,AI & ML,7,20,44,8,89.67,28,81,Desktop,Medium
+531,Programming,2,47,24,8,62.97,41,33,Mobile,Low
+532,Programming,6,107,77,4,75.35,16,30,Tablet,Medium
+533,Programming,13,28,24,2,83.25,28,36,Tablet,High
+534,AI & ML,6,143,18,1,54.47,48,70,Desktop,High
+535,Business,11,125,38,7,50.09,43,33,Desktop,Low
+536,AI & ML,3,122,78,5,98.33,14,76,Tablet,Low
+537,Business,6,179,79,9,77.05,25,25,Mobile,Low
+538,Business,10,74,26,10,98.88,11,76,Desktop,Medium
+539,Programming,10,108,73,11,60.27,24,23,Tablet,High
+540,Design,14,81,62,6,82.18,40,30,Tablet,Medium
+541,Data Science,5,61,67,0,53.36,4,93,Desktop,Low
+542,Programming,12,127,18,0,55.67,3,30,Tablet,High
+543,Programming,2,129,27,9,70.71,43,98,Mobile,High
+544,Design,9,16,84,1,59.18,47,27,Tablet,Low
+545,Data Science,8,20,77,9,50.06,40,78,Desktop,Medium
+546,AI & ML,3,112,32,2,55.77,30,40,Desktop,Medium
+547,AI & ML,8,70,9,11,42.14,2,84,Tablet,Medium
+548,Programming,14,77,82,0,82.27,2,43,Tablet,High
+549,Data Science,9,162,29,4,69.53,25,49,Desktop,Low
+550,Programming,14,149,21,2,45.65,49,76,Mobile,Medium
+551,Business,3,163,2,0,50.3,16,99,Tablet,Medium
+552,Programming,3,111,100,7,46.15,9,92,Mobile,High
+553,Programming,2,119,81,11,76.76,1,36,Mobile,High
+554,AI & ML,8,149,74,10,45.65,23,78,Desktop,High
+555,AI & ML,10,60,47,5,85.26,10,50,Desktop,Medium
+556,AI & ML,1,126,1,8,41.23,23,83,Desktop,High
+557,Business,8,174,75,2,54.96,34,67,Mobile,Low
+558,AI & ML,7,55,53,8,93.44,22,42,Desktop,Low
+559,Data Science,14,62,5,8,83.11,31,89,Desktop,Low
+560,Design,7,97,39,11,44.38,22,49,Mobile,High
+561,Data Science,3,130,92,11,89.27,33,74,Mobile,High
+562,Data Science,1,22,93,0,69.58,40,26,Mobile,Low
+563,AI & ML,4,98,1,2,90.81,18,94,Mobile,Low
+564,Design,9,134,72,5,76.04,1,31,Tablet,High
+565,Design,5,127,1,7,80.91,1,79,Desktop,Medium
+566,Design,1,63,92,3,99.61,14,71,Tablet,High
+567,Business,5,125,96,4,53.94,20,46,Mobile,Low
+568,AI & ML,13,127,73,8,77.44,34,31,Mobile,Low
+569,Design,8,13,97,5,67.62,4,32,Mobile,Low
+570,Business,8,84,54,11,42.37,42,91,Mobile,Low
+571,Programming,5,58,71,6,40.87,26,99,Mobile,Low
+572,Programming,12,16,100,6,47.15,23,81,Desktop,Low
+573,Business,9,119,59,3,78.95,6,48,Tablet,Low
+574,Business,1,131,96,3,74.03,5,54,Tablet,Low
+575,AI & ML,4,20,5,3,73.21,45,79,Desktop,High
+576,AI & ML,3,101,18,10,41.91,32,48,Desktop,Low
+577,Programming,2,32,95,4,68.16,48,50,Desktop,Low
+578,Design,8,37,26,4,95.48,16,96,Tablet,High
+579,Programming,7,120,0,7,63.86,45,95,Tablet,Medium
+580,Design,9,66,32,8,77.5,41,80,Mobile,Medium
+581,Design,2,35,39,1,86.79,29,21,Tablet,Medium
+582,AI & ML,14,162,31,10,87.04,7,52,Tablet,High
+583,Data Science,14,63,68,6,71.16,39,91,Desktop,High
+584,Data Science,4,38,16,0,91.48,45,81,Tablet,Medium
+585,Business,14,106,7,0,63.48,6,78,Mobile,High
+586,AI & ML,6,173,56,3,93.32,5,59,Tablet,Medium
+587,Design,11,23,41,9,54.41,3,68,Desktop,Low
+588,Data Science,3,87,97,6,56.81,0,51,Desktop,High
+589,Design,8,44,8,1,43.19,14,57,Mobile,Medium
+590,Data Science,3,39,86,10,87.73,30,98,Mobile,High
+591,Data Science,14,101,34,1,65.02,24,32,Tablet,Low
+592,Data Science,12,26,70,0,53.75,46,73,Mobile,Low
+593,AI & ML,13,167,78,9,53.91,32,95,Mobile,High
+594,Programming,13,102,52,1,94.08,34,32,Desktop,Low
+595,Design,2,88,53,6,90.03,4,58,Desktop,High
+596,AI & ML,13,119,83,8,73.21,4,42,Tablet,High
+597,AI & ML,13,111,24,5,76.97,35,33,Tablet,High
+598,AI & ML,3,115,66,9,68.46,16,36,Tablet,Medium
+599,AI & ML,11,56,61,1,63.5,13,43,Tablet,Medium
+600,AI & ML,6,73,54,11,94.93,28,77,Desktop,High
+601,Business,2,175,45,9,47.54,7,82,Tablet,Medium
+602,Design,8,73,23,9,65.11,33,53,Tablet,Medium
+603,AI & ML,1,96,97,8,60.67,39,70,Mobile,High
+604,Design,7,16,45,6,69.89,0,29,Tablet,Medium
+605,Business,2,31,21,10,67.46,28,91,Mobile,High
+606,Business,10,90,10,0,71.13,35,40,Desktop,Low
+607,Design,12,178,47,11,48.4,36,56,Tablet,Low
+608,Data Science,6,83,7,8,70.79,28,26,Mobile,Low
+609,Programming,12,147,38,1,54.55,4,32,Tablet,Low
+610,Data Science,2,144,34,3,51.06,31,99,Mobile,Medium
+611,Data Science,2,134,48,8,43.89,23,49,Tablet,Low
+612,Data Science,10,59,45,3,85.76,18,50,Desktop,High
+613,AI & ML,13,61,37,2,65.65,11,24,Desktop,Low
+614,Business,8,170,7,0,77.6,0,51,Mobile,Low
+615,Data Science,12,10,53,6,83.66,6,35,Mobile,Low
+616,Business,2,171,36,5,80.76,16,92,Desktop,Medium
+617,Design,7,13,90,9,68.23,33,41,Tablet,Low
+618,Programming,3,154,91,3,63.27,42,83,Mobile,Low
+619,Design,8,141,39,5,62.56,6,63,Desktop,Medium
+620,Design,7,13,33,5,78.4,16,59,Mobile,Low
+621,AI & ML,14,10,95,3,69.69,2,56,Desktop,Low
+622,Programming,8,80,78,5,90.95,28,97,Desktop,Medium
+623,Design,14,44,16,9,92.48,21,35,Mobile,Low
+624,Design,7,17,32,10,50.23,37,62,Mobile,Low
+625,Programming,11,161,46,7,48.17,42,82,Desktop,Low
+626,Programming,6,45,51,2,77.82,28,34,Tablet,Low
+627,Design,13,132,79,3,58.07,49,63,Desktop,Medium
+628,Programming,7,52,92,9,41.11,49,28,Tablet,Low
+629,Design,5,36,8,11,93.32,41,84,Tablet,High
+630,Design,7,41,32,0,53.61,4,63,Tablet,High
+631,AI & ML,1,87,59,3,95.76,29,39,Mobile,Low
+632,Data Science,1,130,92,10,83.05,22,89,Desktop,High
+633,Design,9,155,76,9,85.76,20,93,Desktop,Low
+634,Business,14,165,20,9,52.09,25,52,Tablet,Low
+635,Data Science,5,166,57,11,54.05,46,99,Tablet,Low
+636,Data Science,13,25,84,8,71.28,20,25,Tablet,Low
+637,Data Science,5,108,68,7,50.33,19,50,Desktop,Medium
+638,AI & ML,3,56,9,10,58.33,22,85,Tablet,Low
+639,Design,5,40,5,3,59.29,3,37,Desktop,High
+640,AI & ML,3,13,12,11,49.58,20,47,Desktop,Medium
+641,Design,9,174,64,6,52.31,20,87,Mobile,Low
+642,AI & ML,9,26,19,9,87.31,0,84,Tablet,Medium
+643,AI & ML,6,48,56,2,50.03,14,99,Tablet,High
+644,Business,1,57,45,8,41.71,16,64,Tablet,Low
+645,AI & ML,7,48,7,9,77.76,13,77,Mobile,Low
+646,Programming,7,141,9,3,98.56,18,66,Tablet,Low
+647,Business,14,39,72,1,59.87,49,85,Desktop,Low
+648,AI & ML,10,167,66,9,47.12,33,71,Tablet,Medium
+649,Data Science,10,31,10,4,74.22,5,55,Desktop,Low
+650,Programming,4,75,11,1,94.38,44,20,Desktop,Medium
+651,Programming,8,117,9,9,87.04,48,58,Desktop,Medium
+652,Programming,6,21,24,5,77.35,5,94,Desktop,Medium
+653,Business,4,45,48,10,58.9,4,20,Tablet,Low
+654,AI & ML,4,27,48,9,72.51,6,94,Mobile,Low
+655,AI & ML,2,99,88,0,45.47,32,93,Mobile,Low
+656,Data Science,14,10,10,5,80.74,12,33,Desktop,Low
+657,Data Science,2,136,61,3,83.51,0,97,Tablet,High
+658,Programming,12,99,35,2,97.9,12,90,Mobile,Low
+659,Data Science,14,96,38,1,55.62,42,42,Tablet,Low
+660,Business,4,99,52,6,41.11,26,62,Mobile,Low
+661,AI & ML,5,143,89,8,72.74,6,41,Desktop,High
+662,Programming,8,79,77,11,82.41,2,79,Desktop,Medium
+663,Data Science,6,53,55,2,87.42,24,46,Desktop,Medium
+664,Business,14,161,0,5,51.62,32,75,Mobile,Low
+665,Business,4,95,55,8,55.71,39,21,Tablet,Low
+666,Data Science,13,28,3,1,70.76,16,58,Desktop,Medium
+667,AI & ML,11,110,29,6,59.84,44,70,Tablet,High
+668,Data Science,7,155,11,4,91.63,13,38,Tablet,Medium
+669,Programming,8,104,34,4,68.43,36,81,Desktop,Medium
+670,Data Science,2,110,76,10,87.97,22,90,Mobile,Low
+671,Business,12,39,51,6,74.84,23,95,Desktop,Low
+672,Data Science,7,179,30,8,86.39,28,86,Desktop,High
+673,AI & ML,14,42,86,3,59.96,37,82,Mobile,Low
+674,Design,2,21,67,8,89.88,26,24,Tablet,High
+675,Data Science,2,127,51,10,56.47,37,91,Mobile,Low
+676,AI & ML,8,103,79,9,72.77,39,97,Mobile,Low
+677,AI & ML,2,164,6,8,52.84,44,80,Desktop,Medium
+678,Business,11,176,21,3,68.53,49,90,Mobile,Low
+679,AI & ML,9,146,92,2,59.09,22,26,Mobile,Low
+680,AI & ML,12,158,74,1,56.0,30,69,Mobile,Low
+681,AI & ML,1,85,55,8,98.02,35,65,Tablet,Medium
+682,AI & ML,9,38,96,11,49.6,16,91,Tablet,Low
+683,Programming,1,170,57,1,87.24,36,95,Desktop,Low
+684,Programming,10,126,92,5,99.05,2,93,Desktop,Medium
+685,Business,13,24,63,4,41.19,35,33,Tablet,Low
+686,Data Science,10,11,11,4,81.94,4,92,Mobile,High
+687,AI & ML,2,126,6,3,55.17,45,88,Desktop,Low
+688,Data Science,6,27,54,5,42.43,14,84,Desktop,Medium
+689,Data Science,6,12,61,4,64.17,48,84,Mobile,Low
+690,Business,1,144,89,10,96.11,5,76,Mobile,Medium
+691,AI & ML,7,175,72,3,40.71,9,81,Mobile,Medium
+692,AI & ML,8,174,97,8,75.27,31,39,Mobile,High
+693,Design,2,170,76,5,70.08,22,94,Mobile,Low
+694,Data Science,8,117,54,10,92.4,47,45,Tablet,Low
+695,Data Science,9,104,35,9,45.04,16,63,Mobile,Medium
+696,Programming,6,131,88,9,80.89,45,86,Desktop,Low
+697,Design,5,20,23,9,80.81,19,89,Tablet,Low
+698,Programming,12,77,43,2,80.14,43,81,Desktop,High
+699,Programming,9,132,16,9,96.54,40,64,Mobile,Low
+700,Programming,13,122,1,5,89.39,14,30,Desktop,High
+701,Business,12,107,12,0,42.52,43,91,Mobile,Low
+702,Business,11,102,30,4,68.26,45,93,Desktop,Medium
+703,Programming,9,31,92,9,63.88,21,53,Desktop,Medium
+704,Design,1,136,27,5,58.61,49,65,Mobile,Medium
+705,Data Science,11,143,59,10,67.08,5,100,Desktop,High
+706,Design,3,179,26,7,63.05,3,51,Tablet,Low
+707,AI & ML,9,34,14,10,65.94,22,94,Desktop,High
+708,Business,11,94,94,8,98.76,43,24,Tablet,Medium
+709,Data Science,2,64,78,10,45.32,44,82,Tablet,Low
+710,Data Science,12,153,32,2,95.33,18,48,Desktop,High
+711,AI & ML,4,104,19,1,68.81,44,67,Tablet,Low
+712,AI & ML,4,151,41,3,77.42,30,35,Tablet,High
+713,Programming,2,176,11,7,89.81,43,44,Desktop,Low
+714,Business,3,165,100,10,61.63,2,91,Mobile,High
+715,Business,13,128,72,7,65.83,27,48,Mobile,Medium
+716,Design,3,18,22,2,64.57,2,71,Tablet,Low
+717,Programming,1,159,71,3,62.48,13,65,Tablet,Medium
+718,Programming,6,169,95,2,95.53,17,44,Mobile,Low
+719,Programming,8,51,13,9,89.74,26,42,Tablet,Low
+720,Programming,12,62,90,1,46.54,9,53,Mobile,Low
+721,Business,3,83,24,3,46.49,48,86,Desktop,Low
+722,Business,5,48,76,5,65.67,14,53,Tablet,Low
+723,Programming,1,131,84,10,45.92,18,51,Desktop,Medium
+724,Design,10,24,30,10,77.15,8,48,Mobile,Low
+725,Data Science,7,166,100,4,48.62,3,28,Mobile,Medium
+726,Data Science,10,132,53,2,71.34,14,85,Desktop,Low
+727,Design,13,120,4,1,40.43,47,76,Tablet,Medium
+728,Programming,1,140,12,8,59.0,7,58,Desktop,Medium
+729,Business,12,92,27,0,80.63,48,26,Desktop,Low
+730,Data Science,11,19,42,8,69.04,0,88,Tablet,High
+731,AI & ML,9,101,88,0,98.7,6,27,Mobile,Medium
+732,AI & ML,8,38,98,6,92.45,30,37,Desktop,Medium
+733,Design,7,44,46,5,61.54,17,68,Desktop,Low
+734,Programming,10,15,70,6,42.73,11,35,Mobile,Low
+735,Data Science,7,149,37,2,90.74,47,40,Desktop,High
+736,Programming,5,120,95,2,94.67,29,29,Mobile,High
+737,Data Science,5,47,66,10,89.24,32,23,Tablet,Low
+738,Design,11,86,61,0,47.68,46,63,Mobile,Low
+739,Design,13,102,38,3,99.87,6,27,Mobile,Medium
+740,AI & ML,5,156,36,11,55.52,27,74,Desktop,Medium
+741,Programming,1,76,85,1,83.45,48,38,Mobile,High
+742,AI & ML,8,145,7,9,94.48,2,83,Mobile,Low
+743,Programming,12,17,80,7,54.14,42,59,Desktop,Low
+744,AI & ML,11,131,51,2,94.5,5,70,Mobile,Low
+745,Business,1,93,90,6,58.57,30,28,Desktop,Low
+746,Business,4,141,32,6,98.58,37,49,Tablet,Low
+747,Business,9,94,80,11,56.88,14,75,Mobile,High
+748,Business,14,54,41,8,97.21,6,100,Tablet,Medium
+749,Data Science,9,145,75,5,43.21,42,63,Mobile,High
+750,Business,5,96,26,0,82.56,29,78,Mobile,Low
+751,Design,4,25,7,7,71.93,26,34,Tablet,Low
+752,Design,3,86,22,0,68.67,16,87,Tablet,Low
+753,Data Science,3,18,63,2,53.41,17,89,Desktop,Low
+754,Business,12,69,92,10,82.34,21,80,Desktop,High
+755,Business,5,87,19,4,51.45,25,99,Tablet,Low
+756,Business,10,86,15,7,73.17,26,42,Mobile,Low
+757,AI & ML,1,80,16,8,55.19,39,96,Desktop,Low
+758,Programming,5,24,79,6,97.34,23,66,Mobile,Low
+759,AI & ML,6,80,18,8,41.72,7,36,Desktop,Medium
+760,Programming,7,111,7,10,51.98,20,76,Desktop,Low
+761,Business,12,178,37,2,54.54,28,73,Desktop,Medium
+762,Business,9,31,37,4,64.84,42,71,Tablet,Medium
+763,AI & ML,3,161,52,9,53.96,20,41,Mobile,Low
+764,AI & ML,2,122,92,7,69.48,2,58,Tablet,Low
+765,Programming,14,10,99,11,92.35,30,32,Desktop,Medium
+766,Design,3,19,89,0,82.72,26,97,Tablet,Medium
+767,Programming,12,119,30,7,74.8,45,85,Tablet,Low
+768,AI & ML,9,122,43,6,45.34,26,71,Tablet,Low
+769,AI & ML,12,59,59,0,81.64,8,33,Mobile,Low
+770,Data Science,7,21,75,9,49.98,32,92,Tablet,Low
+771,AI & ML,9,98,16,11,87.18,32,93,Tablet,Low
+772,Data Science,13,163,78,9,55.0,25,82,Tablet,Low
+773,Design,2,121,72,11,65.02,27,90,Tablet,Low
+774,Programming,5,87,38,5,61.03,43,47,Tablet,Low
+775,Programming,13,178,41,0,91.53,42,65,Tablet,Low
+776,Data Science,4,173,47,1,47.59,30,47,Tablet,High
+777,Programming,2,130,11,4,73.94,0,21,Desktop,Medium
+778,AI & ML,9,32,95,1,48.52,19,36,Tablet,High
+779,Business,9,143,88,9,82.29,11,78,Tablet,Low
+780,Data Science,6,34,17,0,94.3,16,71,Mobile,Medium
+781,Programming,11,27,78,5,66.08,14,23,Desktop,Low
+782,Data Science,6,150,95,7,69.29,33,96,Tablet,Medium
+783,Data Science,8,52,5,7,95.65,49,22,Mobile,Low
+784,Business,6,87,42,7,71.26,15,56,Tablet,Low
+785,AI & ML,1,37,34,10,69.26,3,43,Tablet,High
+786,Data Science,4,155,97,5,74.7,7,91,Tablet,Medium
+787,Programming,13,68,53,10,81.35,33,54,Tablet,High
+788,Design,7,72,61,2,46.41,45,21,Tablet,Low
+789,Data Science,13,101,68,0,89.27,24,52,Mobile,Low
+790,Data Science,13,65,81,1,66.13,14,95,Tablet,Low
+791,Business,2,164,15,4,44.34,27,96,Mobile,Medium
+792,AI & ML,9,169,7,9,87.17,8,29,Tablet,Medium
+793,Design,8,120,88,4,62.62,1,100,Mobile,High
+794,Programming,8,146,95,9,46.02,16,81,Desktop,Low
+795,Design,7,77,89,0,78.03,9,62,Tablet,Medium
+796,Programming,4,55,85,0,92.81,8,88,Desktop,Low
+797,AI & ML,2,76,30,8,93.27,30,78,Desktop,Low
+798,Programming,3,163,9,1,97.46,1,28,Desktop,Medium
+799,Business,12,145,55,6,92.06,23,96,Tablet,Medium
+800,Business,6,15,75,9,40.13,18,79,Desktop,Low
+801,Business,12,33,91,3,62.81,16,82,Mobile,Low
+802,Business,12,103,69,6,89.11,42,71,Tablet,Low
+803,Design,5,22,19,7,61.98,48,42,Desktop,Low
+804,AI & ML,12,34,4,4,76.09,9,49,Tablet,Low
+805,Programming,8,157,22,11,76.38,49,62,Desktop,Low
+806,Programming,6,127,8,11,61.9,27,87,Mobile,Low
+807,Business,6,91,57,0,94.27,37,40,Tablet,High
+808,Business,1,120,58,3,70.19,47,62,Tablet,High
+809,Data Science,4,91,92,9,67.89,27,92,Desktop,Low
+810,AI & ML,5,75,79,2,99.85,49,26,Mobile,High
+811,Design,12,54,53,9,69.61,49,35,Tablet,Medium
+812,Programming,11,123,45,11,50.7,0,42,Desktop,Low
+813,Data Science,3,72,21,4,70.78,2,77,Mobile,Low
+814,Data Science,13,85,63,9,88.84,14,50,Mobile,High
+815,Programming,9,123,7,9,86.61,9,88,Mobile,Medium
+816,Design,1,120,19,5,87.31,20,25,Mobile,High
+817,Data Science,6,156,50,1,82.48,36,84,Tablet,High
+818,Data Science,6,44,77,6,55.25,14,78,Tablet,Low
+819,AI & ML,10,62,38,2,91.73,22,47,Mobile,Low
+820,Design,5,35,36,0,93.61,13,37,Desktop,Low
+821,Data Science,12,23,49,9,51.65,14,96,Desktop,Low
+822,Design,5,127,33,2,47.83,9,29,Mobile,Low
+823,Programming,10,54,74,8,98.54,8,26,Mobile,Low
+824,Business,14,60,32,9,92.1,43,56,Desktop,Low
+825,Data Science,13,128,30,10,93.59,38,64,Mobile,Low
+826,AI & ML,5,160,53,10,93.18,4,35,Mobile,Low
+827,Programming,6,28,43,5,72.5,24,33,Tablet,Low
+828,Design,8,91,33,10,78.78,41,30,Tablet,Low
+829,Programming,2,85,70,5,72.72,25,53,Mobile,Low
+830,Data Science,6,101,61,3,43.07,7,79,Mobile,Medium
+831,Design,1,42,22,7,84.73,21,32,Tablet,High
+832,Business,4,156,45,4,70.32,24,58,Mobile,Low
+833,Programming,14,37,55,6,78.86,47,63,Tablet,Low
+834,Data Science,10,132,6,8,70.16,11,47,Tablet,High
+835,AI & ML,3,135,88,4,69.51,8,59,Desktop,Medium
+836,Design,9,46,60,10,50.31,9,35,Tablet,Medium
+837,Programming,3,163,2,4,56.72,47,69,Desktop,Low
+838,Programming,6,108,37,3,49.53,9,47,Desktop,High
+839,Business,1,107,83,5,51.74,8,87,Tablet,High
+840,Business,12,136,33,1,98.38,25,79,Mobile,Medium
+841,AI & ML,6,177,43,2,49.19,34,31,Tablet,Low
+842,AI & ML,4,89,29,0,56.16,26,35,Desktop,High
+843,Data Science,8,47,16,1,75.44,30,72,Tablet,Medium
+844,Data Science,13,86,58,1,76.61,18,73,Tablet,Medium
+845,AI & ML,11,135,9,7,49.24,42,68,Desktop,Low
+846,AI & ML,9,96,98,7,87.62,37,55,Tablet,Medium
+847,Design,4,63,83,1,87.11,5,81,Tablet,Low
+848,Business,10,159,17,5,54.24,14,45,Desktop,Low
+849,Data Science,12,25,44,4,57.32,28,75,Mobile,Medium
+850,Business,10,37,90,2,96.28,46,41,Desktop,Low
+851,Business,6,172,58,4,89.54,44,92,Desktop,Medium
+852,AI & ML,1,55,61,4,81.87,4,88,Tablet,Medium
+853,Design,4,81,58,4,44.93,13,100,Desktop,Low
+854,Programming,7,94,48,2,65.1,1,68,Tablet,Medium
+855,Design,12,35,99,2,73.56,22,21,Tablet,High
+856,Design,1,94,62,3,51.24,43,72,Tablet,Low
+857,Business,8,162,86,6,66.89,45,26,Desktop,Medium
+858,Design,12,74,31,11,76.06,18,96,Desktop,Low
+859,Data Science,10,143,9,11,59.64,23,39,Tablet,Low
+860,Business,12,160,10,11,86.86,19,49,Mobile,Low
+861,Data Science,11,124,69,1,90.43,46,94,Mobile,Low
+862,Programming,6,73,61,9,59.42,26,86,Desktop,Low
+863,Business,5,96,46,3,90.32,23,78,Tablet,High
+864,Programming,10,116,33,3,46.21,16,85,Tablet,Medium
+865,Business,11,160,99,0,90.26,24,22,Desktop,Medium
+866,AI & ML,14,105,100,9,49.17,45,75,Mobile,Low
+867,Design,9,167,16,7,44.98,30,98,Desktop,Medium
+868,AI & ML,2,86,53,0,78.51,27,36,Desktop,Low
+869,Programming,5,155,75,7,68.32,49,71,Tablet,Low
+870,Design,6,96,84,6,94.47,27,26,Desktop,Low
+871,Business,7,158,39,8,61.79,21,24,Mobile,Low
+872,Design,5,66,18,7,57.23,4,73,Desktop,Low
+873,Data Science,9,112,66,4,70.04,43,80,Tablet,Medium
+874,Design,1,160,81,7,67.36,41,35,Mobile,High
+875,Data Science,7,100,52,10,60.67,7,86,Tablet,Low
+876,Design,10,54,63,9,81.62,37,78,Desktop,Low
+877,Data Science,7,97,82,11,85.57,27,66,Desktop,Low
+878,Programming,4,124,46,11,91.18,46,67,Desktop,High
+879,AI & ML,9,56,5,2,98.37,11,83,Tablet,High
+880,Business,14,177,15,9,56.0,24,69,Desktop,Medium
+881,Design,12,179,71,6,82.97,37,60,Mobile,High
+882,AI & ML,11,144,17,11,63.66,43,91,Mobile,Low
+883,Business,5,59,51,3,80.62,14,41,Tablet,High
+884,Business,4,93,47,4,68.56,43,73,Tablet,Low
+885,Data Science,13,100,42,8,99.63,40,24,Tablet,Low
+886,Programming,7,143,38,6,83.73,33,36,Desktop,Medium
+887,Programming,4,100,48,3,97.15,44,97,Mobile,Low
+888,AI & ML,3,146,11,5,90.1,12,60,Mobile,Medium
+889,Programming,9,118,9,9,94.17,7,100,Mobile,Low
+890,Design,11,66,70,10,88.87,12,54,Tablet,Medium
+891,Programming,8,40,54,6,67.55,35,59,Tablet,Low
+892,AI & ML,1,30,0,9,55.11,5,41,Desktop,Low
+893,Programming,7,99,48,8,62.22,37,67,Tablet,High
+894,Design,9,49,35,3,41.21,31,72,Mobile,High
+895,Data Science,8,121,20,9,71.44,20,29,Desktop,High
+896,AI & ML,8,54,36,2,70.3,43,37,Tablet,Medium
+897,Data Science,13,86,23,7,71.52,43,99,Tablet,Medium
+898,Data Science,6,96,54,0,98.44,48,68,Mobile,Medium
+899,Data Science,11,157,24,8,94.69,6,90,Desktop,Low
+900,Business,4,110,6,0,49.7,25,49,Tablet,Low
+901,Business,8,126,80,1,62.13,14,38,Tablet,Low
+902,Data Science,3,101,92,7,65.44,48,74,Desktop,High
+903,AI & ML,13,154,93,8,61.63,41,79,Desktop,Low
+904,Design,9,37,70,6,87.91,22,91,Tablet,High
+905,Design,13,178,96,2,71.44,37,100,Tablet,Medium
+906,Programming,2,34,70,6,74.33,40,40,Mobile,Medium
+907,AI & ML,2,67,23,5,91.18,14,45,Desktop,Low
+908,Business,12,50,10,1,88.36,47,47,Tablet,Low
+909,Data Science,13,143,72,2,47.93,39,58,Tablet,High
+910,Programming,12,84,11,10,82.83,15,52,Tablet,Low
+911,Design,7,47,34,11,66.13,31,59,Tablet,Low
+912,Business,12,143,62,9,57.68,36,48,Mobile,Low
+913,Business,10,84,67,9,43.0,17,39,Desktop,Low
+914,Data Science,4,151,99,11,69.23,19,39,Tablet,Low
+915,Design,10,75,91,4,61.33,45,93,Desktop,Medium
+916,AI & ML,8,177,56,9,55.09,1,31,Desktop,Low
+917,Business,9,12,12,3,81.68,22,44,Tablet,Medium
+918,Data Science,7,126,22,1,86.17,29,44,Tablet,Low
+919,AI & ML,5,108,82,3,54.69,2,23,Tablet,High
+920,Design,8,161,100,11,42.97,45,23,Mobile,Medium
+921,Business,4,28,38,7,90.93,38,28,Tablet,Low
+922,AI & ML,2,155,87,4,40.6,46,34,Desktop,Low
+923,AI & ML,11,125,79,4,96.23,48,45,Desktop,Low
+924,AI & ML,12,134,96,11,77.66,0,98,Mobile,Medium
+925,Business,6,97,11,11,59.31,40,90,Tablet,Medium
+926,Business,9,44,33,9,54.79,21,51,Tablet,High
+927,Programming,1,10,70,2,40.54,28,95,Mobile,Low
+928,Design,11,162,74,7,54.13,13,71,Mobile,Low
+929,Data Science,10,135,30,5,48.26,47,51,Tablet,Low
+930,AI & ML,12,98,92,1,76.73,27,28,Tablet,Low
+931,Programming,7,153,61,1,49.99,20,97,Desktop,Medium
+932,Data Science,10,156,12,8,71.72,44,32,Tablet,Low
+933,Programming,9,160,30,6,75.41,31,75,Tablet,Medium
+934,Business,10,34,1,9,57.88,5,63,Desktop,Medium
+935,AI & ML,9,25,14,8,42.1,0,49,Desktop,High
+936,Data Science,10,82,56,5,42.24,20,35,Desktop,Low
+937,Data Science,11,138,74,4,41.58,3,31,Desktop,High
+938,Data Science,13,51,33,11,84.35,2,93,Mobile,High
+939,Data Science,3,156,67,0,59.08,48,85,Desktop,High
+940,Data Science,11,171,74,11,87.78,29,37,Mobile,Medium
+941,Programming,13,89,28,5,65.9,30,32,Desktop,High
+942,AI & ML,5,113,65,5,67.18,33,43,Desktop,Medium
+943,Business,8,155,15,2,70.77,18,31,Desktop,Low
+944,Business,8,43,38,2,82.78,19,79,Tablet,Medium
+945,Business,4,98,76,2,56.41,22,79,Mobile,Medium
+946,Business,12,134,36,2,47.3,39,20,Desktop,High
+947,Programming,11,54,80,6,73.36,24,62,Tablet,Medium
+948,Design,11,143,20,9,59.62,14,74,Mobile,Low
+949,AI & ML,1,30,43,10,66.55,37,59,Mobile,Medium
+950,Data Science,1,131,18,1,78.82,22,83,Tablet,High
+951,Design,4,79,70,9,69.65,1,53,Mobile,Low
+952,Business,6,105,7,9,77.22,14,53,Tablet,Low
+953,Design,8,114,76,1,72.65,43,67,Desktop,Medium
+954,AI & ML,6,57,100,2,84.39,34,52,Tablet,Low
+955,Data Science,12,48,65,9,82.36,9,87,Mobile,Low
+956,Data Science,9,40,40,11,72.05,13,49,Mobile,Low
+957,AI & ML,9,19,74,6,80.73,26,98,Desktop,High
+958,AI & ML,14,39,87,2,92.41,13,90,Tablet,Low
+959,Business,2,27,69,6,65.94,34,90,Desktop,Low
+960,Data Science,10,97,60,8,64.77,32,48,Tablet,Medium
+961,Design,1,134,25,10,85.85,0,42,Tablet,High
+962,Programming,2,82,70,9,74.95,33,53,Tablet,High
+963,Programming,5,24,82,11,44.26,18,34,Desktop,Low
+964,AI & ML,4,13,69,10,93.53,23,72,Desktop,High
+965,Business,4,177,28,3,41.85,41,36,Mobile,Low
+966,Programming,9,18,65,6,84.9,3,83,Desktop,Medium
+967,Data Science,11,118,18,8,85.53,35,80,Tablet,Medium
+968,AI & ML,8,146,67,7,97.19,12,76,Tablet,Low
+969,Design,6,163,57,7,43.25,31,96,Tablet,Medium
+970,AI & ML,1,141,69,8,75.81,8,56,Desktop,Low
+971,Design,2,25,56,4,65.67,38,26,Mobile,High
+972,AI & ML,6,152,36,4,59.84,15,27,Desktop,Low
+973,AI & ML,11,108,60,2,45.42,49,97,Mobile,Medium
+974,AI & ML,2,130,91,4,73.76,2,87,Desktop,Low
+975,Design,13,61,29,7,68.74,19,40,Tablet,Low
+976,Design,10,78,70,11,46.27,9,80,Mobile,High
+977,AI & ML,5,14,72,4,76.75,21,93,Desktop,Medium
+978,Programming,14,29,24,3,84.28,47,99,Tablet,High
+979,Business,5,88,96,7,86.04,2,94,Mobile,Low
+980,Business,6,155,64,6,94.32,10,48,Mobile,Low
+981,Business,6,120,5,5,64.57,24,44,Tablet,Medium
+982,Design,14,11,17,4,97.18,41,77,Tablet,Low
+983,Design,6,102,9,4,91.93,47,33,Desktop,Low
+984,Programming,14,22,91,9,57.79,7,97,Desktop,Medium
+985,Business,2,13,10,1,49.56,8,85,Tablet,Low
+986,Business,14,179,96,3,66.12,14,73,Desktop,Low
+987,AI & ML,10,118,64,7,64.11,31,96,Tablet,Low
+988,Design,14,83,76,7,74.54,2,86,Tablet,Medium
+989,Business,13,104,100,10,75.0,3,49,Desktop,Medium
+990,Programming,14,114,83,0,85.0,29,37,Desktop,Low
+991,Programming,3,17,64,1,70.59,12,73,Mobile,Medium
+992,Business,14,76,51,4,46.29,43,40,Mobile,Low
+993,Design,6,119,66,8,91.5,20,72,Desktop,High
+994,Programming,13,18,81,9,58.59,40,35,Desktop,High
+995,AI & ML,8,126,77,10,98.28,45,47,Desktop,Medium
+996,Programming,12,20,30,11,47.07,18,23,Mobile,Low
+997,Data Science,13,108,90,10,97.5,38,74,Desktop,Medium
+998,Data Science,11,51,16,6,45.46,47,34,Mobile,Medium
+999,Design,12,150,54,9,53.86,21,83,Mobile,High
+1000,Business,1,173,92,4,42.79,19,84,Mobile,High
+1001,Design,1,129,35,0,82.31,36,35,Mobile,High
+1002,Design,11,150,100,5,91.02,30,39,Tablet,Low
+1003,Design,13,21,25,11,66.04,9,83,Desktop,High
+1004,Design,2,46,52,7,95.71,17,52,Desktop,Medium
+1005,AI & ML,11,83,16,6,75.42,42,100,Tablet,High
+1006,AI & ML,12,82,85,1,77.8,38,88,Desktop,Low
+1007,Programming,12,61,24,11,90.73,45,88,Mobile,Low
+1008,Data Science,6,139,1,4,57.81,19,77,Tablet,Low
+1009,Design,9,65,85,10,61.26,17,58,Mobile,Low
+1010,Programming,4,69,4,3,94.36,10,96,Tablet,Low
+1011,Data Science,3,32,3,8,94.06,21,55,Mobile,High
+1012,Business,12,112,35,9,98.59,43,87,Desktop,Low
+1013,AI & ML,8,49,5,0,94.11,17,40,Desktop,Low
+1014,Data Science,11,73,20,11,47.64,33,82,Desktop,Low
+1015,Business,10,94,76,5,89.42,22,25,Tablet,Low
+1016,Data Science,14,160,100,2,64.59,0,43,Desktop,High
+1017,AI & ML,9,166,88,10,99.45,9,72,Tablet,Low
+1018,AI & ML,12,98,25,8,68.34,0,95,Mobile,Low
+1019,Programming,11,40,54,4,73.23,37,97,Desktop,High
+1020,Design,5,29,38,5,71.79,38,69,Mobile,High
+1021,Data Science,9,139,83,10,59.3,48,31,Desktop,Low
+1022,Data Science,2,162,32,8,44.5,8,75,Mobile,Medium
+1023,Business,3,22,13,8,93.74,30,34,Tablet,Medium
+1024,AI & ML,7,131,55,7,88.16,6,59,Desktop,Medium
+1025,Data Science,7,112,99,8,48.37,16,60,Tablet,Low
+1026,AI & ML,6,115,80,3,86.61,34,88,Tablet,High
+1027,Data Science,6,128,20,5,77.55,47,88,Mobile,Low
+1028,Programming,2,79,45,4,64.55,36,25,Desktop,Low
+1029,Design,10,108,15,4,55.24,17,86,Tablet,Low
+1030,Data Science,6,91,15,3,91.58,32,52,Mobile,Low
+1031,AI & ML,4,84,83,1,82.01,3,62,Mobile,High
+1032,Programming,12,127,28,11,72.86,22,40,Mobile,Medium
+1033,Data Science,3,93,91,5,76.57,10,84,Desktop,Low
+1034,Business,13,78,7,8,45.46,8,36,Desktop,Low
+1035,Design,11,68,87,11,68.44,29,27,Mobile,Low
+1036,Data Science,13,135,2,0,51.62,7,83,Desktop,High
+1037,Programming,2,120,88,6,52.5,39,47,Mobile,Medium
+1038,Business,1,71,18,5,79.68,4,32,Desktop,Medium
+1039,Programming,11,153,96,2,94.68,11,32,Desktop,Medium
+1040,Programming,11,137,65,0,64.23,0,57,Mobile,Medium
+1041,Business,5,114,78,3,52.46,14,44,Mobile,Medium
+1042,Programming,2,77,85,8,78.92,24,81,Desktop,Low
+1043,Business,2,24,73,1,92.27,17,42,Mobile,High
+1044,Data Science,7,44,81,2,84.9,37,40,Mobile,Medium
+1045,Business,8,23,21,1,92.13,41,73,Mobile,Medium
+1046,Business,13,111,45,1,72.19,45,82,Mobile,High
+1047,Design,10,109,90,9,85.11,25,49,Desktop,High
+1048,Business,8,16,12,10,48.4,39,94,Tablet,High
+1049,Business,14,39,32,10,60.9,2,87,Desktop,High
+1050,Data Science,4,58,4,7,63.37,21,95,Mobile,Low
+1051,Design,14,153,89,2,70.68,25,92,Mobile,Low
+1052,AI & ML,1,120,76,6,95.74,18,51,Desktop,Medium
+1053,Data Science,11,81,26,7,92.46,43,94,Mobile,Low
+1054,Data Science,7,89,77,2,48.07,43,43,Desktop,High
+1055,AI & ML,1,92,23,1,50.37,46,26,Tablet,Medium
+1056,Business,11,51,66,7,61.46,38,91,Mobile,Medium
+1057,Programming,4,26,62,2,57.44,35,20,Tablet,High
+1058,Design,8,16,93,6,76.89,20,22,Tablet,Low
+1059,Programming,2,164,98,11,94.17,40,47,Mobile,Medium
+1060,AI & ML,6,19,47,0,97.74,47,62,Mobile,Medium
+1061,Data Science,13,43,62,11,79.22,25,65,Desktop,Low
+1062,Data Science,6,45,77,5,90.29,12,20,Desktop,Low
+1063,Design,12,162,11,11,71.51,35,57,Mobile,High
+1064,Data Science,9,15,27,11,52.5,23,54,Desktop,Medium
+1065,Data Science,5,161,43,8,71.48,40,93,Tablet,High
+1066,Design,10,155,92,11,73.3,25,95,Tablet,Medium
+1067,Design,4,143,42,2,84.55,20,93,Mobile,Low
+1068,AI & ML,5,38,16,6,53.19,17,73,Desktop,Low
+1069,Data Science,12,135,39,5,62.1,14,43,Mobile,Low
+1070,Data Science,12,162,48,7,61.84,14,47,Tablet,High
+1071,AI & ML,10,90,84,2,97.57,5,41,Mobile,Low
+1072,Business,11,161,56,2,66.64,42,35,Mobile,High
+1073,Business,5,84,86,3,85.31,30,32,Mobile,High
+1074,Business,8,35,83,2,85.05,27,81,Mobile,High
+1075,AI & ML,10,136,63,8,55.93,7,62,Tablet,Low
+1076,Data Science,12,124,74,10,74.31,28,97,Mobile,High
+1077,AI & ML,8,135,56,3,93.66,20,51,Mobile,Low
+1078,AI & ML,2,37,97,5,68.51,16,86,Desktop,Low
+1079,Business,7,140,73,7,96.71,48,76,Mobile,Low
+1080,Programming,8,84,73,10,52.87,23,84,Desktop,High
+1081,Data Science,11,175,69,7,44.45,49,88,Mobile,Low
+1082,Business,6,87,99,4,93.49,35,68,Desktop,Medium
+1083,Programming,5,99,87,4,90.86,30,52,Mobile,Low
+1084,Programming,11,30,75,5,99.56,46,38,Desktop,Low
+1085,Design,9,63,42,9,80.76,33,55,Mobile,Low
+1086,Data Science,13,112,22,6,96.2,1,89,Mobile,High
+1087,Programming,3,68,26,9,89.62,41,34,Desktop,Medium
+1088,Business,12,81,57,6,90.67,2,43,Mobile,High
+1089,Design,13,29,36,3,74.15,29,46,Mobile,Medium
+1090,Data Science,13,121,5,5,62.94,7,68,Mobile,High
+1091,AI & ML,10,68,64,6,96.07,6,94,Mobile,Medium
+1092,Business,4,80,5,4,65.93,11,42,Tablet,Medium
+1093,Programming,9,146,49,4,72.33,18,52,Mobile,Medium
+1094,Programming,6,118,21,1,66.77,25,60,Tablet,Low
+1095,Business,8,138,87,6,73.89,27,75,Tablet,High
+1096,Programming,7,166,24,11,68.23,14,48,Mobile,Medium
+1097,Design,11,65,78,5,42.88,13,50,Desktop,High
+1098,Data Science,2,44,89,10,92.92,47,84,Desktop,Medium
+1099,Design,3,132,71,0,66.66,13,37,Mobile,Low
+1100,Programming,1,140,50,3,75.34,2,25,Tablet,Medium
+1101,AI & ML,9,113,87,2,48.35,49,71,Desktop,Low
+1102,Data Science,13,16,47,11,40.2,28,59,Mobile,Medium
+1103,Data Science,7,36,69,2,54.72,5,84,Mobile,Medium
+1104,Business,1,10,98,6,82.28,48,61,Tablet,High
+1105,Business,3,96,64,10,45.95,22,87,Desktop,Low
+1106,AI & ML,4,50,59,11,94.53,27,51,Mobile,Low
+1107,Data Science,4,132,45,9,52.9,13,29,Desktop,Low
+1108,AI & ML,5,84,35,3,52.28,13,88,Mobile,Low
+1109,Business,14,51,57,11,50.89,19,28,Mobile,High
+1110,Business,3,126,75,7,40.84,12,88,Mobile,High
+1111,Data Science,3,170,37,10,86.31,26,80,Tablet,Medium
+1112,Design,1,72,10,8,92.5,34,30,Tablet,High
+1113,Programming,7,174,11,2,76.85,44,87,Tablet,Low
+1114,Business,11,136,41,4,51.29,1,93,Desktop,Low
+1115,Business,10,142,38,3,57.12,40,27,Tablet,Low
+1116,Design,14,57,70,11,68.56,44,68,Tablet,High
+1117,Design,1,12,10,9,97.26,39,43,Desktop,Medium
+1118,AI & ML,2,125,35,5,54.84,47,52,Desktop,Medium
+1119,AI & ML,13,108,51,10,83.9,23,38,Desktop,Low
+1120,Programming,4,125,30,9,66.37,28,21,Desktop,Low
+1121,Programming,13,23,32,3,57.87,2,74,Tablet,High
+1122,Data Science,4,121,12,7,67.35,44,30,Tablet,Low
+1123,AI & ML,5,70,17,2,44.27,3,36,Desktop,Medium
+1124,Business,11,168,40,10,87.92,49,61,Tablet,Low
+1125,AI & ML,2,104,57,4,54.6,1,80,Mobile,Low
+1126,Business,4,26,55,0,83.52,19,22,Tablet,Medium
+1127,Design,1,133,23,5,44.1,14,54,Mobile,Low
+1128,AI & ML,2,33,72,10,97.31,48,85,Desktop,Medium
+1129,Design,1,125,30,4,51.58,31,20,Desktop,Medium
+1130,Programming,10,160,54,7,92.96,41,26,Tablet,Medium
+1131,Programming,10,91,9,8,88.57,0,39,Desktop,Medium
+1132,Data Science,13,59,59,7,98.07,37,62,Tablet,Medium
+1133,AI & ML,4,88,1,7,68.67,34,25,Tablet,Low
+1134,Design,4,88,14,11,83.64,6,74,Tablet,Medium
+1135,Business,7,79,2,2,62.24,44,40,Tablet,Medium
+1136,Programming,10,36,42,3,51.06,12,70,Mobile,Low
+1137,Programming,11,24,30,10,66.58,48,65,Mobile,High
+1138,Business,11,59,69,3,49.94,0,54,Desktop,Medium
+1139,Design,9,45,66,10,98.92,13,27,Mobile,High
+1140,Design,9,17,55,4,45.77,28,87,Desktop,High
+1141,AI & ML,5,88,62,8,75.35,2,35,Desktop,Low
+1142,AI & ML,10,140,74,11,77.59,45,86,Tablet,Medium
+1143,Data Science,1,56,14,8,72.28,23,90,Tablet,Low
+1144,Programming,1,114,91,9,79.73,0,83,Tablet,Low
+1145,AI & ML,6,107,9,11,46.97,47,21,Tablet,High
+1146,Design,2,105,37,0,73.3,9,20,Tablet,Medium
+1147,Business,8,169,46,7,57.23,12,77,Tablet,Low
+1148,Design,13,125,56,0,96.41,35,20,Mobile,Medium
+1149,Programming,9,22,49,1,85.72,8,26,Desktop,High
+1150,Design,13,10,70,6,98.35,13,88,Desktop,Medium
+1151,Data Science,4,43,14,7,42.25,35,37,Tablet,Medium
+1152,Programming,5,88,17,0,57.11,9,51,Mobile,Medium
+1153,Business,11,87,81,2,51.73,39,64,Tablet,Low
+1154,Data Science,8,130,87,6,40.67,22,52,Mobile,Low
+1155,Programming,3,102,1,8,54.54,34,93,Mobile,Medium
+1156,Business,5,107,83,7,80.73,6,92,Desktop,Low
+1157,Data Science,3,91,97,7,53.87,41,68,Desktop,Medium
+1158,Data Science,12,168,42,8,70.54,34,52,Mobile,Medium
+1159,Programming,10,162,25,9,93.27,1,90,Desktop,Medium
+1160,AI & ML,3,47,70,2,81.63,14,87,Mobile,Low
+1161,Data Science,3,23,37,7,63.68,8,47,Mobile,Low
+1162,Data Science,13,145,93,0,62.35,46,72,Mobile,Low
+1163,Business,12,100,41,7,67.34,16,63,Desktop,Medium
+1164,Design,7,63,4,6,50.62,38,99,Tablet,Low
+1165,Programming,7,139,10,7,78.04,17,74,Desktop,Medium
+1166,Programming,7,110,64,0,61.85,14,29,Tablet,Low
+1167,AI & ML,10,98,33,5,91.14,17,33,Desktop,Medium
+1168,AI & ML,8,65,0,6,85.39,23,55,Desktop,Low
+1169,Programming,5,103,82,10,76.63,22,53,Tablet,Medium
+1170,AI & ML,5,102,1,4,61.85,11,37,Mobile,Low
+1171,Business,14,93,84,4,52.6,22,35,Tablet,Low
+1172,Programming,4,94,19,6,86.57,20,56,Mobile,High
+1173,AI & ML,7,31,60,10,69.18,25,60,Mobile,Low
+1174,Programming,10,44,86,2,53.49,7,44,Desktop,Medium
+1175,Design,4,25,20,5,51.71,29,27,Desktop,High
+1176,Data Science,2,59,87,6,49.92,33,37,Desktop,Medium
+1177,Programming,4,131,67,0,86.63,1,87,Desktop,High
+1178,Data Science,13,137,11,11,53.74,4,67,Desktop,Low
+1179,AI & ML,13,122,21,1,71.6,30,89,Tablet,Low
+1180,Data Science,8,26,19,11,67.09,32,86,Tablet,Low
+1181,Programming,9,89,81,3,74.78,3,37,Tablet,Low
+1182,Design,3,139,0,7,92.63,5,37,Tablet,Low
+1183,AI & ML,7,141,29,10,92.06,22,75,Desktop,Low
+1184,Programming,14,94,96,9,67.06,44,42,Tablet,Medium
+1185,AI & ML,12,176,23,5,40.92,18,54,Tablet,High
+1186,Business,14,103,13,0,65.59,42,25,Mobile,Low
+1187,Data Science,9,143,35,9,76.37,44,45,Desktop,Low
+1188,Business,11,90,68,4,73.47,7,80,Tablet,Low
+1189,Programming,4,78,74,6,79.08,38,34,Tablet,Low
+1190,Design,10,78,23,5,49.24,12,51,Tablet,Medium
+1191,AI & ML,3,157,59,11,78.79,0,31,Desktop,Low
+1192,Data Science,5,25,94,8,50.96,5,24,Tablet,Low
+1193,AI & ML,1,60,54,7,85.03,6,83,Mobile,Medium
+1194,Programming,3,114,76,3,60.35,47,90,Desktop,High
+1195,AI & ML,8,174,79,10,82.59,26,46,Mobile,Medium
+1196,Data Science,11,179,23,11,42.87,14,98,Desktop,Medium
+1197,Programming,8,75,76,4,64.47,33,64,Tablet,Low
+1198,AI & ML,13,18,23,6,82.3,22,54,Desktop,Low
+1199,Design,4,116,53,7,53.61,47,45,Desktop,Low
+1200,Programming,2,109,25,4,87.72,48,42,Desktop,Low
+1201,Programming,13,95,65,8,77.85,23,32,Mobile,High
+1202,Design,8,73,79,9,75.25,14,22,Desktop,Medium
+1203,Business,8,31,37,11,61.21,34,48,Tablet,Low
+1204,Data Science,10,171,64,3,68.95,3,85,Desktop,Low
+1205,Business,4,166,74,3,75.84,43,83,Desktop,Low
+1206,AI & ML,3,175,50,7,68.35,36,47,Tablet,Medium
+1207,Design,2,119,34,0,81.9,16,55,Tablet,Low
+1208,Business,9,106,42,7,66.02,30,25,Mobile,Low
+1209,Programming,1,27,28,4,52.14,37,30,Tablet,Medium
+1210,AI & ML,7,80,36,10,52.84,9,57,Tablet,Low
+1211,AI & ML,5,136,80,0,40.35,49,53,Tablet,Low
+1212,Business,8,106,57,3,58.06,26,100,Desktop,Low
+1213,Business,4,10,53,1,84.94,41,86,Mobile,Low
+1214,Design,7,141,38,3,87.65,5,65,Tablet,Low
+1215,Data Science,13,13,41,7,52.15,5,48,Tablet,Low
+1216,Business,5,134,27,4,97.54,14,79,Tablet,Medium
+1217,Business,14,91,28,0,70.14,3,73,Desktop,Medium
+1218,Programming,5,36,42,6,95.02,47,88,Desktop,Medium
+1219,AI & ML,14,68,2,0,82.41,39,93,Mobile,High
+1220,Data Science,9,41,9,8,83.35,6,93,Mobile,Low
+1221,Programming,9,170,58,2,45.1,48,28,Desktop,High
+1222,Design,13,37,13,11,53.2,44,96,Tablet,Low
+1223,Design,9,115,75,2,40.53,46,29,Tablet,Low
+1224,Business,12,114,46,5,82.97,25,94,Mobile,Low
+1225,Business,6,79,41,9,60.67,30,87,Tablet,Low
+1226,Design,6,71,93,5,87.2,1,77,Desktop,High
+1227,Business,5,43,31,10,60.34,27,71,Mobile,Low
+1228,Data Science,9,96,31,10,89.16,41,53,Desktop,Low
+1229,Business,10,123,41,5,47.84,12,54,Desktop,Low
+1230,AI & ML,8,115,31,0,50.4,17,52,Tablet,Low
+1231,Business,7,65,25,4,60.45,29,91,Desktop,Low
+1232,Programming,7,122,0,11,64.51,10,51,Desktop,Low
+1233,Data Science,6,22,55,5,60.92,12,74,Tablet,Low
+1234,Programming,5,27,1,7,85.82,23,27,Desktop,High
+1235,Programming,13,122,80,0,45.82,28,65,Tablet,Low
+1236,AI & ML,4,48,29,4,61.07,4,33,Desktop,Low
+1237,Data Science,3,179,70,2,90.23,34,27,Tablet,Medium
+1238,Data Science,3,88,51,1,44.01,18,90,Tablet,High
+1239,Data Science,6,155,90,10,96.54,12,96,Mobile,Low
+1240,Data Science,4,160,8,7,99.18,4,73,Desktop,Low
+1241,Data Science,12,39,21,6,45.31,43,40,Desktop,High
+1242,AI & ML,12,107,33,9,57.48,13,94,Mobile,Low
+1243,Business,6,67,48,6,62.34,37,33,Tablet,Medium
+1244,Programming,3,76,0,4,86.58,21,94,Tablet,Low
+1245,Data Science,4,80,72,11,75.76,8,21,Mobile,High
+1246,Business,9,155,83,8,78.66,48,80,Mobile,High
+1247,Business,5,115,52,4,85.45,39,36,Tablet,High
+1248,Programming,13,16,82,1,47.08,25,97,Tablet,Low
+1249,AI & ML,7,49,99,2,89.99,44,67,Mobile,Low
+1250,Design,10,79,39,3,82.34,4,27,Desktop,Low
+1251,Design,2,77,44,4,74.64,28,75,Tablet,High
+1252,Business,14,58,67,2,93.38,21,36,Mobile,High
+1253,Programming,14,61,8,11,82.02,48,88,Desktop,Low
+1254,Design,5,123,21,6,52.1,2,31,Desktop,Medium
+1255,Business,9,116,17,4,65.78,27,57,Desktop,Low
+1256,AI & ML,11,38,75,4,69.64,37,37,Desktop,Low
+1257,Design,3,158,42,5,43.31,13,45,Mobile,Medium
+1258,Business,14,87,38,6,97.28,46,56,Tablet,Low
+1259,Business,9,18,72,9,47.71,13,89,Desktop,Low
+1260,Data Science,14,85,5,9,81.85,42,60,Desktop,Low
+1261,AI & ML,11,51,82,7,70.37,10,98,Mobile,High
+1262,Data Science,6,137,47,8,41.54,8,61,Desktop,High
+1263,Programming,4,29,6,10,95.48,37,95,Mobile,High
+1264,Data Science,7,164,79,3,91.11,46,60,Mobile,Medium
+1265,Data Science,8,175,68,4,71.46,43,66,Tablet,Medium
+1266,Design,6,81,15,4,53.74,5,33,Desktop,Low
+1267,Business,5,74,0,7,47.3,0,20,Tablet,High
+1268,AI & ML,6,122,36,8,61.8,24,36,Mobile,Medium
+1269,Data Science,5,33,82,6,55.33,15,74,Desktop,Medium
+1270,AI & ML,8,137,36,4,70.4,14,72,Mobile,Medium
+1271,Data Science,1,92,80,2,97.98,33,50,Mobile,High
+1272,Programming,11,72,63,0,74.5,16,81,Mobile,Low
+1273,Data Science,7,69,89,10,93.4,2,27,Desktop,Low
+1274,Design,10,108,85,8,79.05,2,49,Mobile,Medium
+1275,Business,10,71,61,4,68.51,36,96,Mobile,High
+1276,Programming,11,39,71,8,91.28,16,99,Desktop,Medium
+1277,Data Science,2,31,60,9,68.28,48,85,Tablet,Low
+1278,AI & ML,14,135,32,11,92.12,37,64,Mobile,Low
+1279,Programming,9,166,65,3,57.49,0,37,Tablet,Medium
+1280,Programming,1,178,29,4,47.73,6,64,Tablet,Medium
+1281,Data Science,11,51,19,3,91.32,25,38,Tablet,Medium
+1282,Programming,10,107,59,1,75.24,46,96,Tablet,Low
+1283,AI & ML,6,40,81,11,93.35,38,87,Tablet,High
+1284,Programming,9,167,73,0,96.27,18,69,Tablet,Medium
+1285,AI & ML,1,121,23,7,43.22,29,44,Desktop,Medium
+1286,Data Science,4,155,3,3,70.06,42,57,Desktop,Low
+1287,Business,4,131,36,4,62.5,13,55,Tablet,Low
+1288,Programming,9,26,3,5,77.55,12,87,Desktop,High
+1289,Business,11,47,76,7,87.62,19,75,Desktop,Low
+1290,AI & ML,5,151,88,10,56.84,25,58,Tablet,Medium
+1291,Programming,5,119,76,7,73.41,26,82,Tablet,Low
+1292,Design,6,31,17,6,82.52,24,26,Mobile,Medium
+1293,Business,1,65,87,3,48.07,8,77,Desktop,Low
+1294,Programming,1,128,65,5,88.84,40,99,Tablet,Low
+1295,Business,9,156,47,3,76.37,47,78,Desktop,High
+1296,Programming,3,66,32,6,96.97,11,67,Desktop,Medium
+1297,Data Science,4,44,57,11,60.37,9,24,Desktop,Low
+1298,Business,1,123,82,11,46.49,5,55,Mobile,Low
+1299,Design,9,134,72,10,70.39,49,44,Tablet,High
+1300,Design,8,138,27,0,45.15,33,64,Desktop,Low
+1301,AI & ML,2,61,34,4,98.17,40,38,Tablet,Medium
+1302,Programming,8,94,9,9,42.32,18,26,Desktop,Low
+1303,Business,7,174,64,11,85.21,5,77,Tablet,High
+1304,AI & ML,11,74,41,9,71.51,1,100,Tablet,Medium
+1305,Business,6,138,84,3,62.12,14,85,Tablet,Medium
+1306,Programming,1,30,8,10,43.95,16,99,Desktop,Low
+1307,Design,7,25,59,6,77.33,15,58,Mobile,High
+1308,Data Science,10,132,14,8,75.11,27,37,Tablet,Low
+1309,Design,7,70,98,4,56.85,20,20,Mobile,High
+1310,AI & ML,13,63,56,3,94.61,7,82,Tablet,Low
+1311,Data Science,14,177,68,8,58.25,9,22,Mobile,Medium
+1312,AI & ML,9,35,21,4,66.98,9,40,Tablet,Low
+1313,Programming,1,89,63,8,72.63,49,49,Mobile,Medium
+1314,Data Science,2,74,40,7,46.01,9,30,Tablet,Low
+1315,AI & ML,11,109,86,3,95.93,8,41,Tablet,Low
+1316,Programming,9,83,70,10,62.47,27,76,Mobile,Low
+1317,Design,13,26,55,10,44.85,23,22,Tablet,Low
+1318,Programming,9,130,22,6,63.24,18,49,Desktop,Low
+1319,Business,13,32,24,4,76.01,32,64,Tablet,Low
+1320,Programming,6,144,90,9,70.82,3,55,Tablet,High
+1321,Programming,6,80,5,3,81.67,2,91,Desktop,Low
+1322,Business,4,117,33,4,43.33,41,83,Desktop,Medium
+1323,AI & ML,4,88,62,4,57.07,11,73,Desktop,Low
+1324,AI & ML,5,171,8,10,89.15,17,87,Mobile,Medium
+1325,Programming,3,55,59,8,44.79,22,69,Desktop,Low
+1326,Business,1,87,48,11,91.33,19,50,Mobile,High
+1327,Business,1,25,96,8,45.51,5,48,Desktop,High
+1328,Design,12,80,50,5,90.07,33,78,Mobile,Low
+1329,AI & ML,13,105,59,3,61.65,41,55,Desktop,Medium
+1330,Data Science,7,156,69,1,76.73,1,96,Desktop,Low
+1331,AI & ML,1,11,36,2,49.17,29,92,Tablet,Medium
+1332,AI & ML,1,19,30,1,43.97,8,86,Desktop,Low
+1333,Design,3,134,97,4,52.96,26,95,Tablet,Low
+1334,Data Science,10,90,40,5,47.67,41,30,Desktop,Low
+1335,Design,4,149,61,10,58.74,33,30,Desktop,Medium
+1336,Data Science,4,79,92,4,70.86,39,45,Tablet,Low
+1337,Programming,2,159,57,1,75.33,23,72,Tablet,Medium
+1338,Data Science,1,41,13,11,87.39,48,33,Mobile,Medium
+1339,Design,3,114,35,4,79.37,16,83,Tablet,Low
+1340,AI & ML,11,93,35,8,76.53,28,99,Mobile,Medium
+1341,Data Science,4,138,78,3,64.71,35,29,Desktop,High
+1342,Data Science,3,67,7,11,68.43,49,50,Tablet,High
+1343,Business,8,155,25,9,64.87,11,55,Tablet,Medium
+1344,AI & ML,14,143,35,1,90.53,30,29,Desktop,Medium
+1345,Programming,10,54,47,2,53.8,48,45,Desktop,Medium
+1346,Design,1,106,84,2,40.34,8,39,Desktop,Low
+1347,Programming,14,32,27,8,79.08,18,63,Desktop,Low
+1348,AI & ML,2,32,67,3,52.15,45,81,Tablet,Low
+1349,Data Science,13,163,61,0,93.41,45,92,Desktop,Low
+1350,Data Science,7,144,79,0,91.54,16,98,Desktop,Low
+1351,AI & ML,4,88,85,6,44.6,1,28,Tablet,High
+1352,Data Science,8,53,75,6,46.38,39,90,Mobile,Low
+1353,Data Science,11,36,79,1,69.71,4,43,Tablet,Medium
+1354,Data Science,13,35,50,8,76.55,38,31,Mobile,Medium
+1355,Design,3,106,41,8,56.49,47,79,Desktop,Low
+1356,Design,6,45,100,4,83.01,15,97,Tablet,Low
+1357,Business,9,118,28,2,75.69,16,35,Desktop,Medium
+1358,Programming,1,64,81,2,59.49,26,48,Tablet,Medium
+1359,AI & ML,1,78,9,11,41.52,6,51,Mobile,High
+1360,AI & ML,8,70,38,2,85.01,7,54,Tablet,Low
+1361,AI & ML,3,139,81,5,52.89,7,62,Desktop,High
+1362,Business,5,64,0,3,90.07,22,72,Tablet,Low
+1363,Design,1,131,38,7,65.22,31,39,Desktop,Medium
+1364,Business,5,106,20,10,74.62,42,27,Tablet,Medium
+1365,AI & ML,11,89,64,10,92.38,46,61,Mobile,Low
+1366,Programming,6,96,14,10,91.82,17,96,Tablet,Low
+1367,Data Science,8,47,3,4,62.29,37,89,Tablet,Low
+1368,Design,13,128,59,0,52.53,11,35,Tablet,Low
+1369,Design,14,87,60,8,86.51,14,88,Tablet,Medium
+1370,Business,3,166,19,0,65.98,27,72,Mobile,Low
+1371,Design,3,163,9,5,51.52,37,64,Desktop,Medium
+1372,AI & ML,12,44,86,0,94.27,49,70,Tablet,Low
+1373,AI & ML,11,88,33,2,51.89,30,25,Tablet,Medium
+1374,Business,11,76,47,9,41.55,8,52,Tablet,Medium
+1375,AI & ML,10,96,32,4,41.22,7,98,Mobile,Medium
+1376,Programming,9,166,97,9,77.34,45,34,Desktop,Medium
+1377,Business,4,43,60,6,79.7,18,33,Desktop,Low
+1378,Programming,4,106,9,9,58.66,7,58,Tablet,High
+1379,Data Science,12,178,53,7,59.2,33,82,Tablet,Low
+1380,Programming,7,178,83,11,60.37,3,24,Desktop,Low
+1381,Data Science,2,160,64,8,80.81,30,100,Tablet,Low
+1382,Data Science,8,80,76,5,43.49,37,71,Tablet,Medium
+1383,Programming,6,12,0,10,95.75,2,35,Tablet,Medium
+1384,Business,3,67,4,8,53.35,34,57,Mobile,Medium
+1385,AI & ML,9,41,79,7,99.98,18,72,Mobile,Low
+1386,AI & ML,5,40,14,8,50.29,42,96,Desktop,Low
+1387,Data Science,8,91,27,9,86.29,28,72,Mobile,High
+1388,Data Science,7,52,94,3,53.4,9,65,Mobile,Medium
+1389,Business,14,144,22,8,44.85,11,34,Desktop,Low
+1390,Design,8,114,16,6,92.5,45,78,Mobile,Medium
+1391,Programming,7,10,97,4,91.53,29,69,Desktop,Low
+1392,Data Science,3,70,12,4,64.21,29,28,Tablet,Low
+1393,AI & ML,2,23,13,0,82.14,17,45,Desktop,Low
+1394,Business,7,15,10,1,73.42,23,22,Desktop,Low
+1395,Programming,3,112,27,9,91.18,31,66,Desktop,Low
+1396,Business,3,19,41,2,58.9,8,24,Tablet,High
+1397,Programming,2,80,95,7,71.42,46,81,Tablet,Medium
+1398,Programming,4,99,98,5,69.12,23,24,Tablet,Low
+1399,Data Science,8,167,60,11,61.23,25,29,Desktop,Medium
+1400,Business,12,158,63,9,93.49,2,99,Desktop,High
+1401,Business,1,135,30,10,49.95,22,82,Desktop,Low
+1402,AI & ML,1,106,80,4,48.97,10,44,Desktop,High
+1403,AI & ML,12,83,72,0,74.61,9,63,Desktop,Medium
+1404,Data Science,14,124,9,11,79.45,49,44,Desktop,Low
+1405,Data Science,5,179,7,10,51.68,35,49,Desktop,Low
+1406,Design,11,60,20,11,63.44,12,33,Mobile,Low
+1407,AI & ML,5,65,76,8,96.79,28,62,Tablet,Medium
+1408,Programming,11,50,58,2,54.8,37,47,Mobile,Low
+1409,Business,12,41,49,2,80.1,12,38,Tablet,Medium
+1410,Data Science,1,24,68,1,84.41,25,61,Desktop,Medium
+1411,Business,6,71,69,3,66.89,19,39,Mobile,Low
+1412,Business,1,164,29,11,96.25,4,98,Desktop,High
+1413,Design,5,37,94,1,84.2,19,30,Mobile,High
+1414,AI & ML,9,73,16,8,67.48,13,73,Mobile,Low
+1415,Data Science,12,139,74,11,74.16,44,43,Desktop,High
+1416,Business,14,136,19,9,81.56,13,89,Mobile,Low
+1417,Data Science,5,45,47,6,75.53,7,36,Mobile,Low
+1418,Programming,6,123,72,7,92.72,47,47,Tablet,Low
+1419,Design,8,22,1,2,61.41,12,69,Desktop,Medium
+1420,Programming,11,24,36,5,57.99,23,74,Desktop,Medium
+1421,Data Science,1,98,0,9,52.83,14,92,Mobile,Low
+1422,Data Science,14,31,3,5,42.27,0,29,Desktop,Low
+1423,AI & ML,2,83,99,0,42.58,21,40,Tablet,Low
+1424,Business,9,34,53,5,92.2,33,77,Tablet,High
+1425,Business,3,110,24,2,80.7,49,53,Desktop,High
+1426,Programming,6,126,2,10,79.63,39,62,Desktop,Medium
+1427,Design,5,175,8,2,76.88,2,30,Tablet,Medium
+1428,Business,11,50,85,2,90.95,25,52,Desktop,Medium
+1429,AI & ML,2,97,86,9,68.82,13,77,Mobile,Low
+1430,Programming,14,177,75,10,92.22,40,65,Desktop,Low
+1431,Programming,7,119,73,10,61.57,7,80,Mobile,Medium
+1432,AI & ML,4,129,33,9,95.6,48,81,Tablet,Medium
+1433,Design,1,106,42,10,81.92,15,20,Desktop,Low
+1434,AI & ML,13,154,73,7,55.43,41,40,Tablet,High
+1435,Design,4,66,93,4,73.85,20,81,Desktop,High
+1436,AI & ML,6,139,21,3,71.98,9,83,Mobile,Low
+1437,AI & ML,7,105,69,8,48.27,24,92,Desktop,Medium
+1438,Data Science,7,130,1,8,75.47,37,75,Tablet,High
+1439,Programming,14,71,93,0,58.89,21,20,Mobile,Low
+1440,AI & ML,7,146,65,1,43.14,48,40,Desktop,Medium
+1441,AI & ML,3,77,31,7,96.92,47,41,Tablet,Low
+1442,Business,6,90,15,4,78.49,46,73,Tablet,Low
+1443,Programming,13,26,75,6,92.62,45,23,Desktop,High
+1444,Business,8,126,0,0,80.56,3,84,Tablet,Low
+1445,Programming,4,59,71,11,61.42,3,70,Mobile,Low
+1446,Business,13,121,47,9,70.76,29,93,Desktop,Low
+1447,AI & ML,8,103,49,11,80.54,1,82,Mobile,Low
+1448,AI & ML,2,177,12,4,97.62,28,34,Tablet,Low
+1449,Data Science,10,94,14,10,55.22,42,55,Tablet,Medium
+1450,Business,9,158,52,11,92.5,35,48,Tablet,Low
+1451,Design,9,155,43,2,95.44,20,71,Mobile,Medium
+1452,Data Science,8,166,7,9,80.22,20,65,Tablet,Medium
+1453,Business,10,161,73,11,95.88,47,88,Desktop,Low
+1454,Business,14,83,45,11,63.87,20,48,Desktop,Medium
+1455,Data Science,13,118,68,1,97.18,3,66,Tablet,Medium
+1456,AI & ML,10,154,18,1,82.17,0,44,Desktop,Low
+1457,Business,1,27,37,8,42.52,25,99,Mobile,Low
+1458,AI & ML,2,51,10,3,94.41,1,35,Mobile,Medium
+1459,Data Science,6,110,42,3,69.07,8,60,Tablet,High
+1460,AI & ML,10,54,19,6,67.62,44,84,Desktop,Low
+1461,Programming,5,91,19,9,73.99,17,88,Desktop,Low
+1462,Design,12,26,20,9,48.96,47,39,Tablet,Low
+1463,Business,14,82,81,1,68.15,47,88,Mobile,Low
+1464,Design,9,23,56,2,89.87,41,55,Tablet,Medium
+1465,AI & ML,5,166,49,2,40.93,40,77,Desktop,Low
+1466,Business,2,141,73,5,56.38,10,67,Desktop,Low
+1467,AI & ML,10,91,97,2,40.15,24,21,Tablet,Low
+1468,Programming,4,157,25,10,64.94,25,99,Mobile,Low
+1469,Data Science,9,129,29,4,83.7,35,48,Mobile,Low
+1470,Business,1,129,72,3,87.93,41,35,Tablet,Low
+1471,Programming,11,56,30,2,96.71,34,54,Desktop,Low
+1472,Programming,1,116,41,7,76.51,37,81,Mobile,High
+1473,Business,12,117,67,9,55.28,2,100,Tablet,High
+1474,AI & ML,7,18,60,2,95.45,40,23,Desktop,Low
+1475,Programming,11,88,60,5,86.52,34,87,Mobile,Medium
+1476,Design,3,164,69,6,74.47,49,70,Mobile,Low
+1477,Programming,10,24,77,6,81.74,39,52,Tablet,Low
+1478,AI & ML,2,28,67,1,95.46,21,97,Desktop,Low
+1479,AI & ML,9,99,89,2,82.74,7,43,Mobile,Low
+1480,Design,3,35,16,11,62.1,14,94,Tablet,Medium
+1481,Programming,2,163,18,9,82.78,44,44,Mobile,Low
+1482,AI & ML,12,163,50,9,42.42,6,47,Desktop,Low
+1483,Business,8,101,69,3,63.18,18,26,Mobile,Medium
+1484,Data Science,10,91,62,6,64.38,39,55,Desktop,Medium
+1485,Data Science,6,140,92,1,50.01,41,29,Mobile,Low
+1486,Data Science,6,51,74,2,41.39,16,55,Mobile,Low
+1487,Programming,10,28,79,6,48.0,0,37,Tablet,Low
+1488,Design,11,26,29,6,79.28,44,25,Mobile,Low
+1489,AI & ML,7,170,24,9,88.14,28,26,Desktop,Low
+1490,Business,7,85,74,2,99.29,12,31,Tablet,Low
+1491,Business,11,72,70,11,60.78,47,60,Desktop,Medium
+1492,Programming,13,140,25,0,75.96,28,82,Desktop,Medium
+1493,Data Science,6,116,55,11,96.23,40,44,Tablet,Medium
+1494,Programming,4,58,21,2,50.02,41,100,Desktop,Low
+1495,Design,11,64,88,4,83.06,5,72,Mobile,Low
+1496,Design,9,163,18,6,85.3,4,52,Tablet,Low
+1497,AI & ML,6,108,30,3,45.34,33,92,Mobile,Medium
+1498,AI & ML,4,61,25,10,91.67,10,25,Mobile,Low
+1499,Design,12,109,41,10,88.79,8,81,Desktop,High
+1500,Design,3,126,40,0,42.0,37,85,Desktop,Medium
+1501,Design,4,127,99,5,45.47,39,28,Mobile,High
+1502,Programming,3,16,22,1,42.95,40,86,Tablet,Medium
+1503,Design,2,55,46,11,60.08,8,35,Mobile,High
+1504,Business,14,55,12,2,70.56,7,74,Mobile,Medium
+1505,Data Science,5,109,88,3,71.94,43,59,Desktop,High
+1506,Design,2,153,65,5,56.06,39,45,Desktop,Low
+1507,Data Science,6,161,65,5,94.7,2,57,Mobile,Low
+1508,Programming,3,63,15,6,62.1,12,54,Mobile,Medium
+1509,Data Science,6,71,72,4,42.73,18,87,Desktop,High
+1510,Programming,11,138,27,6,58.01,33,78,Mobile,Low
+1511,Business,10,58,76,1,71.87,31,33,Desktop,Low
+1512,Programming,9,34,34,0,64.49,48,66,Mobile,Medium
+1513,Programming,1,19,40,11,56.43,15,90,Tablet,Medium
+1514,AI & ML,6,127,76,9,47.88,35,91,Tablet,Low
+1515,Design,9,153,30,7,89.15,17,61,Mobile,Medium
+1516,Design,11,166,84,0,99.77,13,70,Desktop,High
+1517,Business,4,101,31,11,59.77,29,38,Mobile,High
+1518,Business,11,143,53,1,62.9,1,85,Mobile,Low
+1519,Design,12,153,97,10,77.08,12,66,Desktop,Low
+1520,AI & ML,2,157,71,11,83.11,26,84,Mobile,Low
+1521,Design,13,89,58,9,63.52,16,61,Desktop,Low
+1522,AI & ML,4,80,40,5,94.3,30,57,Mobile,Low
+1523,Business,1,87,65,0,73.6,14,32,Desktop,Medium
+1524,Data Science,3,52,95,9,67.02,19,63,Mobile,Low
+1525,Business,10,163,53,2,78.8,4,43,Tablet,High
+1526,Business,9,99,39,6,97.17,6,49,Desktop,High
+1527,Programming,10,87,27,11,87.67,17,89,Tablet,Low
+1528,Programming,5,170,36,7,42.4,10,57,Desktop,High
+1529,Programming,11,35,64,3,59.94,31,42,Desktop,Medium
+1530,Programming,6,130,73,11,68.23,49,93,Desktop,Medium
+1531,AI & ML,3,54,54,2,58.87,26,76,Desktop,Low
+1532,Design,5,72,3,0,82.01,25,98,Mobile,Medium
+1533,Data Science,11,77,98,11,89.58,36,42,Mobile,Low
+1534,Business,8,163,9,8,83.88,44,55,Desktop,Medium
+1535,AI & ML,6,11,46,9,99.36,27,76,Mobile,Low
+1536,Data Science,4,151,74,5,56.35,49,20,Desktop,Medium
+1537,AI & ML,2,117,13,5,92.5,1,91,Desktop,Low
+1538,AI & ML,14,39,37,8,86.0,19,22,Tablet,Low
+1539,Business,9,58,11,0,61.73,3,33,Desktop,Medium
+1540,Design,13,149,44,5,84.05,12,100,Desktop,Medium
+1541,Programming,12,53,16,11,46.24,23,53,Mobile,Low
+1542,Design,1,170,79,4,87.36,47,89,Desktop,Low
+1543,Business,1,22,34,10,71.94,37,88,Desktop,High
+1544,Business,13,87,65,5,57.54,39,70,Tablet,Medium
+1545,Business,4,135,74,10,79.35,47,48,Mobile,Low
+1546,Data Science,7,107,40,7,78.5,44,67,Mobile,Medium
+1547,Design,1,35,66,4,52.57,28,98,Tablet,Low
+1548,Design,9,158,28,1,41.82,35,98,Desktop,Low
+1549,AI & ML,4,165,17,11,66.02,1,35,Tablet,Medium
+1550,AI & ML,3,57,19,11,74.17,40,76,Mobile,High
+1551,AI & ML,1,177,13,1,92.6,17,29,Tablet,Medium
+1552,Business,10,75,33,9,95.69,48,38,Mobile,Low
+1553,Design,4,96,48,4,71.73,7,86,Tablet,High
+1554,Business,9,88,53,2,85.23,14,55,Desktop,Low
+1555,Data Science,13,32,30,9,66.36,40,23,Desktop,High
+1556,AI & ML,14,90,57,2,84.76,16,94,Mobile,Low
+1557,Business,10,57,41,7,52.29,22,52,Tablet,Low
+1558,Business,6,133,57,6,62.26,1,47,Mobile,Medium
+1559,Data Science,6,139,81,0,78.05,5,99,Desktop,Low
+1560,Programming,1,93,29,11,41.09,28,28,Mobile,Medium
+1561,Design,10,29,24,11,83.35,26,94,Desktop,Medium
+1562,Programming,2,55,62,4,90.13,36,25,Mobile,Low
+1563,AI & ML,11,140,18,8,63.95,48,68,Tablet,Medium
+1564,Business,6,21,71,3,66.88,33,95,Desktop,Low
+1565,Data Science,2,49,91,0,91.08,17,41,Mobile,Low
+1566,Data Science,3,75,7,7,86.54,41,67,Desktop,High
+1567,Design,4,109,94,4,57.29,9,40,Tablet,High
+1568,Programming,11,87,2,1,59.44,37,52,Desktop,Low
+1569,Design,5,25,66,11,80.73,43,100,Tablet,Medium
+1570,Business,9,92,85,0,73.79,16,75,Desktop,Low
+1571,Design,12,171,80,11,49.73,12,48,Tablet,Medium
+1572,Data Science,4,53,99,11,58.6,47,72,Desktop,High
+1573,Data Science,13,143,16,11,94.0,41,59,Tablet,Low
+1574,AI & ML,11,109,13,2,81.29,26,93,Mobile,High
+1575,AI & ML,9,31,8,8,99.16,1,37,Mobile,Low
+1576,Business,11,27,61,0,86.02,33,66,Desktop,Low
+1577,Programming,10,21,93,3,96.52,30,32,Tablet,High
+1578,Design,3,132,20,7,52.97,22,46,Mobile,Medium
+1579,Business,8,126,75,7,86.29,6,81,Desktop,Low
+1580,AI & ML,12,60,36,9,41.21,37,93,Mobile,Medium
+1581,Design,1,80,95,11,80.25,32,64,Tablet,Low
+1582,AI & ML,11,57,10,10,68.16,11,22,Desktop,Low
+1583,Design,9,28,19,10,60.81,44,41,Tablet,High
+1584,Programming,9,15,34,7,91.74,11,46,Tablet,Medium
+1585,Business,10,93,52,9,91.26,18,74,Tablet,High
+1586,Design,2,164,46,7,41.34,8,86,Mobile,Low
+1587,Data Science,4,62,74,3,76.57,9,52,Desktop,Medium
+1588,Data Science,13,116,51,7,62.07,16,21,Tablet,High
+1589,Design,8,110,7,8,64.94,49,94,Mobile,Low
+1590,Design,7,57,3,6,89.92,39,65,Tablet,Low
+1591,Design,1,144,26,11,58.59,38,93,Mobile,Medium
+1592,Data Science,5,78,43,1,96.58,40,52,Desktop,Low
+1593,Data Science,7,20,39,8,50.78,9,77,Desktop,Low
+1594,Design,4,152,46,10,79.76,11,26,Desktop,High
+1595,AI & ML,1,140,93,7,80.33,14,34,Desktop,High
+1596,AI & ML,9,131,43,4,55.13,30,45,Tablet,Medium
+1597,Programming,14,78,47,11,59.49,14,30,Mobile,Medium
+1598,Business,5,32,90,2,90.09,27,57,Desktop,High
+1599,AI & ML,11,46,84,6,85.71,3,46,Tablet,Medium
+1600,Data Science,2,18,51,1,59.75,35,26,Desktop,Low
+1601,AI & ML,8,24,83,2,72.04,0,20,Desktop,Low
+1602,Programming,11,140,67,11,43.7,43,93,Desktop,Low
+1603,Programming,13,102,10,8,52.52,33,40,Mobile,Low
+1604,Business,2,26,76,3,69.15,46,98,Mobile,Low
+1605,AI & ML,3,163,72,3,45.16,16,49,Mobile,Low
+1606,Data Science,14,158,3,2,90.6,38,27,Desktop,Low
+1607,Data Science,10,81,75,4,83.08,37,22,Tablet,Low
+1608,Design,1,158,72,2,96.62,43,74,Tablet,Medium
+1609,Data Science,11,130,76,8,81.61,32,34,Tablet,Low
+1610,Business,2,20,47,2,96.42,20,55,Desktop,Medium
+1611,Business,14,175,25,1,73.27,25,25,Mobile,Low
+1612,Data Science,7,81,76,11,76.01,45,61,Tablet,High
+1613,Data Science,10,115,38,4,98.62,35,69,Desktop,High
+1614,Design,2,134,91,5,78.53,4,37,Desktop,Medium
+1615,Data Science,6,44,57,0,41.85,32,69,Tablet,Medium
+1616,Design,3,128,18,11,83.43,0,49,Tablet,High
+1617,Design,4,23,87,10,94.33,5,96,Desktop,Low
+1618,Data Science,11,23,82,5,87.73,36,58,Tablet,High
+1619,Programming,13,19,76,9,75.03,1,31,Desktop,Medium
+1620,Programming,8,149,76,2,80.28,4,78,Tablet,Medium
+1621,Design,14,47,57,3,99.41,25,95,Mobile,Low
+1622,Data Science,3,117,27,5,45.44,40,63,Desktop,Medium
+1623,Programming,10,128,65,7,80.03,46,23,Mobile,Medium
+1624,Data Science,6,43,9,8,57.0,12,55,Tablet,Medium
+1625,Data Science,1,178,85,5,78.41,11,67,Desktop,Medium
+1626,Data Science,7,19,76,6,76.46,4,33,Tablet,Low
+1627,AI & ML,8,131,57,4,49.21,1,100,Desktop,Low
+1628,Data Science,11,154,72,11,52.4,3,68,Tablet,Low
+1629,AI & ML,14,154,96,8,77.3,26,86,Mobile,Low
+1630,Design,8,124,13,3,47.69,49,96,Mobile,Low
+1631,Programming,3,10,83,9,55.91,9,28,Tablet,Low
+1632,Programming,14,21,14,10,90.11,12,40,Mobile,Low
+1633,Programming,10,112,95,5,59.63,43,91,Mobile,Low
+1634,Programming,1,13,32,4,69.28,1,100,Tablet,Low
+1635,Programming,9,179,16,0,96.47,25,35,Desktop,High
+1636,Programming,13,150,23,4,53.63,14,35,Tablet,Medium
+1637,Programming,6,107,29,4,63.38,45,47,Desktop,Medium
+1638,Design,11,115,61,8,76.39,9,70,Mobile,Low
+1639,Data Science,9,94,12,0,85.32,21,75,Mobile,Medium
+1640,Business,7,130,61,4,94.1,39,99,Mobile,Medium
+1641,AI & ML,1,141,46,6,94.93,24,76,Mobile,High
+1642,Business,12,91,15,10,86.6,14,71,Mobile,Medium
+1643,Business,12,28,65,5,53.7,12,65,Desktop,Medium
+1644,Data Science,1,139,80,5,41.49,7,97,Desktop,High
+1645,Data Science,6,21,95,11,63.03,20,57,Desktop,Low
+1646,Data Science,5,90,42,6,48.49,20,67,Tablet,Low
+1647,Programming,9,83,7,5,82.62,21,60,Mobile,Medium
+1648,Design,2,107,2,4,79.67,45,78,Mobile,Low
+1649,Programming,8,15,11,9,42.64,32,86,Mobile,Low
+1650,Design,11,145,83,4,90.2,44,93,Tablet,Medium
+1651,Design,5,134,15,8,54.92,26,85,Tablet,Low
+1652,Business,2,60,77,7,65.93,39,46,Tablet,Medium
+1653,Business,13,20,79,11,80.08,49,51,Mobile,High
+1654,Design,10,136,58,9,65.77,21,75,Desktop,Low
+1655,Design,11,149,48,3,66.48,29,29,Tablet,Low
+1656,Programming,11,82,62,3,43.94,8,59,Tablet,Low
+1657,Programming,12,11,61,9,64.09,44,36,Desktop,Low
+1658,Business,6,17,48,4,85.89,34,77,Tablet,Low
+1659,Data Science,10,148,50,2,94.91,17,25,Desktop,Low
+1660,Design,8,133,32,7,64.81,41,58,Mobile,Low
+1661,Programming,4,62,29,6,65.42,4,37,Desktop,Low
+1662,Business,2,19,58,4,82.16,26,92,Desktop,Medium
+1663,Programming,12,121,75,9,96.57,5,91,Mobile,High
+1664,Design,11,17,14,2,56.02,31,61,Tablet,Medium
+1665,Design,5,45,81,4,66.41,7,23,Mobile,Medium
+1666,AI & ML,12,115,91,2,87.76,38,39,Tablet,Low
+1667,Data Science,2,23,22,9,76.58,20,47,Tablet,Medium
+1668,AI & ML,2,95,77,4,46.64,17,59,Desktop,Low
+1669,Business,6,158,93,0,77.66,13,84,Mobile,Low
+1670,Programming,11,59,96,5,51.2,14,63,Desktop,High
+1671,Business,10,176,44,9,70.61,41,42,Mobile,Low
+1672,Design,9,29,61,3,71.75,25,76,Mobile,Low
+1673,AI & ML,13,96,78,3,92.57,43,66,Desktop,High
+1674,AI & ML,4,144,70,7,67.75,31,32,Tablet,High
+1675,AI & ML,6,146,14,1,56.77,38,35,Tablet,Low
+1676,Business,7,138,45,3,53.86,27,74,Mobile,Low
+1677,Design,13,163,63,1,92.46,38,84,Tablet,Medium
+1678,Programming,11,175,45,0,50.26,42,100,Desktop,Medium
+1679,Programming,6,47,55,9,65.55,31,35,Desktop,Low
+1680,Business,8,53,43,2,51.23,12,56,Desktop,Medium
+1681,AI & ML,4,95,74,11,86.4,14,71,Mobile,High
+1682,Data Science,12,53,28,7,68.46,17,29,Mobile,Low
+1683,Business,1,83,94,5,61.07,38,57,Tablet,High
+1684,Business,7,128,61,11,61.67,5,63,Desktop,High
+1685,Design,3,131,88,6,91.13,10,93,Desktop,Low
+1686,Programming,14,143,51,1,73.23,31,73,Mobile,Medium
+1687,Business,6,154,53,5,83.07,39,70,Mobile,Low
+1688,Business,2,60,87,7,93.82,19,71,Mobile,Medium
+1689,AI & ML,9,47,56,7,94.1,32,89,Desktop,Medium
+1690,AI & ML,1,161,82,3,59.71,39,78,Desktop,Low
+1691,Data Science,6,60,65,5,97.15,7,32,Tablet,Medium
+1692,Design,6,19,21,4,41.49,34,60,Desktop,High
+1693,Data Science,5,129,19,8,62.61,4,31,Tablet,Low
+1694,AI & ML,13,158,32,7,93.75,34,69,Tablet,Low
+1695,Programming,5,79,71,1,56.48,46,76,Desktop,Low
+1696,AI & ML,1,94,24,11,56.38,13,69,Tablet,Medium
+1697,Design,10,66,45,6,58.16,20,76,Tablet,High
+1698,AI & ML,12,135,72,6,76.74,46,73,Mobile,High
+1699,Design,5,48,97,10,66.3,23,85,Desktop,Low
+1700,Design,2,42,56,11,83.6,16,27,Tablet,Medium
+1701,Design,7,27,86,0,93.69,17,82,Tablet,Low
+1702,Design,3,66,4,0,80.45,33,28,Tablet,Low
+1703,Design,13,105,54,11,52.27,11,79,Desktop,Low
+1704,Programming,4,57,60,3,95.96,15,82,Mobile,Low
+1705,Data Science,3,51,88,4,55.87,3,91,Mobile,Medium
+1706,Business,3,36,7,3,48.99,24,22,Desktop,High
+1707,Data Science,4,83,15,6,45.4,33,92,Desktop,Medium
+1708,Design,5,119,47,2,73.8,27,32,Desktop,Medium
+1709,Programming,1,179,60,6,46.83,45,28,Desktop,Low
+1710,AI & ML,4,41,14,7,48.33,10,71,Mobile,High
+1711,Programming,12,35,64,5,58.0,12,81,Tablet,Medium
+1712,Design,12,34,21,5,56.9,30,27,Tablet,High
+1713,Programming,11,84,2,7,76.25,24,64,Desktop,Low
+1714,Programming,8,32,53,7,89.0,38,72,Desktop,Medium
+1715,Design,10,66,13,6,85.68,9,82,Tablet,Medium
+1716,Programming,7,135,35,5,55.75,23,100,Mobile,Low
+1717,Business,9,96,81,5,54.72,0,76,Desktop,Medium
+1718,Business,5,40,81,9,97.95,24,73,Desktop,High
+1719,Programming,13,73,66,10,40.49,27,38,Mobile,Low
+1720,AI & ML,10,42,9,5,92.78,35,86,Mobile,Low
+1721,Design,4,11,48,7,51.98,17,65,Mobile,Medium
+1722,Business,8,27,64,0,96.84,5,29,Desktop,Low
+1723,AI & ML,9,170,90,4,60.54,1,37,Mobile,Medium
+1724,Programming,13,93,56,2,66.42,2,31,Desktop,Medium
+1725,AI & ML,7,44,26,11,82.43,45,68,Desktop,Low
+1726,Data Science,14,123,74,7,75.26,7,42,Mobile,High
+1727,Business,7,155,4,10,59.08,30,81,Tablet,Medium
+1728,Programming,5,119,70,5,73.23,47,30,Mobile,High
+1729,Design,4,97,82,1,83.84,18,92,Tablet,Medium
+1730,Programming,14,81,56,6,42.54,49,75,Mobile,High
+1731,Design,10,134,92,6,40.67,5,74,Mobile,Low
+1732,Programming,1,39,14,4,67.48,13,44,Desktop,Low
+1733,AI & ML,10,62,98,7,47.91,2,28,Desktop,Low
+1734,AI & ML,10,147,100,4,79.86,47,31,Desktop,Low
+1735,AI & ML,7,96,75,0,52.84,0,30,Desktop,High
+1736,Data Science,1,148,29,8,65.97,43,57,Desktop,Low
+1737,Design,1,173,19,3,51.86,29,47,Desktop,High
+1738,AI & ML,5,170,36,1,72.91,45,27,Desktop,Low
+1739,Data Science,13,22,2,3,46.96,18,93,Tablet,Low
+1740,Design,9,49,72,8,41.39,18,66,Tablet,High
+1741,Programming,6,98,40,1,43.07,8,55,Desktop,Low
+1742,Data Science,3,77,38,3,97.26,6,69,Tablet,Medium
+1743,Business,13,51,25,1,48.54,45,28,Mobile,Low
+1744,Data Science,3,156,1,4,82.51,36,79,Tablet,High
+1745,Data Science,7,103,22,2,44.08,49,91,Desktop,Medium
+1746,Design,6,28,22,9,46.49,40,86,Tablet,Medium
+1747,Programming,9,32,84,1,70.53,6,72,Mobile,Low
+1748,Business,6,63,15,8,67.89,8,36,Tablet,Low
+1749,AI & ML,5,74,8,4,97.09,3,72,Desktop,High
+1750,AI & ML,10,149,12,9,96.69,24,47,Mobile,High
+1751,Data Science,7,33,27,4,86.78,48,82,Mobile,Low
+1752,Design,1,43,26,0,76.13,11,34,Tablet,Low
+1753,Design,12,62,50,5,67.3,5,38,Mobile,Low
+1754,AI & ML,7,145,63,6,61.37,17,89,Mobile,Low
+1755,Business,3,27,51,0,96.83,39,66,Mobile,Medium
+1756,Programming,14,66,80,8,76.17,20,90,Desktop,Low
+1757,Business,9,121,37,7,74.74,14,67,Mobile,Low
+1758,Programming,6,14,99,11,53.91,2,92,Tablet,Medium
+1759,AI & ML,9,163,64,7,42.8,1,39,Tablet,Low
+1760,Programming,13,167,17,6,96.71,40,56,Mobile,Medium
+1761,Design,5,22,62,4,58.82,39,94,Tablet,High
+1762,Data Science,7,92,50,2,66.56,3,21,Mobile,Low
+1763,Data Science,13,38,8,11,46.88,31,83,Tablet,Medium
+1764,AI & ML,14,12,12,8,90.22,1,55,Mobile,Low
+1765,Design,4,99,39,6,41.66,45,24,Mobile,Low
+1766,Business,7,113,54,10,90.04,28,83,Mobile,Low
+1767,Design,13,132,78,9,48.42,1,26,Desktop,Low
+1768,Data Science,1,85,42,9,93.19,33,89,Tablet,Low
+1769,Data Science,7,139,43,7,83.79,26,41,Mobile,Low
+1770,Design,8,117,67,5,49.88,38,93,Desktop,High
+1771,Design,5,165,32,11,73.95,43,65,Desktop,Medium
+1772,Data Science,2,91,23,10,58.76,37,59,Mobile,High
+1773,Business,5,86,35,4,50.69,17,80,Mobile,Medium
+1774,AI & ML,6,11,9,7,91.55,35,65,Mobile,Low
+1775,AI & ML,12,136,99,2,64.21,18,47,Mobile,Low
+1776,Design,2,144,19,11,63.91,26,54,Mobile,Low
+1777,AI & ML,14,35,74,6,50.19,44,20,Tablet,Low
+1778,Data Science,6,97,11,1,62.98,19,48,Mobile,Medium
+1779,Data Science,6,25,61,2,92.3,20,28,Mobile,Medium
+1780,Design,1,160,17,11,61.79,22,28,Tablet,Low
+1781,Design,14,177,93,1,97.1,29,41,Desktop,Low
+1782,Design,1,82,100,4,96.78,24,82,Tablet,Low
+1783,Business,14,41,62,6,48.69,30,85,Desktop,Low
+1784,AI & ML,11,24,83,10,50.64,26,99,Desktop,Low
+1785,Design,10,150,24,9,91.76,33,77,Tablet,Medium
+1786,Programming,3,14,11,10,63.57,7,89,Mobile,Low
+1787,Programming,14,83,20,10,40.26,18,74,Desktop,Medium
+1788,Data Science,10,61,24,10,56.43,40,32,Mobile,Low
+1789,AI & ML,10,86,10,9,75.86,25,38,Tablet,Low
+1790,Design,12,178,63,0,87.96,27,98,Desktop,High
+1791,Programming,3,119,72,9,48.0,3,52,Mobile,Medium
+1792,AI & ML,4,152,49,8,46.63,30,93,Desktop,Low
+1793,Data Science,2,115,61,0,95.33,15,84,Desktop,High
+1794,Business,9,136,88,0,85.07,9,79,Tablet,Low
+1795,AI & ML,10,16,98,11,75.39,37,31,Mobile,Low
+1796,AI & ML,12,49,95,9,86.15,47,62,Mobile,Medium
+1797,Business,11,165,48,7,65.73,9,36,Desktop,Medium
+1798,AI & ML,14,169,13,5,85.51,44,87,Mobile,Low
+1799,Data Science,7,108,0,5,62.31,8,48,Desktop,Low
+1800,Data Science,7,152,80,11,54.65,38,74,Tablet,High
+1801,Business,6,94,24,8,83.74,35,26,Tablet,Low
+1802,Design,3,74,58,3,65.18,35,63,Mobile,Low
+1803,Programming,6,141,71,7,98.88,18,96,Tablet,Medium
+1804,Design,14,20,68,3,60.97,18,24,Tablet,High
+1805,AI & ML,12,117,4,1,95.3,11,79,Mobile,Low
+1806,Programming,8,35,98,10,95.98,12,25,Desktop,Medium
+1807,Business,8,174,18,7,54.51,24,26,Tablet,Medium
+1808,Business,11,160,22,11,87.89,35,65,Mobile,Low
+1809,Programming,13,94,8,6,65.98,24,76,Mobile,Medium
+1810,Data Science,9,177,93,3,95.05,27,73,Mobile,High
+1811,Programming,1,160,49,8,67.01,41,65,Tablet,Low
+1812,AI & ML,14,132,15,8,84.66,38,29,Tablet,Low
+1813,Data Science,1,153,32,7,68.02,29,23,Desktop,High
+1814,Business,3,77,1,0,53.67,4,86,Desktop,Medium
+1815,Programming,3,113,13,6,51.96,16,44,Desktop,Low
+1816,Design,10,89,0,4,65.53,17,97,Desktop,Medium
+1817,Design,8,168,89,6,85.33,42,80,Desktop,Medium
+1818,AI & ML,10,62,57,11,76.3,46,57,Desktop,Medium
+1819,Design,1,115,88,8,81.32,20,51,Mobile,High
+1820,Programming,13,162,15,1,56.94,21,42,Desktop,Low
+1821,Programming,2,53,78,10,68.89,38,56,Tablet,Low
+1822,Design,2,149,89,3,42.66,49,22,Desktop,Medium
+1823,Programming,3,99,46,3,89.05,5,32,Tablet,Low
+1824,AI & ML,13,110,43,1,99.39,49,53,Desktop,Medium
+1825,Data Science,6,106,79,2,64.41,15,84,Mobile,Low
+1826,AI & ML,1,18,13,10,40.66,1,95,Mobile,Low
+1827,AI & ML,2,21,92,7,50.19,0,27,Tablet,Low
+1828,Programming,13,78,23,11,79.15,29,28,Desktop,Medium
+1829,Data Science,13,37,54,8,76.72,42,47,Mobile,Medium
+1830,Programming,1,65,14,5,87.27,36,97,Mobile,Low
+1831,Business,5,108,82,9,55.23,47,37,Desktop,Low
+1832,Programming,13,119,71,1,85.82,22,61,Tablet,Low
+1833,Programming,13,86,33,1,81.28,0,60,Tablet,Medium
+1834,Programming,7,112,1,6,59.37,18,89,Tablet,Low
+1835,Data Science,8,115,26,7,72.73,45,52,Mobile,Medium
+1836,Programming,10,118,73,7,48.84,2,96,Desktop,Medium
+1837,Data Science,1,121,98,5,67.15,1,73,Mobile,Low
+1838,Design,7,67,86,9,92.87,36,55,Mobile,Medium
+1839,Business,13,87,71,7,65.27,16,75,Mobile,Low
+1840,Data Science,5,84,91,0,90.37,27,36,Mobile,Medium
+1841,Design,10,51,22,8,75.42,17,29,Desktop,Low
+1842,Data Science,1,175,67,11,51.51,32,63,Mobile,Low
+1843,Data Science,3,77,13,0,74.87,14,21,Mobile,Medium
+1844,Business,7,42,62,2,70.36,21,33,Tablet,Low
+1845,AI & ML,10,80,92,11,63.92,40,60,Mobile,Medium
+1846,AI & ML,1,65,64,8,47.18,26,21,Desktop,Medium
+1847,Data Science,7,114,67,10,65.0,36,38,Mobile,Medium
+1848,Programming,5,110,62,4,44.37,31,99,Desktop,Low
+1849,Design,1,60,95,8,45.93,44,20,Desktop,Medium
+1850,Programming,1,83,96,8,64.95,18,21,Desktop,Medium
+1851,Programming,14,130,89,5,58.32,27,46,Tablet,Low
+1852,Data Science,1,152,80,10,95.53,27,21,Tablet,Medium
+1853,Data Science,11,175,86,0,62.54,9,70,Mobile,High
+1854,Data Science,9,152,63,9,85.47,19,29,Mobile,Low
+1855,Data Science,11,14,31,6,71.81,24,38,Mobile,High
+1856,AI & ML,13,92,78,5,82.25,20,99,Desktop,Low
+1857,Data Science,3,60,12,8,55.61,13,32,Desktop,Low
+1858,AI & ML,13,19,65,6,96.51,21,67,Desktop,Low
+1859,AI & ML,5,149,18,11,71.81,25,75,Mobile,Medium
+1860,Data Science,11,13,23,10,89.88,43,91,Mobile,Low
+1861,Business,10,104,87,11,61.9,10,75,Mobile,High
+1862,Design,12,155,10,3,46.01,6,69,Mobile,High
+1863,Programming,9,89,58,6,80.42,16,64,Tablet,Medium
+1864,AI & ML,6,45,85,1,40.47,17,78,Tablet,Low
+1865,Design,12,34,14,5,68.52,6,58,Tablet,High
+1866,Business,9,107,9,5,51.57,19,40,Mobile,High
+1867,Programming,8,173,40,1,77.64,37,74,Tablet,Low
+1868,Programming,8,110,26,3,98.77,10,76,Tablet,Medium
+1869,AI & ML,1,18,59,7,67.86,43,60,Mobile,Medium
+1870,Data Science,13,70,72,7,89.05,15,89,Tablet,Medium
+1871,Business,9,62,51,7,70.47,26,68,Mobile,Low
+1872,AI & ML,6,155,27,7,69.75,10,63,Mobile,Low
+1873,Business,9,172,64,0,95.83,15,54,Mobile,Low
+1874,Data Science,3,72,16,1,93.4,22,24,Desktop,Low
+1875,Data Science,12,130,94,11,87.15,11,90,Mobile,Medium
+1876,AI & ML,3,114,43,3,57.78,39,93,Tablet,High
+1877,Data Science,6,13,9,11,72.7,2,93,Tablet,High
+1878,Design,9,102,62,8,53.43,1,70,Mobile,Medium
+1879,Programming,7,178,100,2,66.64,37,76,Desktop,Medium
+1880,AI & ML,14,37,92,5,69.05,47,77,Desktop,Low
+1881,Business,13,179,81,6,89.9,23,55,Desktop,Medium
+1882,Design,3,89,46,7,93.76,28,29,Tablet,Low
+1883,AI & ML,3,85,37,6,64.88,46,69,Desktop,Low
+1884,Data Science,2,125,69,2,41.06,45,56,Desktop,Medium
+1885,Data Science,9,78,75,5,91.71,33,39,Mobile,Low
+1886,Data Science,13,107,52,4,50.46,19,32,Desktop,Low
+1887,Data Science,3,10,77,11,77.31,17,94,Desktop,High
+1888,Business,11,176,43,9,41.5,13,38,Desktop,Low
+1889,Design,5,105,73,3,63.97,17,75,Mobile,Low
+1890,Programming,14,26,53,0,99.16,1,64,Mobile,Low
+1891,Business,14,121,19,6,46.04,0,79,Desktop,Low
+1892,Business,9,100,78,7,65.42,19,87,Tablet,Low
+1893,Programming,8,97,30,1,58.43,33,76,Tablet,Medium
+1894,Programming,2,172,6,6,94.31,40,73,Mobile,Low
+1895,Data Science,3,179,57,5,92.16,40,56,Desktop,High
+1896,Business,2,176,9,4,54.26,47,56,Tablet,Low
+1897,AI & ML,8,99,9,3,44.87,10,33,Desktop,Low
+1898,Programming,6,58,38,1,77.63,26,63,Mobile,Medium
+1899,Programming,6,47,27,9,60.18,22,61,Tablet,Medium
+1900,Design,12,160,29,5,80.33,37,20,Mobile,Medium
+1901,AI & ML,9,159,36,4,41.93,43,42,Desktop,High
+1902,AI & ML,8,141,66,1,48.0,2,83,Mobile,Low
+1903,Programming,4,68,42,9,81.18,11,47,Mobile,Low
+1904,Data Science,12,77,78,6,52.74,29,23,Mobile,High
+1905,Design,4,139,84,5,91.46,30,60,Mobile,Low
+1906,AI & ML,9,58,51,11,43.52,22,79,Tablet,Low
+1907,Programming,1,135,100,10,52.93,0,37,Desktop,Low
+1908,AI & ML,13,168,55,8,99.91,40,82,Tablet,Medium
+1909,Design,2,120,75,10,65.98,19,80,Desktop,Low
+1910,Design,2,177,67,9,82.18,5,68,Desktop,Low
+1911,Business,13,57,8,4,50.96,10,66,Desktop,Low
+1912,Programming,13,60,91,8,76.59,34,58,Desktop,Medium
+1913,Design,6,52,22,8,83.57,3,25,Desktop,Low
+1914,Business,4,107,62,0,58.87,28,72,Tablet,Low
+1915,Business,13,133,60,4,89.73,9,95,Desktop,Medium
+1916,AI & ML,11,89,39,8,76.21,28,44,Mobile,High
+1917,AI & ML,10,120,43,6,63.35,37,84,Tablet,Medium
+1918,Business,13,152,85,5,73.46,0,24,Tablet,Medium
+1919,AI & ML,3,36,23,5,74.61,39,84,Desktop,Low
+1920,Design,3,167,50,10,49.93,7,27,Mobile,Low
+1921,Data Science,3,173,57,6,64.16,37,58,Mobile,Low
+1922,Design,6,122,89,0,60.61,16,62,Desktop,High
+1923,Business,14,95,93,3,64.05,18,92,Desktop,Low
+1924,Business,8,123,32,0,85.67,32,24,Mobile,High
+1925,Design,11,133,15,5,68.95,14,23,Tablet,High
+1926,AI & ML,7,58,21,3,96.42,44,20,Tablet,Low
+1927,AI & ML,14,85,56,0,57.62,30,75,Desktop,Low
+1928,Business,4,64,61,8,64.94,20,64,Tablet,Low
+1929,Programming,11,65,81,11,87.22,2,84,Tablet,Low
+1930,AI & ML,12,104,70,3,72.76,1,22,Mobile,Low
+1931,Design,4,53,89,11,72.82,34,41,Tablet,High
+1932,AI & ML,11,168,71,5,43.2,40,91,Mobile,Low
+1933,Design,10,96,69,6,63.92,15,75,Desktop,Low
+1934,Business,11,93,29,7,56.24,44,37,Desktop,Low
+1935,AI & ML,11,160,22,11,99.96,49,44,Mobile,High
+1936,Design,14,165,31,10,58.5,20,67,Mobile,Medium
+1937,Business,11,25,85,8,93.07,11,50,Desktop,High
+1938,Programming,2,174,56,8,80.57,27,49,Mobile,High
+1939,Design,14,158,8,7,60.45,11,99,Desktop,Low
+1940,Programming,1,154,30,9,72.61,32,85,Desktop,Low
+1941,Programming,9,46,70,10,90.43,19,100,Desktop,Low
+1942,Data Science,12,86,8,11,93.0,39,29,Desktop,Low
+1943,AI & ML,12,156,12,11,49.62,48,90,Desktop,Medium
+1944,Design,2,167,57,2,60.37,20,78,Desktop,Low
+1945,Programming,13,54,2,11,60.11,38,70,Tablet,Low
+1946,Data Science,8,155,34,1,42.52,40,28,Tablet,Medium
+1947,Business,9,71,96,4,75.89,48,73,Desktop,Medium
+1948,Design,4,173,20,0,91.29,41,81,Tablet,Medium
+1949,Programming,8,109,63,2,62.89,35,100,Mobile,Low
+1950,AI & ML,9,61,94,0,84.4,21,28,Mobile,High
+1951,Data Science,10,28,51,2,77.66,25,28,Desktop,Medium
+1952,Programming,10,118,33,3,62.54,6,43,Tablet,Low
+1953,AI & ML,5,53,95,6,48.46,6,58,Mobile,Medium
+1954,Programming,13,16,34,11,82.56,7,94,Mobile,High
+1955,Design,14,126,14,11,91.27,25,27,Mobile,Low
+1956,Design,7,77,95,4,81.15,23,44,Mobile,Low
+1957,Design,10,43,5,4,41.07,23,85,Tablet,Low
+1958,Data Science,4,78,84,0,52.97,39,29,Mobile,Low
+1959,Design,1,64,96,7,44.17,47,43,Mobile,High
+1960,AI & ML,3,19,31,3,74.22,11,99,Mobile,Low
+1961,Programming,5,51,51,9,85.39,46,78,Desktop,Medium
+1962,Business,3,50,82,4,46.63,7,50,Mobile,Medium
+1963,AI & ML,12,131,96,1,90.3,8,30,Mobile,Medium
+1964,AI & ML,13,147,27,11,73.33,2,25,Tablet,Low
+1965,Design,11,19,94,0,81.4,20,89,Mobile,Low
+1966,Data Science,7,111,84,8,98.28,30,51,Mobile,Low
+1967,Programming,12,137,97,1,45.02,47,58,Mobile,Low
+1968,Data Science,9,158,63,5,94.07,46,67,Desktop,Low
+1969,Programming,12,145,78,0,47.57,23,32,Tablet,High
+1970,Programming,6,101,77,0,63.58,3,78,Tablet,Low
+1971,Data Science,13,122,18,8,91.09,19,86,Desktop,Medium
+1972,AI & ML,10,87,14,3,94.38,15,75,Desktop,Low
+1973,Programming,1,94,5,8,70.38,9,60,Tablet,Medium
+1974,Data Science,7,39,72,10,75.65,42,75,Mobile,High
+1975,Programming,3,58,100,4,82.49,25,54,Tablet,Low
+1976,Business,5,18,83,6,89.97,28,57,Desktop,High
+1977,AI & ML,10,154,97,0,47.29,4,100,Mobile,Medium
+1978,Design,4,78,37,5,88.6,10,86,Tablet,High
+1979,Programming,10,67,25,7,68.88,28,53,Mobile,Medium
+1980,Business,5,71,81,0,67.04,44,95,Mobile,Low
+1981,Design,5,61,91,8,65.43,14,89,Desktop,Low
+1982,Design,6,49,50,2,70.55,5,30,Tablet,Low
+1983,Programming,14,175,72,0,96.7,47,46,Desktop,Medium
+1984,Data Science,10,72,95,0,72.89,14,67,Tablet,High
+1985,Programming,12,156,52,10,97.19,42,43,Tablet,Medium
+1986,Business,10,59,55,5,50.82,19,37,Mobile,Low
+1987,Design,13,170,58,10,83.45,33,46,Mobile,High
+1988,Programming,13,150,69,5,88.73,1,73,Mobile,Medium
+1989,Data Science,11,87,77,0,80.75,43,74,Desktop,Low
+1990,Programming,6,106,91,2,76.42,15,40,Mobile,Low
+1991,AI & ML,8,52,57,6,73.89,18,78,Desktop,Low
+1992,Data Science,8,45,87,9,91.66,33,53,Mobile,High
+1993,Business,11,131,12,2,89.3,48,77,Desktop,High
+1994,Design,9,117,42,2,47.34,13,67,Tablet,Low
+1995,Programming,8,19,75,2,90.92,23,73,Desktop,Low
+1996,Data Science,13,104,50,11,64.84,27,37,Desktop,Medium
+1997,AI & ML,11,15,18,6,55.22,47,22,Desktop,High
+1998,Data Science,2,66,20,3,92.19,31,43,Tablet,Medium
+1999,AI & ML,14,138,90,3,65.92,36,20,Desktop,Medium
+2000,Business,14,80,82,2,88.5,9,25,Tablet,Low
+2001,Design,12,30,23,9,55.8,48,38,Mobile,Medium
+2002,Business,10,101,25,10,40.24,44,62,Mobile,Low
+2003,Programming,12,136,44,8,69.73,47,27,Tablet,High
+2004,Data Science,11,89,27,1,46.01,8,88,Desktop,Low
+2005,AI & ML,1,65,81,3,85.26,23,71,Mobile,High
+2006,AI & ML,10,125,99,7,56.56,35,92,Desktop,Low
+2007,Data Science,2,157,28,5,66.62,28,66,Desktop,High
+2008,Data Science,2,34,16,6,45.22,28,47,Tablet,Low
+2009,Programming,12,165,67,6,57.2,47,65,Mobile,Low
+2010,Business,3,14,43,1,86.89,22,23,Tablet,Medium
+2011,AI & ML,10,129,60,3,49.1,26,27,Tablet,Low
+2012,Programming,7,30,92,9,78.83,30,80,Tablet,High
+2013,Business,2,27,67,9,95.05,42,36,Tablet,Medium
+2014,Programming,14,66,73,5,80.79,6,53,Desktop,Medium
+2015,AI & ML,1,102,24,2,88.66,48,39,Mobile,High
+2016,Data Science,14,28,94,8,46.54,44,99,Mobile,High
+2017,Data Science,6,137,66,3,55.04,3,93,Mobile,Medium
+2018,Business,9,106,1,9,93.67,13,53,Desktop,High
+2019,Design,3,140,88,1,82.91,41,62,Desktop,Low
+2020,Business,6,179,48,5,78.37,41,29,Tablet,Low
+2021,Design,3,30,69,0,79.83,9,49,Tablet,Medium
+2022,Programming,14,49,25,5,64.85,43,44,Tablet,Low
+2023,Programming,13,76,71,11,42.67,33,76,Tablet,Low
+2024,AI & ML,1,162,98,9,87.07,25,82,Mobile,Low
+2025,Design,14,136,26,0,80.72,22,90,Tablet,Low
+2026,AI & ML,13,64,88,7,68.37,8,66,Desktop,High
+2027,Data Science,12,118,17,4,93.99,36,100,Desktop,Medium
+2028,Design,5,107,53,5,60.17,7,22,Desktop,High
+2029,Business,10,121,0,1,57.66,13,65,Tablet,Medium
+2030,Data Science,14,124,60,1,92.37,6,55,Mobile,Low
+2031,Data Science,13,126,2,11,87.82,6,45,Mobile,Low
+2032,Business,11,96,67,8,70.9,8,29,Tablet,Low
+2033,Data Science,4,90,40,2,47.84,2,53,Tablet,High
+2034,Design,7,75,36,5,52.9,13,97,Desktop,Low
+2035,AI & ML,6,28,50,9,79.37,16,27,Desktop,Low
+2036,Data Science,10,144,14,4,63.1,49,74,Mobile,High
+2037,Design,7,127,7,11,90.19,43,29,Desktop,Medium
+2038,Programming,5,51,37,3,97.0,21,76,Desktop,Low
+2039,Design,4,51,82,9,88.34,45,98,Tablet,Low
+2040,AI & ML,7,68,55,1,62.65,25,64,Mobile,High
+2041,Design,7,29,46,7,87.32,27,69,Tablet,High
+2042,Business,6,82,89,9,61.09,44,83,Mobile,Low
+2043,AI & ML,8,26,9,6,50.03,13,21,Tablet,Low
+2044,Programming,4,36,77,10,42.0,8,64,Mobile,High
+2045,Business,10,11,48,1,63.14,25,81,Desktop,Medium
+2046,Design,5,72,40,5,94.21,1,33,Mobile,High
+2047,AI & ML,4,71,82,7,54.34,10,93,Mobile,Medium
+2048,Programming,12,109,29,6,52.39,16,34,Tablet,High
+2049,Business,1,28,4,0,98.19,33,33,Mobile,Low
+2050,Programming,12,26,94,4,41.5,18,50,Mobile,Low
+2051,Design,8,78,70,1,87.15,38,48,Mobile,Medium
+2052,Programming,1,176,82,5,59.28,17,46,Tablet,Medium
+2053,Data Science,5,126,30,6,42.25,12,28,Mobile,High
+2054,Business,6,90,51,6,95.07,4,39,Tablet,Low
+2055,Programming,6,48,87,2,48.38,49,77,Desktop,High
+2056,Design,13,45,97,6,73.11,22,98,Tablet,Low
+2057,Design,5,177,22,4,56.44,23,68,Mobile,Medium
+2058,Programming,3,141,47,7,43.91,28,76,Desktop,Low
+2059,Design,5,162,39,11,43.0,47,35,Mobile,Medium
+2060,AI & ML,12,167,5,7,46.93,46,94,Tablet,Medium
+2061,AI & ML,8,38,37,6,44.28,7,27,Desktop,Low
+2062,AI & ML,14,60,40,5,85.63,25,86,Desktop,Low
+2063,Data Science,2,161,99,1,69.13,14,38,Desktop,Medium
+2064,Programming,6,23,26,5,60.57,0,86,Mobile,High
+2065,Data Science,9,78,74,11,65.1,27,55,Desktop,Low
+2066,Design,8,155,68,10,95.74,48,79,Desktop,Low
+2067,Data Science,14,179,56,8,94.65,46,55,Desktop,Low
+2068,Design,11,66,16,1,82.94,45,30,Desktop,High
+2069,Design,8,21,70,0,93.08,13,70,Tablet,Low
+2070,Business,8,26,90,10,59.18,41,99,Mobile,Low
+2071,AI & ML,13,39,46,4,62.87,33,74,Mobile,Medium
+2072,Design,7,97,78,10,76.82,30,73,Desktop,Medium
+2073,Business,8,108,12,5,77.42,5,36,Tablet,Low
+2074,AI & ML,13,32,10,2,68.9,48,81,Desktop,High
+2075,Design,6,138,89,7,64.04,4,61,Mobile,Medium
+2076,Design,2,88,85,6,99.17,30,43,Mobile,Medium
+2077,Data Science,2,41,91,1,89.27,36,36,Mobile,Low
+2078,Data Science,8,18,23,11,66.1,14,67,Desktop,High
+2079,AI & ML,11,24,92,6,83.64,14,89,Desktop,Low
+2080,Design,1,165,72,0,56.17,42,26,Tablet,Low
+2081,Programming,6,161,3,8,46.01,4,33,Tablet,Low
+2082,Data Science,13,172,45,6,61.15,27,30,Mobile,Medium
+2083,AI & ML,6,36,17,5,64.18,32,31,Mobile,Medium
+2084,Design,11,118,42,1,40.99,10,24,Tablet,Medium
+2085,Design,4,85,79,2,88.89,42,24,Mobile,Low
+2086,Programming,12,157,32,0,61.55,5,39,Tablet,Medium
+2087,AI & ML,11,74,92,9,74.83,22,73,Desktop,Medium
+2088,Design,13,118,9,4,44.44,39,74,Mobile,Low
+2089,Data Science,11,138,72,8,50.5,1,77,Mobile,High
+2090,Programming,13,19,58,5,93.38,14,98,Tablet,Low
+2091,AI & ML,10,56,30,4,76.52,22,49,Desktop,Medium
+2092,Programming,3,132,27,11,97.02,21,43,Mobile,Low
+2093,Data Science,13,68,59,2,99.93,8,92,Mobile,Medium
+2094,AI & ML,11,105,2,4,62.31,46,22,Tablet,High
+2095,Programming,3,112,54,7,57.93,39,67,Desktop,High
+2096,Business,13,133,13,11,91.5,29,90,Tablet,Low
+2097,Data Science,13,95,57,1,99.92,15,41,Desktop,Low
+2098,Data Science,1,155,88,4,77.78,45,33,Desktop,Low
+2099,Data Science,3,121,14,5,87.71,46,67,Tablet,High
+2100,Business,4,169,1,9,86.9,29,48,Tablet,Medium
+2101,Business,11,36,23,7,61.32,44,69,Desktop,Low
+2102,Design,11,27,77,7,74.46,8,99,Tablet,Low
+2103,Programming,5,176,63,4,89.98,0,29,Mobile,High
+2104,Design,3,91,70,8,81.29,37,90,Mobile,Medium
+2105,Programming,6,81,99,3,41.27,7,46,Mobile,Low
+2106,Business,11,63,23,11,60.2,17,98,Mobile,Low
+2107,Business,14,171,26,8,48.67,26,47,Mobile,Low
+2108,Design,12,80,36,10,53.98,17,28,Tablet,Medium
+2109,AI & ML,5,173,93,6,94.33,31,90,Desktop,High
+2110,Design,3,155,90,5,42.21,48,99,Tablet,High
+2111,Programming,6,47,38,3,53.19,31,45,Mobile,Low
+2112,Design,6,146,62,1,58.57,47,100,Mobile,High
+2113,Data Science,14,44,78,7,77.01,44,27,Tablet,Low
+2114,Programming,8,91,25,5,72.05,35,21,Tablet,Low
+2115,Programming,2,142,64,11,53.1,35,76,Desktop,High
+2116,AI & ML,1,151,3,2,49.85,20,71,Mobile,Low
+2117,Business,4,167,28,6,54.21,45,77,Tablet,Low
+2118,Programming,7,13,0,9,70.15,31,22,Desktop,High
+2119,Business,11,176,49,6,56.27,30,27,Mobile,Low
+2120,Design,10,162,85,5,96.86,36,78,Mobile,Medium
+2121,Data Science,3,165,10,1,67.83,15,21,Mobile,High
+2122,AI & ML,3,159,73,7,43.53,45,81,Tablet,Medium
+2123,Business,5,168,58,0,83.76,45,68,Mobile,Low
+2124,Programming,5,32,61,0,59.73,13,39,Mobile,Low
+2125,Business,13,57,80,5,79.21,23,48,Desktop,Low
+2126,Programming,10,157,35,4,56.78,24,36,Tablet,Low
+2127,Business,3,134,55,8,74.24,45,93,Desktop,Medium
+2128,Programming,9,175,89,11,86.33,34,41,Tablet,Low
+2129,Design,4,64,20,6,95.68,16,25,Mobile,Low
+2130,Programming,13,77,12,1,55.67,45,81,Desktop,Medium
+2131,Programming,13,97,8,11,60.09,41,50,Tablet,Medium
+2132,Data Science,3,10,10,6,67.86,44,81,Tablet,High
+2133,Programming,11,144,74,2,95.63,3,31,Mobile,Low
+2134,Data Science,2,104,69,0,94.08,10,31,Mobile,High
+2135,AI & ML,10,149,0,10,45.39,46,82,Desktop,Medium
+2136,Data Science,13,115,69,7,47.92,14,35,Desktop,Low
+2137,Design,11,142,76,11,69.73,29,44,Tablet,Low
+2138,Data Science,9,117,85,2,46.4,23,41,Desktop,Low
+2139,AI & ML,4,51,55,10,60.73,1,95,Mobile,Medium
+2140,Design,3,111,30,7,48.9,42,37,Desktop,Low
+2141,Business,7,133,85,6,78.16,33,64,Desktop,High
+2142,Business,8,149,36,11,96.97,22,99,Tablet,Medium
+2143,Data Science,11,112,46,1,99.8,30,87,Mobile,High
+2144,Data Science,14,155,90,0,62.51,36,31,Tablet,Low
+2145,AI & ML,2,83,77,6,75.94,12,68,Mobile,Low
+2146,AI & ML,7,117,46,0,91.38,32,52,Mobile,Low
+2147,Programming,12,131,68,5,47.05,6,82,Tablet,Low
+2148,AI & ML,5,26,57,10,81.37,31,37,Desktop,High
+2149,Programming,11,80,35,9,64.53,6,73,Tablet,Low
+2150,Design,5,71,31,10,52.37,41,46,Desktop,Low
+2151,Data Science,3,50,97,9,64.17,37,97,Tablet,Low
+2152,Design,5,128,63,7,44.56,43,44,Tablet,Low
+2153,AI & ML,12,171,70,6,81.72,12,53,Desktop,High
+2154,Design,2,54,41,3,55.16,23,79,Desktop,Medium
+2155,Design,4,67,47,0,58.68,27,73,Desktop,Medium
+2156,Design,6,135,73,0,47.26,31,24,Tablet,Low
+2157,AI & ML,1,171,80,3,91.88,42,55,Desktop,High
+2158,Design,10,53,29,4,69.61,17,73,Desktop,Medium
+2159,Programming,4,24,20,11,74.33,33,55,Desktop,Low
+2160,AI & ML,6,87,59,6,74.17,47,88,Mobile,Low
+2161,Design,9,79,12,3,64.63,33,58,Desktop,High
+2162,AI & ML,14,110,0,9,51.55,37,89,Desktop,Medium
+2163,Business,11,169,64,11,84.71,0,23,Desktop,Medium
+2164,Programming,11,12,32,0,47.62,42,93,Mobile,Low
+2165,Design,13,95,37,10,46.23,49,84,Mobile,Low
+2166,Business,2,83,24,9,82.61,41,59,Desktop,Medium
+2167,Business,11,60,25,6,52.53,30,56,Desktop,Medium
+2168,AI & ML,7,76,76,1,58.41,49,86,Desktop,Medium
+2169,Business,6,85,58,10,68.51,0,50,Desktop,Medium
+2170,Programming,2,102,91,1,66.96,15,100,Mobile,Low
+2171,Programming,8,154,32,7,82.51,38,96,Desktop,Medium
+2172,Data Science,7,16,100,11,77.41,14,66,Mobile,High
+2173,Programming,11,22,40,9,78.66,32,46,Tablet,High
+2174,Business,5,129,29,9,82.84,22,70,Mobile,Low
+2175,Programming,12,75,56,9,57.56,40,39,Tablet,Low
+2176,AI & ML,5,13,48,4,59.34,33,32,Mobile,High
+2177,Data Science,7,147,47,9,66.28,16,82,Mobile,Medium
+2178,Business,9,97,71,1,58.45,24,63,Mobile,Medium
+2179,Data Science,11,26,48,4,99.1,41,43,Desktop,High
+2180,Business,9,61,46,7,88.84,5,22,Mobile,Medium
+2181,AI & ML,9,143,55,5,49.88,30,29,Desktop,Medium
+2182,Data Science,6,78,64,2,40.34,4,84,Mobile,Low
+2183,Design,10,146,11,7,42.57,39,68,Mobile,Low
+2184,Business,6,30,68,8,54.64,39,77,Tablet,Low
+2185,Design,3,33,87,4,46.86,29,96,Mobile,High
+2186,Data Science,1,13,5,1,72.0,4,97,Desktop,Low
+2187,Design,7,161,88,1,91.48,11,21,Tablet,Low
+2188,Design,4,12,64,6,84.21,6,85,Tablet,High
+2189,Data Science,1,77,24,0,52.94,44,50,Mobile,Medium
+2190,AI & ML,8,110,0,9,63.96,12,87,Mobile,Medium
+2191,Design,12,177,31,11,70.47,48,56,Tablet,Low
+2192,Design,6,63,2,1,88.61,3,92,Desktop,High
+2193,AI & ML,6,44,48,9,90.35,49,43,Mobile,Low
+2194,Design,2,65,18,3,94.58,41,96,Tablet,Low
+2195,Design,1,117,59,0,70.55,2,63,Desktop,Low
+2196,Design,13,49,28,3,81.66,11,60,Mobile,Low
+2197,Programming,14,77,49,11,46.71,0,93,Tablet,Low
+2198,AI & ML,14,55,1,10,73.92,26,70,Tablet,Medium
+2199,Design,2,87,72,9,54.92,42,61,Mobile,Low
+2200,AI & ML,4,150,55,4,65.9,49,97,Desktop,Medium
+2201,Business,2,164,16,8,78.04,12,59,Desktop,Low
+2202,Business,1,15,59,0,55.42,16,67,Tablet,Low
+2203,Design,7,26,35,11,43.13,7,23,Desktop,Medium
+2204,AI & ML,11,173,60,4,40.61,31,79,Tablet,High
+2205,AI & ML,11,108,16,1,41.33,19,58,Mobile,High
+2206,AI & ML,12,90,48,8,40.5,16,24,Desktop,High
+2207,Programming,8,11,75,5,46.62,33,25,Mobile,Medium
+2208,Business,6,86,59,1,54.37,34,33,Tablet,Medium
+2209,AI & ML,4,75,19,2,53.27,34,89,Mobile,Medium
+2210,AI & ML,14,61,49,7,99.21,37,97,Desktop,Medium
+2211,Programming,6,101,2,0,58.36,41,31,Mobile,Low
+2212,Programming,3,31,42,11,47.65,23,81,Desktop,Medium
+2213,AI & ML,12,120,56,2,72.73,17,46,Desktop,Low
+2214,Data Science,8,116,49,9,91.48,49,73,Desktop,Low
+2215,AI & ML,10,76,67,0,80.68,45,31,Desktop,Medium
+2216,AI & ML,14,149,80,10,57.76,47,27,Desktop,Low
+2217,Programming,13,78,49,10,73.7,38,93,Tablet,Low
+2218,Programming,13,93,36,7,82.89,32,35,Mobile,Low
+2219,AI & ML,2,112,45,0,83.69,48,71,Tablet,High
+2220,AI & ML,5,48,41,4,79.99,22,45,Mobile,Low
+2221,AI & ML,1,22,14,3,92.25,24,27,Mobile,Low
+2222,Programming,6,50,32,6,92.21,36,64,Mobile,High
+2223,AI & ML,2,66,79,4,74.74,26,100,Tablet,Low
+2224,AI & ML,4,21,10,7,65.79,0,38,Desktop,Low
+2225,Design,6,22,19,11,78.49,20,36,Desktop,Low
+2226,Data Science,10,129,23,10,89.09,48,84,Tablet,Low
+2227,Business,11,106,63,0,40.34,9,48,Desktop,Low
+2228,Data Science,8,66,79,4,99.52,30,33,Mobile,Low
+2229,Design,12,49,93,3,50.97,43,36,Desktop,Low
+2230,Business,8,127,97,2,68.21,24,32,Desktop,High
+2231,AI & ML,11,89,64,4,92.32,19,82,Desktop,Medium
+2232,Design,6,137,87,9,53.5,1,52,Mobile,Medium
+2233,AI & ML,4,44,87,2,68.61,47,48,Desktop,Low
+2234,Programming,8,12,72,7,47.95,14,56,Desktop,Low
+2235,Design,13,129,85,2,63.7,27,65,Desktop,High
+2236,Programming,8,14,75,0,50.63,12,43,Tablet,Low
+2237,Design,10,20,16,8,61.82,49,33,Tablet,High
+2238,Design,14,135,88,8,62.41,13,24,Desktop,Low
+2239,Programming,1,80,91,5,99.59,49,72,Tablet,High
+2240,Business,4,126,60,9,99.69,1,49,Tablet,Low
+2241,Data Science,4,147,14,0,46.89,33,79,Mobile,Low
+2242,AI & ML,7,115,93,7,83.56,34,92,Tablet,Medium
+2243,Design,14,125,50,1,43.1,36,47,Tablet,Medium
+2244,AI & ML,14,171,26,8,41.81,24,45,Desktop,Low
+2245,Programming,11,76,85,7,46.32,47,37,Mobile,High
+2246,AI & ML,7,40,73,2,97.93,14,55,Mobile,Low
+2247,Programming,13,84,60,4,96.45,11,27,Mobile,Low
+2248,AI & ML,11,80,57,8,51.64,8,37,Tablet,Medium
+2249,Data Science,8,75,30,0,49.7,30,77,Desktop,Medium
+2250,Data Science,11,79,90,8,54.43,13,51,Mobile,High
+2251,Data Science,5,50,11,3,70.93,28,68,Mobile,Low
+2252,Data Science,7,169,45,3,74.18,47,67,Tablet,Low
+2253,Data Science,8,29,30,3,53.3,42,90,Mobile,Medium
+2254,Data Science,9,162,31,9,85.4,37,84,Desktop,Low
+2255,Programming,3,149,31,11,58.57,41,52,Mobile,Low
+2256,Design,3,48,98,8,95.33,7,69,Desktop,Low
+2257,AI & ML,4,154,52,5,79.4,47,23,Desktop,Low
+2258,Data Science,5,54,60,10,66.18,2,55,Desktop,Low
+2259,Programming,10,148,45,7,87.39,1,47,Tablet,Low
+2260,Programming,1,79,84,11,89.07,15,22,Tablet,Medium
+2261,Programming,7,134,73,3,57.43,18,25,Desktop,Medium
+2262,Design,9,160,79,2,60.38,29,64,Desktop,Low
+2263,AI & ML,8,100,6,0,96.16,40,42,Mobile,Low
+2264,Design,5,79,3,9,49.88,15,26,Mobile,Low
+2265,Business,14,175,90,6,42.53,30,80,Mobile,Low
+2266,Programming,14,139,51,3,67.24,27,84,Tablet,Medium
+2267,Business,4,93,88,7,88.07,3,25,Mobile,High
+2268,Data Science,12,98,30,2,86.3,9,43,Desktop,Medium
+2269,Data Science,7,88,74,0,95.17,44,56,Desktop,Medium
+2270,Design,5,122,83,4,71.99,17,64,Tablet,Low
+2271,AI & ML,7,102,35,1,46.0,46,70,Tablet,Low
+2272,Business,12,81,53,2,75.32,31,64,Mobile,High
+2273,AI & ML,1,174,53,5,86.7,29,82,Tablet,High
+2274,Design,1,58,16,2,45.6,35,48,Desktop,Low
+2275,Data Science,10,61,74,2,50.36,8,44,Desktop,Low
+2276,AI & ML,14,42,29,11,40.74,35,29,Tablet,Medium
+2277,AI & ML,13,31,98,5,75.62,28,54,Desktop,Low
+2278,Data Science,3,123,21,4,93.2,15,74,Tablet,Medium
+2279,Business,14,142,42,9,80.24,27,44,Desktop,High
+2280,Data Science,11,27,26,8,98.92,20,64,Mobile,Low
+2281,AI & ML,2,175,36,0,43.78,46,31,Tablet,High
+2282,Business,2,127,45,2,94.18,1,23,Tablet,High
+2283,Business,7,126,34,2,88.84,45,86,Tablet,High
+2284,Data Science,12,46,3,10,58.85,34,36,Desktop,Low
+2285,AI & ML,10,73,79,5,98.41,27,92,Mobile,Low
+2286,Design,2,147,79,7,57.28,35,84,Tablet,Medium
+2287,AI & ML,11,88,84,2,93.36,30,72,Desktop,Low
+2288,Programming,4,179,25,2,92.84,32,76,Tablet,Low
+2289,Design,2,132,99,5,85.46,22,47,Desktop,Low
+2290,Business,6,53,18,7,73.81,40,35,Mobile,Medium
+2291,Design,8,91,80,5,47.2,16,40,Desktop,Low
+2292,Business,10,96,44,11,71.92,45,96,Desktop,Low
+2293,Business,4,25,25,9,61.41,48,61,Tablet,Low
+2294,Design,5,63,21,2,87.53,0,73,Desktop,Medium
+2295,Business,4,111,57,3,85.49,41,51,Tablet,Medium
+2296,Business,3,172,62,0,94.64,22,57,Desktop,Low
+2297,Programming,5,107,27,7,40.89,47,89,Mobile,High
+2298,AI & ML,14,165,64,3,88.55,26,57,Desktop,Low
+2299,AI & ML,9,11,43,5,96.31,24,73,Tablet,Medium
+2300,Programming,8,103,99,10,87.36,31,79,Desktop,Medium
+2301,Design,8,150,42,2,47.81,18,96,Desktop,Medium
+2302,Data Science,8,178,36,10,44.88,23,96,Mobile,Low
+2303,Data Science,12,68,65,11,41.25,2,66,Tablet,High
+2304,Data Science,8,78,16,10,77.72,11,31,Mobile,High
+2305,Programming,7,128,39,5,77.78,34,72,Desktop,Medium
+2306,Programming,8,101,37,11,99.21,14,52,Mobile,Low
+2307,Business,11,54,84,10,63.88,16,47,Desktop,Low
+2308,Data Science,14,157,60,8,59.91,49,22,Desktop,Medium
+2309,Design,8,33,8,8,77.47,31,45,Mobile,Low
+2310,Design,13,100,76,9,89.54,6,73,Mobile,Medium
+2311,Data Science,14,103,74,2,96.21,18,59,Desktop,Low
+2312,Data Science,8,67,60,2,88.19,6,85,Mobile,Medium
+2313,Data Science,12,164,79,3,65.6,4,87,Mobile,Low
+2314,Programming,10,163,15,11,78.09,39,66,Desktop,Low
+2315,Programming,7,137,1,6,91.38,20,21,Tablet,Low
+2316,Programming,12,16,71,2,69.44,47,61,Mobile,Low
+2317,AI & ML,1,179,42,9,53.0,47,53,Mobile,Medium
+2318,Design,4,56,41,7,50.18,46,40,Tablet,Medium
+2319,Design,13,62,76,10,40.01,6,63,Mobile,Medium
+2320,Business,13,47,56,7,83.09,36,21,Desktop,Medium
+2321,Programming,4,62,80,5,46.67,22,78,Mobile,Medium
+2322,AI & ML,5,152,87,3,54.63,10,35,Desktop,Low
+2323,AI & ML,10,163,66,10,57.87,9,39,Tablet,Low
+2324,Design,6,57,29,11,73.62,20,45,Tablet,Low
+2325,Programming,4,104,12,10,63.88,40,35,Tablet,Medium
+2326,Business,2,156,18,4,80.48,32,89,Mobile,Low
+2327,Programming,6,146,6,11,43.34,19,42,Tablet,Low
+2328,Data Science,8,73,8,1,47.44,32,61,Mobile,Medium
+2329,Programming,8,102,82,5,69.95,39,56,Mobile,High
+2330,Data Science,7,134,53,2,60.22,34,91,Mobile,Medium
+2331,Data Science,6,48,85,5,57.75,33,25,Tablet,Medium
+2332,Business,2,13,81,11,44.02,35,56,Tablet,Medium
+2333,Design,7,135,60,4,93.74,26,41,Mobile,Low
+2334,Programming,11,12,86,1,81.51,18,25,Tablet,Medium
+2335,Data Science,12,73,1,11,47.3,42,51,Mobile,High
+2336,Programming,14,38,49,4,43.9,4,36,Tablet,Low
+2337,Design,14,125,74,4,98.49,28,57,Desktop,Low
+2338,Design,5,20,30,8,80.87,9,36,Tablet,Low
+2339,AI & ML,6,106,32,10,65.05,39,56,Tablet,Low
+2340,Design,10,111,77,7,82.1,12,42,Tablet,High
+2341,Business,8,164,79,11,85.38,28,68,Mobile,Low
+2342,Data Science,14,30,10,11,86.8,4,80,Mobile,Low
+2343,AI & ML,8,48,32,6,68.67,11,68,Desktop,High
+2344,Business,3,111,6,11,65.79,12,80,Desktop,Medium
+2345,Programming,12,55,30,2,40.66,21,96,Desktop,Medium
+2346,Data Science,12,75,47,9,95.59,39,51,Mobile,High
+2347,Design,14,100,46,3,76.2,14,82,Desktop,Low
+2348,Data Science,7,173,77,5,52.19,12,26,Desktop,Medium
+2349,Programming,1,120,91,2,95.18,0,41,Tablet,Low
+2350,AI & ML,1,91,52,10,94.9,37,25,Desktop,Low
+2351,AI & ML,7,132,79,8,99.35,42,80,Tablet,Low
+2352,AI & ML,10,108,18,7,92.44,44,33,Mobile,Low
+2353,Design,9,44,80,5,99.87,0,35,Mobile,High
+2354,Business,7,168,89,3,54.68,10,22,Tablet,High
+2355,Business,10,165,5,6,90.53,42,28,Desktop,High
+2356,Data Science,5,112,48,10,89.38,39,66,Mobile,Low
+2357,Design,8,138,72,2,53.86,21,61,Tablet,High
+2358,AI & ML,2,34,49,9,45.91,34,61,Mobile,Medium
+2359,AI & ML,9,52,80,7,98.77,43,42,Mobile,Low
+2360,Programming,6,93,94,0,57.76,5,22,Desktop,Medium
+2361,Programming,13,60,11,2,92.25,27,20,Mobile,Low
+2362,AI & ML,9,139,22,10,40.25,30,86,Tablet,Low
+2363,AI & ML,2,135,53,4,41.26,7,90,Desktop,High
+2364,Design,3,78,68,4,67.95,4,22,Tablet,Medium
+2365,Business,12,18,99,9,54.32,41,68,Tablet,Low
+2366,Programming,8,11,58,1,81.39,47,86,Tablet,Medium
+2367,Business,1,171,35,9,73.93,43,74,Desktop,High
+2368,Design,10,168,2,7,44.65,16,23,Mobile,Medium
+2369,AI & ML,7,19,57,4,49.76,37,50,Tablet,Low
+2370,Business,7,123,87,6,63.28,8,85,Mobile,Low
+2371,AI & ML,13,85,54,6,51.14,9,97,Mobile,Low
+2372,AI & ML,1,173,56,4,87.53,19,83,Tablet,High
+2373,Data Science,9,94,16,7,64.96,13,50,Mobile,Low
+2374,Business,8,58,38,8,45.61,13,82,Desktop,Low
+2375,Business,4,79,89,3,69.06,25,85,Desktop,Low
+2376,AI & ML,10,140,67,3,45.45,28,50,Mobile,High
+2377,Design,11,142,54,7,47.74,48,66,Mobile,Medium
+2378,Data Science,5,99,44,0,54.38,26,41,Desktop,Medium
+2379,AI & ML,2,35,75,3,91.57,24,93,Mobile,Low
+2380,Programming,13,81,0,5,95.48,15,65,Mobile,Low
+2381,Programming,9,14,20,3,89.58,35,77,Mobile,High
+2382,Data Science,12,24,82,5,60.04,33,80,Mobile,High
+2383,Design,12,132,20,4,56.35,15,65,Tablet,High
+2384,AI & ML,6,153,51,8,72.95,32,20,Mobile,High
+2385,Business,3,10,81,9,83.31,2,44,Desktop,High
+2386,Data Science,12,153,42,8,99.6,22,80,Tablet,Medium
+2387,Design,7,174,51,3,47.89,10,100,Tablet,High
+2388,Business,9,12,66,3,42.96,47,33,Desktop,Medium
+2389,Programming,3,56,43,11,81.66,17,64,Mobile,Low
+2390,Programming,2,104,31,7,89.93,46,96,Tablet,Low
+2391,Business,7,22,9,9,90.78,40,58,Tablet,High
+2392,Data Science,7,129,63,3,80.71,43,85,Mobile,Low
+2393,Programming,4,64,78,1,97.24,28,51,Mobile,High
+2394,AI & ML,11,158,68,1,70.66,49,77,Desktop,Low
+2395,Business,9,75,67,0,94.83,4,75,Tablet,Low
+2396,Business,14,164,27,4,98.07,23,25,Mobile,Low
+2397,Programming,8,175,52,5,90.83,28,86,Mobile,Low
+2398,Data Science,13,99,50,8,58.59,28,69,Desktop,Low
+2399,AI & ML,13,71,52,4,51.77,25,57,Tablet,Low
+2400,Data Science,1,111,3,5,72.89,39,22,Mobile,High
+2401,Design,1,148,78,5,67.18,2,24,Desktop,Low
+2402,Design,5,17,16,2,92.67,1,43,Tablet,Low
+2403,Programming,6,106,66,11,46.0,24,73,Tablet,Low
+2404,Programming,3,126,73,3,55.46,18,53,Tablet,Medium
+2405,Programming,13,73,46,0,85.11,39,58,Tablet,Medium
+2406,Design,9,30,55,3,45.7,1,67,Desktop,Medium
+2407,Data Science,12,124,22,0,59.25,18,68,Mobile,Low
+2408,Data Science,10,94,17,4,63.23,0,53,Tablet,Low
+2409,Programming,14,29,0,10,77.36,26,99,Tablet,Medium
+2410,AI & ML,6,17,34,10,49.49,44,26,Mobile,High
+2411,Data Science,4,67,63,7,91.64,48,37,Tablet,Low
+2412,Design,12,55,57,7,66.85,34,89,Tablet,Low
+2413,Business,7,40,94,4,95.02,40,53,Mobile,Low
+2414,Business,8,102,58,9,68.07,4,70,Mobile,Low
+2415,Business,9,18,0,1,56.5,37,87,Tablet,Medium
+2416,AI & ML,13,24,2,11,48.51,3,33,Mobile,Medium
+2417,Programming,11,103,66,5,40.22,16,88,Desktop,Low
+2418,Design,6,163,36,0,71.93,20,27,Desktop,Low
+2419,AI & ML,6,147,82,6,46.43,47,34,Tablet,High
+2420,Design,8,38,28,10,63.5,30,78,Tablet,High
+2421,Design,12,89,88,3,75.36,47,30,Mobile,High
+2422,Programming,5,45,32,4,56.54,21,39,Mobile,Low
+2423,Business,14,93,99,5,50.51,10,74,Tablet,Medium
+2424,Programming,3,118,60,10,86.48,33,55,Tablet,Low
+2425,AI & ML,12,127,92,0,96.81,48,33,Desktop,Low
+2426,AI & ML,3,46,89,8,46.03,14,77,Mobile,Low
+2427,AI & ML,13,95,3,9,49.34,49,57,Tablet,Medium
+2428,Programming,6,80,13,3,97.6,9,99,Tablet,Low
+2429,Design,2,160,90,7,42.27,37,20,Mobile,High
+2430,Design,6,178,32,4,98.66,31,84,Mobile,Low
+2431,Data Science,13,102,21,10,40.28,47,20,Tablet,Low
+2432,AI & ML,6,89,47,7,92.42,30,79,Tablet,Low
+2433,Design,8,111,2,0,58.44,36,44,Tablet,Low
+2434,Data Science,7,165,86,7,96.32,43,29,Mobile,Low
+2435,Design,8,175,84,10,59.02,27,69,Tablet,Low
+2436,AI & ML,14,168,22,10,79.26,30,31,Tablet,Low
+2437,Business,9,23,67,3,44.8,5,51,Tablet,Low
+2438,AI & ML,6,126,20,1,54.54,13,52,Desktop,Medium
+2439,Programming,14,82,100,10,86.42,22,91,Desktop,Low
+2440,Design,3,100,42,5,71.72,15,45,Mobile,Medium
+2441,Design,10,99,94,1,95.68,24,61,Tablet,Medium
+2442,Programming,3,38,84,4,65.73,38,69,Tablet,Low
+2443,Programming,11,58,25,1,92.19,1,80,Mobile,High
+2444,Business,12,81,40,2,66.94,37,60,Mobile,Medium
+2445,Design,1,142,98,10,98.75,40,76,Mobile,Low
+2446,Design,11,51,37,5,97.59,38,21,Tablet,High
+2447,Business,13,144,87,0,59.75,33,89,Desktop,High
+2448,Data Science,5,51,10,5,93.16,39,50,Mobile,High
+2449,Business,14,173,28,2,90.86,42,42,Tablet,Medium
+2450,AI & ML,4,114,59,6,52.64,24,95,Mobile,Low
+2451,Design,9,36,66,1,77.46,35,73,Tablet,Low
+2452,Programming,9,67,64,5,44.36,15,47,Mobile,Medium
+2453,AI & ML,14,55,60,7,90.2,17,98,Tablet,High
+2454,Design,5,75,18,0,50.47,12,38,Mobile,Medium
+2455,Business,10,34,45,10,44.25,36,95,Desktop,High
+2456,AI & ML,4,82,48,10,64.01,26,67,Mobile,Low
+2457,Design,7,126,21,8,74.62,33,21,Mobile,Low
+2458,Data Science,6,164,77,4,91.3,10,30,Desktop,High
+2459,Data Science,4,138,56,4,98.45,0,63,Mobile,Medium
+2460,Programming,13,96,13,11,66.37,12,78,Desktop,High
+2461,Design,13,83,43,4,43.63,29,78,Tablet,Medium
+2462,Data Science,10,179,15,5,84.95,4,57,Desktop,Low
+2463,Business,2,162,96,1,73.91,17,44,Desktop,Medium
+2464,Design,1,134,76,5,66.87,13,40,Tablet,High
+2465,Business,4,76,11,10,58.56,12,61,Desktop,Medium
+2466,Business,4,15,54,3,70.14,31,55,Desktop,Low
+2467,Data Science,13,134,50,7,60.32,6,28,Tablet,Low
+2468,Design,1,67,38,10,85.42,7,31,Mobile,Medium
+2469,AI & ML,6,79,32,8,72.63,49,29,Mobile,Low
+2470,Data Science,4,62,32,8,92.61,6,78,Desktop,Medium
+2471,Data Science,1,75,28,7,72.61,48,24,Mobile,Low
+2472,Design,1,67,68,2,54.3,15,52,Mobile,Low
+2473,Design,13,91,69,9,91.07,42,88,Desktop,High
+2474,Business,1,96,30,10,73.43,30,99,Tablet,Low
+2475,Design,8,11,79,10,52.41,26,82,Mobile,High
+2476,Business,10,159,30,3,77.41,32,48,Desktop,Low
+2477,Data Science,8,46,88,0,61.46,28,37,Tablet,High
+2478,Programming,2,157,45,8,90.66,7,25,Mobile,Low
+2479,AI & ML,11,112,96,4,67.2,32,72,Tablet,Low
+2480,Data Science,13,33,76,5,83.59,40,51,Desktop,High
+2481,Design,7,121,51,2,45.73,18,61,Tablet,Medium
+2482,AI & ML,14,74,9,10,63.76,20,66,Tablet,Low
+2483,Programming,8,138,87,9,98.99,40,50,Desktop,High
+2484,Programming,8,126,73,7,88.51,20,81,Mobile,Medium
+2485,Business,11,125,40,6,49.6,24,75,Mobile,High
+2486,AI & ML,10,114,94,0,56.67,41,30,Tablet,Medium
+2487,Business,11,12,76,9,59.79,22,45,Tablet,Low
+2488,Data Science,13,55,2,11,79.02,10,46,Tablet,Low
+2489,AI & ML,7,64,58,4,85.42,32,76,Tablet,Low
+2490,Data Science,5,84,51,9,84.97,19,46,Mobile,Medium
+2491,Business,1,54,33,8,70.59,24,78,Desktop,Low
+2492,AI & ML,12,163,48,11,88.65,25,81,Desktop,Low
+2493,Business,9,86,27,10,66.22,39,39,Desktop,Low
+2494,AI & ML,13,33,82,11,47.43,11,22,Tablet,Low
+2495,Business,7,44,86,5,73.87,31,35,Tablet,High
+2496,Programming,2,33,95,7,97.14,32,63,Desktop,Medium
+2497,Business,6,37,12,9,87.58,9,98,Mobile,Medium
+2498,Programming,2,25,96,0,74.72,3,49,Desktop,High
+2499,Business,1,68,97,9,78.81,14,59,Mobile,Medium
+2500,AI & ML,14,153,96,10,95.83,5,84,Tablet,High
+2501,AI & ML,7,24,68,6,65.7,26,48,Desktop,Low
+2502,AI & ML,13,20,66,2,59.88,4,49,Desktop,Low
+2503,Design,2,88,60,8,98.63,4,51,Tablet,Low
+2504,Data Science,13,124,59,5,91.81,17,29,Mobile,Low
+2505,AI & ML,14,77,70,4,59.38,27,70,Desktop,High
+2506,Programming,14,52,23,7,67.83,34,27,Desktop,Medium
+2507,AI & ML,2,78,62,7,64.9,21,70,Mobile,Low
+2508,Design,13,150,85,11,48.95,33,55,Desktop,Medium
+2509,Programming,11,147,60,11,97.47,3,74,Desktop,Medium
+2510,Design,5,84,22,2,64.26,17,54,Tablet,Low
+2511,Programming,14,112,29,1,92.52,40,55,Mobile,Medium
+2512,Business,5,50,59,1,51.36,25,75,Desktop,High
+2513,Data Science,7,68,17,4,72.87,41,55,Desktop,High
+2514,Data Science,1,48,95,9,41.44,21,80,Tablet,Medium
+2515,Design,8,12,55,11,85.85,46,81,Desktop,Low
+2516,Data Science,3,16,52,6,74.85,32,100,Tablet,Low
+2517,Design,4,58,6,7,77.54,42,44,Desktop,Low
+2518,Design,9,35,96,9,43.1,13,83,Tablet,Medium
+2519,Design,4,170,68,7,52.66,30,79,Mobile,Low
+2520,Data Science,10,110,91,11,44.46,9,76,Mobile,Low
+2521,Design,12,88,71,7,57.33,23,89,Desktop,High
+2522,Data Science,5,11,78,9,77.65,20,71,Desktop,High
+2523,Design,7,136,51,11,73.97,47,75,Tablet,Medium
+2524,AI & ML,4,169,3,10,76.73,7,82,Tablet,Low
+2525,Design,14,141,33,2,72.96,31,87,Mobile,Low
+2526,Programming,1,29,68,10,56.38,30,39,Desktop,Low
+2527,Design,9,126,32,1,54.67,33,73,Tablet,Medium
+2528,Business,4,173,68,3,48.22,22,20,Mobile,Low
+2529,Design,9,41,37,0,90.94,24,29,Mobile,High
+2530,Programming,6,37,97,2,76.99,6,42,Tablet,High
+2531,Programming,1,86,25,10,51.19,18,70,Desktop,Low
+2532,Data Science,12,10,0,8,50.63,6,43,Mobile,Low
+2533,AI & ML,3,65,3,6,92.38,46,32,Tablet,Medium
+2534,Design,11,44,38,6,84.56,7,48,Mobile,High
+2535,Data Science,2,121,53,0,79.56,13,77,Desktop,High
+2536,AI & ML,9,39,89,6,64.41,0,62,Tablet,Low
+2537,Design,12,63,32,9,55.72,12,29,Desktop,Low
+2538,Business,1,45,32,6,98.77,2,50,Desktop,Medium
+2539,Design,13,89,71,3,87.83,27,93,Mobile,Medium
+2540,Programming,14,67,19,6,58.11,37,33,Desktop,Low
+2541,Programming,9,92,15,7,90.85,14,53,Mobile,Medium
+2542,Business,9,74,20,2,85.54,35,36,Tablet,Medium
+2543,Data Science,8,78,44,9,57.82,2,40,Tablet,Low
+2544,AI & ML,8,137,89,1,65.59,3,86,Mobile,High
+2545,Design,11,60,86,6,51.16,4,77,Mobile,Low
+2546,Programming,14,31,81,4,46.66,49,98,Mobile,Medium
+2547,Data Science,12,116,61,4,83.37,25,27,Desktop,Medium
+2548,Business,1,118,30,4,56.05,24,57,Tablet,Low
+2549,Programming,11,125,41,6,89.2,9,45,Tablet,Medium
+2550,Business,8,110,11,8,99.74,7,83,Desktop,Medium
+2551,Design,10,109,64,10,44.6,11,49,Mobile,High
+2552,AI & ML,14,173,72,7,68.38,2,28,Tablet,Low
+2553,Programming,3,77,2,5,88.12,26,51,Desktop,Medium
+2554,Programming,11,45,89,6,87.34,49,30,Mobile,Medium
+2555,Design,7,178,8,8,85.6,22,53,Tablet,Medium
+2556,Data Science,11,155,50,10,60.94,39,37,Mobile,High
+2557,AI & ML,1,31,15,5,67.23,32,38,Desktop,Low
+2558,Programming,1,75,87,0,75.7,13,73,Tablet,Low
+2559,AI & ML,10,30,77,3,98.44,22,56,Mobile,Medium
+2560,Programming,13,109,2,7,59.65,30,31,Mobile,Low
+2561,AI & ML,5,137,97,6,95.39,12,23,Mobile,High
+2562,Business,5,53,96,2,56.16,11,62,Desktop,Medium
+2563,Programming,8,112,23,9,99.34,34,46,Mobile,Low
+2564,AI & ML,7,56,72,2,80.22,17,70,Tablet,High
+2565,Data Science,8,48,12,10,67.81,20,24,Tablet,Low
+2566,Business,6,38,1,2,76.8,44,25,Mobile,Medium
+2567,Business,6,63,70,11,56.35,46,96,Desktop,Low
+2568,Data Science,2,99,20,0,56.45,41,75,Tablet,Low
+2569,AI & ML,6,94,18,9,46.81,0,87,Tablet,Low
+2570,Design,5,26,88,0,46.84,37,63,Tablet,Medium
+2571,Data Science,13,89,46,5,60.86,40,34,Mobile,Low
+2572,AI & ML,3,168,21,0,85.77,41,61,Tablet,Low
+2573,Data Science,6,82,74,4,76.48,46,30,Mobile,Low
+2574,Data Science,8,58,32,3,46.16,8,92,Mobile,Low
+2575,Programming,9,110,31,4,91.13,22,30,Mobile,High
+2576,AI & ML,1,11,63,6,76.08,13,85,Mobile,Low
+2577,Design,3,151,84,5,97.65,10,46,Mobile,High
+2578,Programming,3,68,38,11,80.21,6,77,Tablet,Medium
+2579,Data Science,11,106,83,8,50.51,30,91,Mobile,Medium
+2580,Data Science,8,108,71,5,68.43,23,40,Mobile,Low
+2581,Data Science,1,112,41,8,78.91,25,40,Mobile,High
+2582,AI & ML,5,11,100,3,41.7,29,91,Mobile,Low
+2583,AI & ML,3,50,8,0,40.89,33,20,Mobile,Medium
+2584,Programming,2,132,24,0,47.76,45,77,Mobile,High
+2585,Design,8,91,88,9,55.1,37,32,Tablet,High
+2586,Programming,3,153,96,6,65.77,4,92,Mobile,Medium
+2587,Business,7,141,1,2,69.25,4,25,Mobile,High
+2588,Data Science,12,149,18,1,48.28,18,77,Tablet,Medium
+2589,Data Science,11,38,19,5,80.4,37,36,Tablet,Low
+2590,Data Science,1,144,92,5,75.77,27,92,Desktop,Low
+2591,Programming,6,23,69,6,57.67,25,31,Tablet,Low
+2592,Programming,3,21,16,4,40.82,41,71,Tablet,Low
+2593,Data Science,8,108,88,7,44.66,22,95,Mobile,Medium
+2594,Programming,6,142,67,6,63.5,45,89,Desktop,Medium
+2595,AI & ML,12,90,93,1,49.24,48,92,Mobile,Low
+2596,AI & ML,2,115,83,0,62.61,29,71,Desktop,High
+2597,Programming,6,41,2,8,77.69,2,56,Mobile,Low
+2598,Data Science,7,83,86,4,72.83,27,22,Tablet,High
+2599,Programming,5,90,50,11,53.87,32,27,Tablet,High
+2600,Programming,3,78,81,10,60.63,41,29,Desktop,High
+2601,Programming,4,54,25,4,76.84,2,66,Mobile,High
+2602,Business,4,115,55,11,91.65,4,60,Mobile,Low
+2603,AI & ML,6,146,99,9,85.19,18,83,Tablet,Medium
+2604,Design,10,170,63,3,73.2,41,61,Tablet,Low
+2605,Design,1,109,7,1,61.74,47,62,Desktop,Low
+2606,Business,11,155,80,4,61.9,0,28,Tablet,Medium
+2607,Programming,4,18,94,1,92.77,37,33,Desktop,Low
+2608,Business,10,71,36,11,42.35,8,23,Desktop,High
+2609,Business,13,38,96,6,99.28,4,21,Desktop,High
+2610,Data Science,4,134,26,10,79.86,45,20,Desktop,Low
+2611,AI & ML,10,123,44,8,80.87,41,94,Tablet,Medium
+2612,Design,1,162,3,8,42.28,33,84,Desktop,Low
+2613,Programming,9,152,85,10,76.33,36,65,Tablet,High
+2614,Design,4,143,89,5,69.09,32,78,Desktop,Medium
+2615,Design,7,129,95,0,46.35,24,94,Tablet,Low
+2616,AI & ML,12,179,87,5,56.68,41,26,Desktop,Low
+2617,Design,14,166,98,4,93.42,28,85,Tablet,Low
+2618,Design,3,88,36,3,73.0,24,34,Mobile,High
+2619,Business,10,102,95,11,64.8,8,91,Desktop,Low
+2620,AI & ML,12,13,70,5,44.36,2,66,Desktop,Low
+2621,Data Science,3,91,32,5,82.85,14,59,Mobile,High
+2622,Programming,14,84,30,5,82.17,3,61,Mobile,High
+2623,Design,8,23,54,1,76.84,44,70,Desktop,High
+2624,Programming,8,140,11,6,70.62,37,54,Tablet,Medium
+2625,Data Science,11,123,10,3,66.03,19,60,Desktop,Medium
+2626,Programming,12,71,87,11,75.6,48,76,Tablet,Medium
+2627,Data Science,1,115,71,8,54.0,22,57,Mobile,Low
+2628,Business,10,73,31,9,96.48,36,91,Tablet,Medium
+2629,Design,2,111,56,1,75.33,46,27,Desktop,Low
+2630,Data Science,8,115,37,4,58.67,7,93,Mobile,Low
+2631,Programming,1,29,59,3,66.98,36,82,Mobile,High
+2632,Design,12,67,85,8,88.34,44,23,Desktop,Low
+2633,Business,8,121,97,3,49.7,32,67,Desktop,High
+2634,Design,8,66,18,7,57.57,32,71,Mobile,Low
+2635,Data Science,2,128,83,7,80.77,6,57,Tablet,Low
+2636,Business,4,106,55,5,58.93,21,24,Tablet,Medium
+2637,Programming,6,101,13,5,87.55,4,89,Tablet,Medium
+2638,Business,12,61,32,10,47.83,45,100,Desktop,Medium
+2639,Business,11,46,9,7,85.76,14,43,Mobile,High
+2640,AI & ML,9,17,79,11,44.1,20,96,Tablet,Low
+2641,Business,8,53,63,11,40.76,24,36,Mobile,High
+2642,Business,12,107,63,9,93.89,16,97,Tablet,Low
+2643,Design,8,142,61,8,74.88,49,45,Mobile,High
+2644,Programming,7,127,67,4,61.11,6,22,Desktop,Low
+2645,Design,14,78,90,10,53.96,49,21,Desktop,High
+2646,Design,13,168,91,0,77.01,18,21,Desktop,Medium
+2647,Data Science,9,54,42,0,70.54,6,41,Tablet,Low
+2648,Design,2,146,79,1,99.5,39,90,Desktop,High
+2649,AI & ML,3,41,58,9,98.99,44,23,Desktop,Low
+2650,AI & ML,10,42,51,9,78.1,49,57,Desktop,Low
+2651,Data Science,8,135,96,4,66.57,23,89,Mobile,High
+2652,Programming,14,76,18,3,69.47,10,92,Mobile,Low
+2653,Programming,6,39,20,0,80.95,40,71,Mobile,Low
+2654,Design,10,123,21,3,46.09,0,50,Mobile,Medium
+2655,Design,9,38,8,3,59.7,31,45,Mobile,High
+2656,Design,10,140,8,9,44.52,39,55,Mobile,Low
+2657,Programming,4,39,72,3,44.4,43,45,Mobile,Medium
+2658,Business,8,146,26,0,51.75,1,47,Desktop,Medium
+2659,AI & ML,10,163,16,8,69.12,14,24,Desktop,High
+2660,Business,3,139,43,2,87.09,20,93,Tablet,High
+2661,Business,3,71,44,3,69.13,23,37,Desktop,Medium
+2662,Programming,8,12,7,4,60.13,49,34,Mobile,Medium
+2663,Business,5,77,79,6,44.94,16,76,Mobile,Low
+2664,Data Science,3,34,17,5,73.02,46,24,Tablet,Low
+2665,Design,10,150,32,4,56.28,8,56,Desktop,Medium
+2666,Data Science,11,53,0,7,76.9,34,41,Desktop,High
+2667,AI & ML,1,172,75,0,98.63,19,71,Tablet,Medium
+2668,Design,3,64,5,6,46.68,18,34,Mobile,Low
+2669,Business,12,146,40,11,52.73,17,36,Mobile,Low
+2670,AI & ML,9,139,54,5,68.39,19,70,Mobile,Medium
+2671,Design,5,50,4,10,98.12,29,64,Mobile,Medium
+2672,Business,12,73,58,4,86.31,39,82,Tablet,Medium
+2673,Data Science,10,40,79,6,93.89,0,47,Desktop,Medium
+2674,Design,2,56,17,2,60.02,23,78,Mobile,Low
+2675,Business,7,139,48,0,99.52,23,40,Desktop,High
+2676,Data Science,2,105,81,8,46.17,46,61,Desktop,Medium
+2677,AI & ML,4,86,64,1,43.18,18,100,Mobile,Low
+2678,AI & ML,12,119,82,9,91.34,29,88,Mobile,Low
+2679,AI & ML,7,78,53,2,95.64,25,36,Mobile,High
+2680,AI & ML,4,67,60,7,45.44,41,87,Desktop,High
+2681,Programming,7,115,7,11,46.81,43,26,Tablet,Low
+2682,Design,7,53,2,9,41.99,37,59,Mobile,Low
+2683,Design,1,83,24,8,46.27,28,59,Desktop,Low
+2684,Programming,6,65,68,2,52.57,12,62,Desktop,Low
+2685,Business,9,136,54,5,98.2,3,92,Mobile,Medium
+2686,Business,2,171,39,6,80.07,44,70,Tablet,Medium
+2687,AI & ML,14,39,82,0,86.71,16,92,Mobile,Medium
+2688,Data Science,3,80,81,6,86.57,32,42,Mobile,Medium
+2689,Business,10,127,49,3,72.1,4,51,Tablet,Low
+2690,Data Science,5,64,94,4,87.85,27,50,Mobile,Low
+2691,Design,9,76,32,7,75.75,23,36,Mobile,Low
+2692,Data Science,4,150,17,3,58.87,16,77,Tablet,Low
+2693,Design,1,12,56,3,73.67,49,54,Desktop,Low
+2694,Programming,4,35,15,7,72.01,38,49,Desktop,Medium
+2695,Programming,6,66,79,4,89.41,47,83,Desktop,High
+2696,AI & ML,5,135,37,5,98.9,39,72,Desktop,Medium
+2697,Business,14,161,40,11,64.66,43,70,Desktop,High
+2698,AI & ML,13,62,6,10,85.8,45,56,Mobile,Medium
+2699,Design,1,52,77,4,45.99,10,25,Tablet,Medium
+2700,AI & ML,4,58,52,0,86.61,11,53,Desktop,Low
+2701,Data Science,6,51,62,6,62.29,12,75,Tablet,High
+2702,Design,13,20,88,5,42.36,7,44,Desktop,Low
+2703,Programming,10,112,31,1,61.79,0,32,Mobile,Low
+2704,Business,10,107,37,10,76.64,8,82,Desktop,Low
+2705,Design,14,155,21,6,47.16,27,85,Desktop,High
+2706,Design,4,94,15,5,95.44,1,24,Tablet,High
+2707,Data Science,14,109,51,4,44.66,13,94,Tablet,Medium
+2708,Business,9,113,28,7,95.8,12,30,Mobile,Medium
+2709,Programming,5,55,15,4,82.43,47,97,Tablet,Medium
+2710,Design,8,53,75,10,59.78,1,63,Tablet,High
+2711,Design,9,31,16,1,63.45,3,88,Tablet,Medium
+2712,Data Science,10,123,100,5,84.45,11,21,Mobile,High
+2713,AI & ML,5,134,63,11,76.09,47,59,Mobile,Low
+2714,Programming,6,133,90,0,80.3,9,56,Mobile,Low
+2715,Business,1,39,88,4,63.35,2,68,Tablet,High
+2716,Design,11,17,12,5,69.27,3,94,Tablet,Low
+2717,Design,12,107,71,6,99.39,5,55,Mobile,High
+2718,Programming,7,66,55,1,52.84,22,94,Tablet,Medium
+2719,AI & ML,4,120,4,0,65.07,4,92,Tablet,High
+2720,Design,11,82,11,5,57.51,49,89,Desktop,Low
+2721,Programming,2,124,40,2,85.91,2,53,Mobile,Medium
+2722,Data Science,5,29,2,4,85.84,9,77,Mobile,Low
+2723,AI & ML,12,34,98,11,57.55,42,56,Tablet,Medium
+2724,Business,3,28,32,10,44.88,18,79,Tablet,Medium
+2725,Design,6,14,85,1,40.69,13,31,Desktop,High
+2726,Programming,8,84,49,0,65.65,20,51,Mobile,Medium
+2727,Data Science,7,137,55,0,64.62,42,100,Mobile,Low
+2728,Business,3,81,8,10,99.3,27,23,Tablet,High
+2729,Programming,8,164,81,3,68.19,20,52,Mobile,Low
+2730,Programming,2,49,49,9,55.39,35,62,Tablet,Low
+2731,Business,10,35,28,1,93.47,23,28,Desktop,Low
+2732,Data Science,9,36,38,0,69.46,37,70,Tablet,High
+2733,Data Science,4,92,90,5,75.95,16,39,Desktop,Low
+2734,AI & ML,1,137,99,3,45.74,21,58,Tablet,Low
+2735,Design,8,179,44,9,62.97,18,42,Desktop,High
+2736,Business,7,166,16,11,96.65,44,60,Desktop,High
+2737,Business,11,176,55,6,75.37,9,63,Mobile,Low
+2738,Business,13,178,97,10,60.67,10,54,Tablet,Medium
+2739,Data Science,5,42,45,5,77.54,37,42,Mobile,High
+2740,Design,10,106,66,4,94.62,1,77,Mobile,Low
+2741,AI & ML,13,120,68,9,56.44,32,67,Tablet,High
+2742,Programming,5,25,13,11,70.31,42,77,Mobile,Medium
+2743,Programming,7,32,66,11,97.52,30,76,Mobile,Medium
+2744,Business,5,144,22,11,50.34,47,58,Mobile,Low
+2745,Design,8,35,93,11,83.18,34,47,Tablet,Medium
+2746,Data Science,11,105,60,1,76.87,36,83,Mobile,Low
+2747,Design,13,21,22,4,80.78,46,81,Mobile,Medium
+2748,Design,6,81,26,8,61.07,46,81,Mobile,Low
+2749,Data Science,13,142,53,8,58.83,35,45,Tablet,Low
+2750,Business,5,115,9,1,81.05,22,70,Desktop,Low
+2751,Design,9,126,88,6,52.93,35,69,Desktop,High
+2752,Programming,11,35,76,9,65.18,39,55,Desktop,Low
+2753,Data Science,2,142,15,3,51.29,38,45,Desktop,Low
+2754,AI & ML,1,31,40,2,40.5,25,52,Mobile,Low
+2755,Business,8,22,97,10,98.2,24,87,Tablet,Medium
+2756,Data Science,12,165,54,0,65.9,16,92,Mobile,Low
+2757,AI & ML,3,170,100,2,98.16,14,27,Tablet,Medium
+2758,AI & ML,14,116,60,10,48.42,36,85,Mobile,Low
+2759,Design,11,32,85,8,75.24,44,42,Desktop,Low
+2760,Design,12,106,80,8,52.06,3,89,Desktop,Medium
+2761,Design,12,27,86,6,87.4,21,74,Tablet,High
+2762,Data Science,12,126,99,2,87.02,16,62,Mobile,Low
+2763,Data Science,7,39,48,2,46.76,21,40,Desktop,Low
+2764,Business,10,35,72,3,94.72,16,41,Tablet,Low
+2765,Design,13,153,51,6,51.68,13,28,Mobile,Medium
+2766,AI & ML,11,48,1,6,76.78,13,53,Tablet,Low
+2767,Programming,8,170,95,11,99.14,16,78,Mobile,High
+2768,Business,13,163,49,11,92.94,7,45,Mobile,Low
+2769,Data Science,13,175,85,1,97.39,33,20,Mobile,Low
+2770,Business,6,139,42,11,60.56,25,24,Tablet,Low
+2771,Business,12,122,76,4,46.33,44,60,Tablet,Medium
+2772,Business,10,143,7,6,51.3,29,82,Mobile,Medium
+2773,Business,14,55,58,6,70.03,21,41,Desktop,Low
+2774,Programming,9,59,64,5,87.59,15,87,Mobile,High
+2775,Design,7,175,80,9,49.01,29,67,Tablet,Low
+2776,AI & ML,10,115,11,9,79.58,15,85,Mobile,Medium
+2777,Business,5,155,3,11,59.41,37,35,Tablet,Medium
+2778,Business,8,164,76,7,60.47,23,99,Mobile,Low
+2779,Business,2,178,94,2,79.72,35,72,Mobile,High
+2780,Design,7,81,40,0,68.02,34,84,Desktop,High
+2781,Data Science,4,83,6,2,88.72,5,98,Desktop,Low
+2782,Data Science,9,26,86,10,49.36,3,83,Tablet,Medium
+2783,Programming,12,166,87,1,87.4,17,87,Mobile,Low
+2784,Data Science,1,79,68,1,43.85,5,82,Tablet,Medium
+2785,Business,7,159,68,1,51.64,25,81,Mobile,Low
+2786,Business,6,15,80,4,79.37,36,100,Mobile,High
+2787,Business,8,35,29,0,91.3,26,90,Mobile,Low
+2788,Programming,5,176,72,9,55.16,40,64,Desktop,Low
+2789,Business,1,149,5,3,59.63,10,71,Tablet,Low
+2790,Data Science,1,108,88,9,72.23,37,93,Mobile,Low
+2791,Design,9,151,18,4,52.69,15,84,Mobile,Medium
+2792,Design,10,31,79,1,88.67,18,21,Tablet,Low
+2793,AI & ML,6,60,84,4,86.42,42,68,Tablet,Medium
+2794,Data Science,10,160,65,9,48.72,14,41,Mobile,Low
+2795,Business,5,113,9,3,67.83,25,48,Desktop,Medium
+2796,Design,1,98,15,7,86.49,40,54,Desktop,Medium
+2797,Data Science,6,150,36,0,60.24,30,100,Mobile,High
+2798,Design,6,147,78,11,77.99,18,95,Desktop,High
+2799,Business,3,18,76,4,43.01,23,43,Tablet,High
+2800,Design,13,88,76,10,76.52,8,49,Desktop,Medium
